@@ -33,46 +33,46 @@ Følgende tabell viser et sammendrag av sikkerhetsbulletinene for denne måneden
 
 Hvis du vil ha informasjon om berørt programvare, kan du se den neste delen, **Berørt programvare og nedlastingssteder**.
 
-<table>
+<table style="border:1px solid black;">
 <thead>
 <tr class="header">
-<th>Bulletin-ID</th>
-<th>Bulletintittel og kortfattet sammendrag</th>
-<th>Maksimal alvorlighetsgrad og følger av sikkerhetsproblemet</th>
-<th>Krav om omstart</th>
-<th>Berørt programvare</th>
+<th style="border:1px solid black;">Bulletin-ID</th>
+<th style="border:1px solid black;">Bulletintittel og kortfattet sammendrag</th>
+<th style="border:1px solid black;">Maksimal alvorlighetsgrad og følger av sikkerhetsproblemet</th>
+<th style="border:1px solid black;">Krav om omstart</th>
+<th style="border:1px solid black;">Berørt programvare</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><a href="http://go.microsoft.com/fwlink/?linkid=132503">MS09-006</a></td>
-<td><strong>Sikkerhetsproblemer i Windows-kjernen kan tillate ekstern kjøring av kode (958690)</strong><br />
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=132503">MS09-006</a></td>
+<td style="border:1px solid black;"><strong>Sikkerhetsproblemer i Windows-kjernen kan tillate ekstern kjøring av kode (958690)</strong><br />
 <br />
 Denne sikkerhetsoppdateringen løser flere personlig rapporterte sikkerhetsproblemer i Windows-kjernen. Det alvorligste sikkerhetsproblemet kan tillate ekstern kjøring av kode hvis en bruker viser en spesiallaget EMF- eller WMF-bildefil på et berørt system.</td>
-<td><a href="http://go.microsoft.com/fwlink/?linkid=21140">Kritisk</a><br />
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">Kritisk</a><br />
 Ekstern kjøring av kode</td>
-<td>Krever omstart</td>
-<td>Microsoft Windows</td>
+<td style="border:1px solid black;">Krever omstart</td>
+<td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="even">
-<td><a href="http://go.microsoft.com/fwlink/?linkid=139854">MS09-007</a></td>
-<td><strong>Sikkerhetsproblem i SChannel kan tillate etterligningsangrep (960225)</strong><br />
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=139854">MS09-007</a></td>
+<td style="border:1px solid black;"><strong>Sikkerhetsproblem i SChannel kan tillate etterligningsangrep (960225)</strong><br />
 <br />
 Denne sikkerhetsoppdateringen løser et personlig rapportert sikkerhetsproblem i Secure Channel-sikkerhetspakken (SChannel) i Windows. Sikkerhetsproblemet kan tillate etterligningsangrep hvis en angriper får tilgang til sertifikatet som sluttbrukeren bruker til godkjenning. Kunder er bare berørt når fellesnøkkelkomponenten i sertifikatet som brukes til godkjenning, er anskaffet av angriperen på andre måter.</td>
-<td><a href="http://go.microsoft.com/fwlink/?linkid=21140">Viktig</a><br />
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">Viktig</a><br />
 Etterligningsangrep</td>
-<td>Krever omstart</td>
-<td>Microsoft Windows</td>
+<td style="border:1px solid black;">Krever omstart</td>
+<td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="odd">
-<td><a href="http://go.microsoft.com/fwlink/?linkid=139821">MS09-008</a></td>
-<td><strong>Sikkerhetsproblemer i DNS- og WINS-serveren kan tillate etterligningsangrep (962238)</strong><br />
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=139821">MS09-008</a></td>
+<td style="border:1px solid black;"><strong>Sikkerhetsproblemer i DNS- og WINS-serveren kan tillate etterligningsangrep (962238)</strong><br />
 <br />
 Denne sikkerhetsoppdateringen løser to personlig rapporterte sikkerhetsproblemer og to offentliggjorte sikkerhetsproblemer i Windows DNS-serveren og Windows WINS-serveren. Disse sikkerhetsproblemene kan tillate at en ekstern angriper omadresserer nettverkstrafikk som er ment for systemer på Internett, til angriperens egne systemer.</td>
-<td><a href="http://go.microsoft.com/fwlink/?linkid=21140">Viktig</a><br />
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">Viktig</a><br />
 Etterligningsangrep</td>
-<td>Krever omstart</td>
-<td>Microsoft Windows</td>
+<td style="border:1px solid black;">Krever omstart</td>
+<td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 </tbody>
 </table>
@@ -82,76 +82,76 @@ Etterligningsangrep</td>
 
 Følgende tabell gir en utnyttelsesvurdering av hvert av sikkerhetsproblemene som løses denne måneden. Sikkerhetsproblemene er oppført etter bulletin-ID og CVE-ID.
 
-**Hvordan bruker jeg denne tabellen?**
+**Hvordan bruker jeg denne tabellen?**  
 
 Bruk denne tabellen til å få mer informasjon om sannsynligheten for at fungerende skadelig kode blir utgitt innen 30 dager etter at sikkerhetsbulletinen utgis, for hver av sikkerhetsoppdateringene som du kanskje må installere. Du bør se gjennom hver av vurderingene nedenfor, i henhold til din bestemte konfigurasjon, for å prioritere distribusjonen. Hvis du vil ha mer informasjon om hva disse vurderingene betyr, kan du se [Microsoft Exploitability Index](http://technet.microsoft.com/en-us/security/cc998259.aspx).
 
-<table>
+<table style="border:1px solid black;">
 <thead>
 <tr class="header">
-<th>Bulletin-ID</th>
-<th>Bulletintittel</th>
-<th>CVE-ID</th>
-<th>Utnyttelsesindeksvurdering</th>
-<th>Viktige merknader</th>
+<th style="border:1px solid black;">Bulletin-ID</th>
+<th style="border:1px solid black;">Bulletintittel</th>
+<th style="border:1px solid black;">CVE-ID</th>
+<th style="border:1px solid black;">Utnyttelsesindeksvurdering</th>
+<th style="border:1px solid black;">Viktige merknader</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><a href="http://go.microsoft.com/fwlink/?linkid=132503">MS09-006</a></td>
-<td>Sikkerhetsproblemer i Windows-kjernen kan tillate ekstern kjøring av kode (958690)</td>
-<td><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-0081">CVE-2009-0081</a></td>
-<td><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>3</strong></a> – Fungerende skadelig kode er usannsynlig</td>
-<td>Det er mer sannsynlig at det det vil forekomme konsekvent tjenestenekt enn kjøring av pålitelig, funksjonell kode</td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=132503">MS09-006</a></td>
+<td style="border:1px solid black;">Sikkerhetsproblemer i Windows-kjernen kan tillate ekstern kjøring av kode (958690)</td>
+<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-0081">CVE-2009-0081</a></td>
+<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>3</strong></a> – Fungerende skadelig kode er usannsynlig</td>
+<td style="border:1px solid black;">Det er mer sannsynlig at det det vil forekomme konsekvent tjenestenekt enn kjøring av pålitelig, funksjonell kode</td>
 </tr>
 <tr class="even">
-<td><a href="http://go.microsoft.com/fwlink/?linkid=132503">MS09-006</a></td>
-<td>Sikkerhetsproblemer i Windows-kjernen kan tillate ekstern kjøring av kode (958690)</td>
-<td><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-0082">CVE-2009-0082</a></td>
-<td><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>2</strong></a> - Inkonsekvent skadelig kode er sannsynlig</td>
-<td>Det er mer sannsynlig at det det vil forekomme konsekvent tjenestenekt enn kjøring av pålitelig, funksjonell kode</td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=132503">MS09-006</a></td>
+<td style="border:1px solid black;">Sikkerhetsproblemer i Windows-kjernen kan tillate ekstern kjøring av kode (958690)</td>
+<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-0082">CVE-2009-0082</a></td>
+<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>2</strong></a> - Inkonsekvent skadelig kode er sannsynlig</td>
+<td style="border:1px solid black;">Det er mer sannsynlig at det det vil forekomme konsekvent tjenestenekt enn kjøring av pålitelig, funksjonell kode</td>
 </tr>
 <tr class="odd">
-<td><a href="http://go.microsoft.com/fwlink/?linkid=132503">MS09-006</a></td>
-<td>Sikkerhetsproblemer i Windows-kjernen kan tillate ekstern kjøring av kode (958690)</td>
-<td><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-0083">CVE-2009-0083</a></td>
-<td><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>3</strong></a> – Fungerende skadelig kode er usannsynlig</td>
-<td>Det er bare lokal fare for konsekvent tjenestenekt eller tilgjengeliggjøring av informasjon, som er mer sannsynlig enn kjøring av pålitelig, funksjonell kode</td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=132503">MS09-006</a></td>
+<td style="border:1px solid black;">Sikkerhetsproblemer i Windows-kjernen kan tillate ekstern kjøring av kode (958690)</td>
+<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-0083">CVE-2009-0083</a></td>
+<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>3</strong></a> – Fungerende skadelig kode er usannsynlig</td>
+<td style="border:1px solid black;">Det er bare lokal fare for konsekvent tjenestenekt eller tilgjengeliggjøring av informasjon, som er mer sannsynlig enn kjøring av pålitelig, funksjonell kode</td>
 </tr>
 <tr class="even">
-<td><a href="http://go.microsoft.com/fwlink/?linkid=139854">MS09-007</a></td>
-<td>Sikkerhetsproblem i SChannel kan tillate etterligningsangrep (960225)</td>
-<td><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-0085">CVE-2009-0085</a></td>
-<td><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>2</strong></a> - Inkonsekvent skadelig kode er sannsynlig</td>
-<td>Det kreves mye for å kunne utnytte denne situasjonen, og antallet viktige kundescenarioer der dette kan skje, er lavt</td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=139854">MS09-007</a></td>
+<td style="border:1px solid black;">Sikkerhetsproblem i SChannel kan tillate etterligningsangrep (960225)</td>
+<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-0085">CVE-2009-0085</a></td>
+<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>2</strong></a> - Inkonsekvent skadelig kode er sannsynlig</td>
+<td style="border:1px solid black;">Det kreves mye for å kunne utnytte denne situasjonen, og antallet viktige kundescenarioer der dette kan skje, er lavt</td>
 </tr>
 <tr class="odd">
-<td><a href="http://go.microsoft.com/fwlink/?linkid=139821">MS09-008</a></td>
-<td>Sikkerhetsproblemer i DNS- og WINS-serveren kan tillate etterligningsangrep (962238)</td>
-<td><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-0093">CVE-2009-0093</a></td>
-<td><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>2</strong></a> - Inkonsekvent skadelig kode er sannsynlig</td>
-<td>Det er sannsynlig at det vil forekomme konsekvente etterligningsangrep med konseptbeviskode, men bruk av funksjonell skadelig kode som fører til kjøring av skadelig kode, er svært usannsynlig</td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=139821">MS09-008</a></td>
+<td style="border:1px solid black;">Sikkerhetsproblemer i DNS- og WINS-serveren kan tillate etterligningsangrep (962238)</td>
+<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-0093">CVE-2009-0093</a></td>
+<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>2</strong></a> - Inkonsekvent skadelig kode er sannsynlig</td>
+<td style="border:1px solid black;">Det er sannsynlig at det vil forekomme konsekvente etterligningsangrep med konseptbeviskode, men bruk av funksjonell skadelig kode som fører til kjøring av skadelig kode, er svært usannsynlig</td>
 </tr>
 <tr class="even">
-<td><a href="http://go.microsoft.com/fwlink/?linkid=139821">MS09-008</a></td>
-<td>Sikkerhetsproblemer i DNS- og WINS-serveren kan tillate etterligningsangrep (962238)</td>
-<td><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-0094">CVE-2009-0094</a></td>
-<td><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>2</strong></a> - Inkonsekvent skadelig kode er sannsynlig</td>
-<td>Det er sannsynlig at det vil forekomme konsekvente etterligningsangrep med konseptbeviskode, men bruk av funksjonell skadelig kode som fører til kjøring av skadelig kode, er svært usannsynlig</td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=139821">MS09-008</a></td>
+<td style="border:1px solid black;">Sikkerhetsproblemer i DNS- og WINS-serveren kan tillate etterligningsangrep (962238)</td>
+<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-0094">CVE-2009-0094</a></td>
+<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>2</strong></a> - Inkonsekvent skadelig kode er sannsynlig</td>
+<td style="border:1px solid black;">Det er sannsynlig at det vil forekomme konsekvente etterligningsangrep med konseptbeviskode, men bruk av funksjonell skadelig kode som fører til kjøring av skadelig kode, er svært usannsynlig</td>
 </tr>
 <tr class="odd">
-<td><a href="http://go.microsoft.com/fwlink/?linkid=139821">MS09-008</a></td>
-<td>Sikkerhetsproblemer i DNS- og WINS-serveren kan tillate etterligningsangrep (962238)</td>
-<td><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-0233">CVE-2009-0233</a></td>
-<td><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>2</strong></a> - Inkonsekvent skadelig kode er sannsynlig</td>
-<td>Det er sannsynlig at det vil forekomme konsekvente etterligningsangrep med konseptbeviskode, men bruk av funksjonell skadelig kode som fører til kjøring av skadelig kode, er svært usannsynlig</td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=139821">MS09-008</a></td>
+<td style="border:1px solid black;">Sikkerhetsproblemer i DNS- og WINS-serveren kan tillate etterligningsangrep (962238)</td>
+<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-0233">CVE-2009-0233</a></td>
+<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>2</strong></a> - Inkonsekvent skadelig kode er sannsynlig</td>
+<td style="border:1px solid black;">Det er sannsynlig at det vil forekomme konsekvente etterligningsangrep med konseptbeviskode, men bruk av funksjonell skadelig kode som fører til kjøring av skadelig kode, er svært usannsynlig</td>
 </tr>
 <tr class="even">
-<td><a href="http://go.microsoft.com/fwlink/?linkid=139821">MS09-008</a></td>
-<td>Sikkerhetsproblemer i DNS- og WINS-serveren kan tillate etterligningsangrep (962238)</td>
-<td><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-0234">CVE-2009-0234</a></td>
-<td><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>2</strong></a> - Inkonsekvent skadelig kode er sannsynlig</td>
-<td>Det er sannsynlig at det vil forekomme konsekvente etterligningsangrep med konseptbeviskode, men bruk av funksjonell skadelig kode som fører til kjøring av skadelig kode, er svært usannsynlig</td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=139821">MS09-008</a></td>
+<td style="border:1px solid black;">Sikkerhetsproblemer i DNS- og WINS-serveren kan tillate etterligningsangrep (962238)</td>
+<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-0234">CVE-2009-0234</a></td>
+<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>2</strong></a> - Inkonsekvent skadelig kode er sannsynlig</td>
+<td style="border:1px solid black;">Det er sannsynlig at det vil forekomme konsekvente etterligningsangrep med konseptbeviskode, men bruk av funksjonell skadelig kode som fører til kjøring av skadelig kode, er svært usannsynlig</td>
 </tr>
 </tbody>
 </table>
@@ -161,7 +161,7 @@ Bruk denne tabellen til å få mer informasjon om sannsynligheten for at fungere
 
 Følgende tabeller viser bulletinene etter store programvarekategorier og alvorlighetsgrad.
 
-**Hvordan bruker jeg disse tabellene?**
+**Hvordan bruker jeg disse tabellene?**  
 
 Bruk disse tabellene til å lære om sikkerhetsoppdateringer som du kanskje må installere. Du bør gå gjennom alle oppførte programmer eller programvarekomponenter for å se om det kommer noen sikkerhetsoppdateringer som angår installasjonen din. Hvis programvare eller en komponent står oppført, finnes en hyperkobling til den tilgjengelige programvareoppdateringen, og alvorlighetsgraden av programvareoppdateringen er også oppført.
 
@@ -169,230 +169,230 @@ Bruk disse tabellene til å lære om sikkerhetsoppdateringer som du kanskje må 
 
 #### Operativsystemer og komponenter for Windows
 
-<table xmlns="http://www.w3.org/1999/xhtml">
+<table style="border:1px solid black;" class="dataTable">
   <tr class="thead">
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
+    <th style="border:1px solid black;"></th>
+    <th style="border:1px solid black;"></th>
+    <th style="border:1px solid black;"></th>
+    <th style="border:1px solid black;"></th>
   </tr>
-                <tr><th colspan="4">Microsoft Windows 2000</th></tr>
+                <tr><th colspan="4" style="border:1px solid black;">Microsoft Windows 2000</th></tr>
               
-                <tr><td>
+                <tr><td style="border:1px solid black;">
                     <strong>Bulletinidentifikator</strong>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=132503">
                       <strong>MS09-006</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=139854">
                       <strong>MS09-007</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=139821">
                       <strong>MS09-008</strong>
                     </a>
                   </td></tr>
-                <tr class="alternateRow"><td>
+                <tr class="alternateRow"><td style="border:1px solid black;">
                     <strong>Samlet alvorlighetsgrad</strong>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Kritisk</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Viktig</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Viktig</strong>
                     </a>
                   </td></tr>
-                <tr><td>Microsoft Windows 2000 Service Pack 4</td><td>
+                <tr><td style="border:1px solid black;">Microsoft Windows 2000 Service Pack 4</td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=98bb7d40-89a0-470a-8eb7-06f15072a635">Microsoft Windows 2000 Service Pack 4</a>
-                    <br />(Kritisk)</td><td>
+                    <br />(Kritisk)</td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=bf7065bc-c183-4a78-8d46-72fe7385c07c">Microsoft Windows 2000 Service Pack 4</a>
-                    <br />(Viktig)</td><td>
+                    <br />(Viktig)</td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=110354f7-5ece-4c4d-b563-3adba6ac0116">DNS-server på Microsoft Windows 2000 Server Service Pack 4</a>
                     <br />(961063)<br />(Viktig)<br /><br /><a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=4319abb3-1ea2-466a-a815-c0b3b86b4462">WINS-server på Microsoft Windows 2000 Server Service Pack 4</a><br />(961064)<br />(Viktig)</td></tr>
               
-                <tr><th colspan="4">Windows XP</th></tr>
+                <tr><th colspan="4" style="border:1px solid black;">Windows XP</th></tr>
               
-                <tr class="alternateRow"><td>
+                <tr class="alternateRow"><td style="border:1px solid black;">
                     <strong>Bulletinidentifikator</strong>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=132503">
                       <strong>MS09-006</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=139854">
                       <strong>MS09-007</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=139821">
                       <strong>MS09-008</strong>
                     </a>
                   </td></tr>
-                <tr><td>
+                <tr><td style="border:1px solid black;">
                     <strong>Samlet alvorlighetsgrad</strong>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Kritisk</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Viktig</strong>
                     </a>
-                  </td><td>Ingen </td></tr>
-                <tr class="alternateRow"><td>Windows XP Service Pack 2 og Windows XP Service Pack 3</td><td>
+                  </td><td style="border:1px solid black;">Ingen </td></tr>
+                <tr class="alternateRow"><td style="border:1px solid black;">Windows XP Service Pack 2 og Windows XP Service Pack 3</td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=e09641ba-6cbe-4095-82b5-703d3a7dc33b">Windows XP Service Pack 2 og Windows XP Service Pack 3</a>
-                    <br />(Kritisk)</td><td>
+                    <br />(Kritisk)</td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=942d87f6-3cb1-4d36-a70a-70d9c34488f3">Windows XP Service Pack 2 og Windows XP Service Pack 3</a>
-                    <br />(Viktig)</td><td>Ikke relevant </td></tr>
-                <tr><td>Windows XP Professional x64 Edition og Windows XP Professional x64 Edition Service Pack 2</td><td>
+                    <br />(Viktig)</td><td style="border:1px solid black;">Ikke relevant </td></tr>
+                <tr><td style="border:1px solid black;">Windows XP Professional x64 Edition og Windows XP Professional x64 Edition Service Pack 2</td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=d0d704c6-48c2-4907-b6c3-2455d7cf21c8">Windows XP Professional x64 Edition og Windows XP Professional x64 Edition Service Pack 2</a>
-                    <br />(Kritisk)</td><td>
+                    <br />(Kritisk)</td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=6d02306e-9e2e-4ae8-bd21-8a2c1a229472">Windows XP Professional x64 Edition og Windows XP Professional x64 Edition Service Pack 2</a>
-                    <br />(Viktig)</td><td>Ikke relevant</td></tr>
+                    <br />(Viktig)</td><td style="border:1px solid black;">Ikke relevant</td></tr>
               
-                <tr><th colspan="4">Windows Server 2003</th></tr>
+                <tr><th colspan="4" style="border:1px solid black;">Windows Server 2003</th></tr>
               
-                <tr class="alternateRow"><td>
+                <tr class="alternateRow"><td style="border:1px solid black;">
                     <strong>Bulletinidentifikator</strong>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=132503">
                       <strong>MS09-006</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=139854">
                       <strong>MS09-007</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=139821">
                       <strong>MS09-008</strong>
                     </a>
                   </td></tr>
-                <tr><td>
+                <tr><td style="border:1px solid black;">
                     <strong>Samlet alvorlighetsgrad</strong>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Kritisk</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Viktig</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Viktig</strong>
                     </a>
                   </td></tr>
-                <tr class="alternateRow"><td>Windows Server 2003 Service Pack 1 og Windows Server 2003 Service Pack 2</td><td>
+                <tr class="alternateRow"><td style="border:1px solid black;">Windows Server 2003 Service Pack 1 og Windows Server 2003 Service Pack 2</td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=f5cfb8da-e7cc-4183-8631-507c2a406500">Windows Server 2003 Service Pack 1 og Windows Server 2003 Service Pack 2</a>
-                    <br />(Kritisk)</td><td>
+                    <br />(Kritisk)</td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=0b3f6fdd-276e-4267-99d8-8f00d91ad6a2">Windows Server 2003 Service Pack 1 og Windows Server 2003 Service Pack 2</a>
-                    <br />(Viktig)</td><td>
+                    <br />(Viktig)</td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=6cc42c9e-c34e-4577-8b23-9e07e2369878">DNS-server på Windows Server 2003 Service Pack 1 og Windows Server 2003 Service Pack 2</a>
                     <br />(961063)<br />(Viktig)<br /><br /><a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=049e5db5-7315-4188-99fd-4a54833e6bf2">WINS-server på Windows Server 2003 Service Pack 1 og Windows Server 2003 Service Pack 2</a><br />(961064)<br />(Viktig)</td></tr>
-                <tr><td>Windows Server 2003 x64 Edition og Windows Server 2003 x64 Edition Service Pack 2</td><td>
+                <tr><td style="border:1px solid black;">Windows Server 2003 x64 Edition og Windows Server 2003 x64 Edition Service Pack 2</td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=ecf75c70-8489-41ad-9759-3a07e13957be">Windows Server 2003 x64 Edition og Windows Server 2003 x64 Edition Service Pack 2</a>
-                    <br />(Kritisk)</td><td>
+                    <br />(Kritisk)</td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=ce98ff55-f565-469d-bbd2-32b681faf908">Windows Server 2003 x64 Edition og Windows Server 2003 x64 Edition Service Pack 2</a>
-                    <br />(Viktig)</td><td>
+                    <br />(Viktig)</td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=b1f81fd2-0099-4450-8543-0459561d22d0">DNS-server på Windows Server 2003 x64 Edition og Windows Server 2003 x64 Edition Service Pack 2</a>
                     <br />(961063)<br />(Viktig)<br /><br /><a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=4a393c63-eff5-4c8c-9c3f-33ce45c32428">WINS-server på Windows Server 2003 x64 Edition og Windows Server 2003 x64 Edition Service Pack 2</a><br />(961064)<br />(Viktig)</td></tr>
-                <tr class="alternateRow"><td>Windows Server 2003 SP1 for Itanium-based Systems og Windows Server 2003 SP2 for Itanium-based Systems</td><td>
+                <tr class="alternateRow"><td style="border:1px solid black;">Windows Server 2003 SP1 for Itanium-based Systems og Windows Server 2003 SP2 for Itanium-based Systems</td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=04be3d7e-7dda-4dca-887a-e7a8156ede1c">Windows Server 2003 SP1 for Itanium-based Systems og Windows Server 2003 SP2 for Itanium-based Systems</a>
-                    <br />(Kritisk)</td><td>
+                    <br />(Kritisk)</td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=5ca3c72c-cadb-4b0a-b3a3-fb81d0bfd7b3">Windows Server 2003 SP1 for Itanium-based Systems og Windows Server 2003 SP2 for Itanium-based Systems</a>
-                    <br />(Viktig)</td><td>
+                    <br />(Viktig)</td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=d3ed7d9a-d652-4bd0-aecc-5a415bec6c59">DNS-server på Windows Server 2003 med SP1 for Itanium-based Systems og Windows Server 2003 med SP2 for Itanium-based Systems</a>
                     <br />(961063)<br />(Viktig)<br /><br /><a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=37e3a75e-0a5d-4df0-881f-cdb87efa4dcf">WINS-server på Windows Server 2003 med SP1 for Itanium-based Systems og Windows Server 2003 med SP2 for Itanium-based Systems</a><br />(961064)<br />(Viktig)</td></tr>
               
-                <tr><th colspan="4">Windows Vista</th></tr>
+                <tr><th colspan="4" style="border:1px solid black;">Windows Vista</th></tr>
               
-                <tr><td>
+                <tr><td style="border:1px solid black;">
                     <strong>Bulletinidentifikator</strong>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=132503">
                       <strong>MS09-006</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=139854">
                       <strong>MS09-007</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=139821">
                       <strong>MS09-008</strong>
                     </a>
                   </td></tr>
-                <tr class="alternateRow"><td>
+                <tr class="alternateRow"><td style="border:1px solid black;">
                     <strong>Samlet alvorlighetsgrad</strong>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Kritisk</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Viktig</strong>
                     </a>
-                  </td><td>Ingen </td></tr>
-                <tr><td>Windows Vista og Windows Vista Service Pack 1</td><td>
+                  </td><td style="border:1px solid black;">Ingen </td></tr>
+                <tr><td style="border:1px solid black;">Windows Vista og Windows Vista Service Pack 1</td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=4b1aaaba-f355-4265-83c0-50b901856ced">Windows Vista og Windows Vista Service Pack 1</a>
-                    <br />(Kritisk)</td><td>
+                    <br />(Kritisk)</td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=21086a04-402a-4940-8358-7fa63508102b">Windows Vista og Windows Vista Service Pack 1</a>
-                    <br />(Viktig)</td><td>Ikke relevant</td></tr>
-                <tr class="alternateRow"><td>Windows Vista x64 Edition og Windows Vista x64 Edition Service Pack 1</td><td>
+                    <br />(Viktig)</td><td style="border:1px solid black;">Ikke relevant</td></tr>
+                <tr class="alternateRow"><td style="border:1px solid black;">Windows Vista x64 Edition og Windows Vista x64 Edition Service Pack 1</td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=0fcac480-d6db-4a94-8c7d-b7319282cf56">Windows Vista x64 Edition og Windows Vista x64 Edition Service Pack 1</a>
-                    <br />(Kritisk)</td><td>
+                    <br />(Kritisk)</td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=c75a2ea9-b42f-457b-be09-5c8fa0339388">Windows Vista x64 Edition og Windows Vista x64 Edition Service Pack 1</a>
-                    <br />(Viktig)</td><td>Ikke relevant</td></tr>
+                    <br />(Viktig)</td><td style="border:1px solid black;">Ikke relevant</td></tr>
               
-                <tr><th colspan="4">Windows Server 2008</th></tr>
+                <tr><th colspan="4" style="border:1px solid black;">Windows Server 2008</th></tr>
               
-                <tr><td>
+                <tr><td style="border:1px solid black;">
                     <strong>Bulletinidentifikator</strong>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=132503">
                       <strong>MS09-006</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=139854">
                       <strong>MS09-007</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=139821">
                       <strong>MS09-008</strong>
                     </a>
                   </td></tr>
-                <tr class="alternateRow"><td>
+                <tr class="alternateRow"><td style="border:1px solid black;">
                     <strong>Samlet alvorlighetsgrad</strong>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Kritisk</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Viktig</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Viktig</strong>
                     </a>
                   </td></tr>
-                <tr><td>Windows Server 2008 for 32-biters systemer</td><td>
-                    <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=38851df2-4fb5-4d28-9d15-181c260cf8cf">Windows Server 2008 for 32-biters systemer</a>*<br />(Kritisk)</td><td>
-                    <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=47b361ce-624b-466c-b5c5-8703f6532615">Windows Server 2008 for 32-biters systemer</a>*<br />(Viktig)</td><td>
+                <tr><td style="border:1px solid black;">Windows Server 2008 for 32-biters systemer</td><td style="border:1px solid black;">
+                    <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=38851df2-4fb5-4d28-9d15-181c260cf8cf">Windows Server 2008 for 32-biters systemer</a>*<br />(Kritisk)</td><td style="border:1px solid black;">
+                    <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=47b361ce-624b-466c-b5c5-8703f6532615">Windows Server 2008 for 32-biters systemer</a>*<br />(Viktig)</td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=92e89882-d656-4b61-a05c-3afb44895f08">DNS-server på Windows Server 2008 for 32-biters systemer</a>*<br />(961063)<br />(Viktig)</td></tr>
-                <tr class="alternateRow"><td>Windows Server 2008 for x64-baserte systemer</td><td>
-                    <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=ec15acc4-3e0f-4414-9383-61c122ff1382">Windows Server 2008 for x64-baserte systemer</a>*<br />(Kritisk)</td><td>
-                    <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=5c81ac45-60e6-4121-ab6b-d3b3179aacc4">Windows Server 2008 for x64-baserte systemer</a>*<br />(Viktig)</td><td>
+                <tr class="alternateRow"><td style="border:1px solid black;">Windows Server 2008 for x64-baserte systemer</td><td style="border:1px solid black;">
+                    <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=ec15acc4-3e0f-4414-9383-61c122ff1382">Windows Server 2008 for x64-baserte systemer</a>*<br />(Kritisk)</td><td style="border:1px solid black;">
+                    <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=5c81ac45-60e6-4121-ab6b-d3b3179aacc4">Windows Server 2008 for x64-baserte systemer</a>*<br />(Viktig)</td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=be068d06-5939-4ad8-8191-e85931ed610f">DNS-server på Windows Server 2008 for x64-baserte systemer</a>*<br />(961063)<br />(Viktig)</td></tr>
-                <tr><td>Windows Server 2008 for Itanium-based Systems</td><td>
+                <tr><td style="border:1px solid black;">Windows Server 2008 for Itanium-based Systems</td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=eead6f93-10fd-4492-8137-481d9876a5fe">Windows Server 2008 for Itanium-based Systems</a>
-                    <br />(Kritisk)</td><td>
+                    <br />(Kritisk)</td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=bf8f5a86-1757-4f9b-b632-d4aa7005a9f8">Windows Server 2008 for Itanium-based Systems</a>
-                    <br />(Viktig)</td><td>Ikke relevant</td></tr>
+                    <br />(Viktig)</td><td style="border:1px solid black;">Ikke relevant</td></tr>
               </table>
 
 
