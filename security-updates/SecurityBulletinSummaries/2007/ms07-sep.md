@@ -33,37 +33,37 @@ Sikkerhetsbulletinene for denne måneden er som følger, listet etter alvorlighe
 
 ## Kritisk (1)
 
-<table>
+<table style="border:1px solid black;">
 <thead>
 <tr class="header">
-<th>Bulletinidentifikator</th>
-<th>Microsoft Security Bulletin MS07-051</th>
+<th style="border:1px solid black;">Bulletinidentifikator</th>
+<th style="border:1px solid black;">Microsoft Security Bulletin MS07-051</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><strong>Bulletintittel</strong></td>
-<td><a href="http://go.microsoft.com/fwlink/?linkid=94667"><strong>Sikkerhetsproblem i Microsoft Agent kan tillate ekstern kjøring av kode (938827)</strong></a></td>
+<td style="border:1px solid black;"><strong>Bulletintittel</strong></td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=94667"><strong>Sikkerhetsproblem i Microsoft Agent kan tillate ekstern kjøring av kode (938827)</strong></a></td>
 </tr>
 <tr class="even">
-<td><strong>Kortfattet sammendrag</strong></td>
-<td>Denne kritiske sikkerhetsoppdateringen løser et personlig rapportert sikkerhetsproblem. Et sikkerhetsproblem som kan forårsake ekstern kjøring av kode, finnes i Microsoft Agent på grunn av måten koden håndterer spesiallagde URL-adresser på. Sikkerhetsproblemet kan tillate at en angriper kjører kode eksternt på det berørte systemet. Brukere med kontoer som er konfigurert med få brukerrettigheter på systemet, er mindre utsatt enn brukere som har administrative rettigheter.</td>
+<td style="border:1px solid black;"><strong>Kortfattet sammendrag</strong></td>
+<td style="border:1px solid black;">Denne kritiske sikkerhetsoppdateringen løser et personlig rapportert sikkerhetsproblem. Et sikkerhetsproblem som kan forårsake ekstern kjøring av kode, finnes i Microsoft Agent på grunn av måten koden håndterer spesiallagde URL-adresser på. Sikkerhetsproblemet kan tillate at en angriper kjører kode eksternt på det berørte systemet. Brukere med kontoer som er konfigurert med få brukerrettigheter på systemet, er mindre utsatt enn brukere som har administrative rettigheter.</td>
 </tr>
 <tr class="odd">
-<td><strong>Maksimal alvorlighetsgrad</strong></td>
-<td><a href="http://go.microsoft.com/fwlink/?linkid=21140">Kritisk</a></td>
+<td style="border:1px solid black;"><strong>Maksimal alvorlighetsgrad</strong></td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">Kritisk</a></td>
 </tr>
 <tr class="even">
-<td><strong>Følger av sikkerhetsproblemet</strong></td>
-<td>Ekstern kjøring av kode</td>
+<td style="border:1px solid black;"><strong>Følger av sikkerhetsproblemet</strong></td>
+<td style="border:1px solid black;">Ekstern kjøring av kode</td>
 </tr>
 <tr class="odd">
-<td><strong>Søking</strong></td>
-<td>Microsoft Baseline Security Analyzer kan finne ut om datasystemet trenger denne oppdateringen. Denne oppdateringen krever en omstart.</td>
+<td style="border:1px solid black;"><strong>Søking</strong></td>
+<td style="border:1px solid black;">Microsoft Baseline Security Analyzer kan finne ut om datasystemet trenger denne oppdateringen. Denne oppdateringen krever en omstart.</td>
 </tr>
 <tr class="even">
-<td><strong>Berørt programvare</strong></td>
-<td><strong>Windows.</strong> Hvis du vi ha mer informasjon, kan du se delen Berørt programvare og nedlastingssteder.</td>
+<td style="border:1px solid black;"><strong>Berørt programvare</strong></td>
+<td style="border:1px solid black;"><strong>Windows.</strong> Hvis du vi ha mer informasjon, kan du se delen Berørt programvare og nedlastingssteder.</td>
 </tr>
 </tbody>
 </table>
@@ -71,109 +71,109 @@ Sikkerhetsbulletinene for denne måneden er som følger, listet etter alvorlighe
 
 ## Viktig (3)
 
-<table>
+<table style="border:1px solid black;">
 <thead>
 <tr class="header">
-<th>Bulletinidentifikator</th>
-<th>Microsoft Security Bulletin MS07-052</th>
+<th style="border:1px solid black;">Bulletinidentifikator</th>
+<th style="border:1px solid black;">Microsoft Security Bulletin MS07-052</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><strong>Bulletintittel</strong></td>
-<td><a href="http://go.microsoft.com/fwlink/?linkid=98460"><strong>Sikkerhetsproblem i Crystal Reports for Visual Studio kan tillate ekstern kjøring av kode (941522)</strong></a></td>
+<td style="border:1px solid black;"><strong>Bulletintittel</strong></td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=98460"><strong>Sikkerhetsproblem i Crystal Reports for Visual Studio kan tillate ekstern kjøring av kode (941522)</strong></a></td>
 </tr>
 <tr class="even">
-<td><strong>Kortfattet sammendrag</strong></td>
-<td>Denne viktige sikkerhetsoppdateringen løser et publisert sikkerhetsproblem. Dette sikkerhetsproblemet kan tillate kjøring av ekstern kode hvis en bruker åpner en spesiallaget RPT-fil. Brukere med kontoer som er konfigurert med få brukerrettigheter på systemet, er mindre utsatt enn brukere som har administrative rettigheter.</td>
+<td style="border:1px solid black;"><strong>Kortfattet sammendrag</strong></td>
+<td style="border:1px solid black;">Denne viktige sikkerhetsoppdateringen løser et publisert sikkerhetsproblem. Dette sikkerhetsproblemet kan tillate kjøring av ekstern kode hvis en bruker åpner en spesiallaget RPT-fil. Brukere med kontoer som er konfigurert med få brukerrettigheter på systemet, er mindre utsatt enn brukere som har administrative rettigheter.</td>
 </tr>
 <tr class="odd">
-<td><strong>Maksimal alvorlighetsgrad</strong></td>
-<td><a href="http://go.microsoft.com/fwlink/?linkid=21140">Viktig</a></td>
+<td style="border:1px solid black;"><strong>Maksimal alvorlighetsgrad</strong></td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">Viktig</a></td>
 </tr>
 <tr class="even">
-<td><strong>Følger av sikkerhetsproblemet</strong></td>
-<td>Ekstern kjøring av kode</td>
+<td style="border:1px solid black;"><strong>Følger av sikkerhetsproblemet</strong></td>
+<td style="border:1px solid black;">Ekstern kjøring av kode</td>
 </tr>
 <tr class="odd">
-<td><strong>Søking</strong></td>
-<td>Microsoft Baseline Security Analyzer og Enterprise Update Scan Tool kan finne ut om datasystemet trenger denne oppdateringen. Denne oppdateringen kan kreve en omstart.</td>
+<td style="border:1px solid black;"><strong>Søking</strong></td>
+<td style="border:1px solid black;">Microsoft Baseline Security Analyzer og Enterprise Update Scan Tool kan finne ut om datasystemet trenger denne oppdateringen. Denne oppdateringen kan kreve en omstart.</td>
 </tr>
 <tr class="even">
-<td><strong>Berørt programvare</strong></td>
-<td><strong>Visual Studio.</strong> Hvis du vi ha mer informasjon, kan du se delen Berørt programvare og nedlastingssteder.</td>
+<td style="border:1px solid black;"><strong>Berørt programvare</strong></td>
+<td style="border:1px solid black;"><strong>Visual Studio.</strong> Hvis du vi ha mer informasjon, kan du se delen Berørt programvare og nedlastingssteder.</td>
 </tr>
 </tbody>
 </table>
 
 
-<table>
+<table style="border:1px solid black;">
 <thead>
 <tr class="header">
-<th>Bulletinidentifikator</th>
-<th>Microsoft Security Bulletin MS07-053</th>
+<th style="border:1px solid black;">Bulletinidentifikator</th>
+<th style="border:1px solid black;">Microsoft Security Bulletin MS07-053</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><strong>Bulletintittel</strong></td>
-<td><a href="http://go.microsoft.com/fwlink/?linkid=94467"><strong>Sikkerhetsproblem i Crystal Reports for Visual Studio kan tillate ekstern kjøring av kode (941522)</strong></a></td>
+<td style="border:1px solid black;"><strong>Bulletintittel</strong></td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=94467"><strong>Sikkerhetsproblem i Crystal Reports for Visual Studio kan tillate ekstern kjøring av kode (941522)</strong></a></td>
 </tr>
 <tr class="even">
-<td><strong>Kortfattet sammendrag</strong></td>
-<td>Denne viktige sikkerhetsoppdateringen løser ett personlig rapportert sikkerhetsproblem. Det finnes et sikkerhetsproblem i Windows Services for UNIX 3.0, Windows Services for UNIX 3.5 og Subsystem for UNIX-based Applications der kjøring av visse setuid-binærfiler kan gi en angriper rettighetsutvidelse.</td>
+<td style="border:1px solid black;"><strong>Kortfattet sammendrag</strong></td>
+<td style="border:1px solid black;">Denne viktige sikkerhetsoppdateringen løser ett personlig rapportert sikkerhetsproblem. Det finnes et sikkerhetsproblem i Windows Services for UNIX 3.0, Windows Services for UNIX 3.5 og Subsystem for UNIX-based Applications der kjøring av visse setuid-binærfiler kan gi en angriper rettighetsutvidelse.</td>
 </tr>
 <tr class="odd">
-<td><strong>Maksimal alvorlighetsgrad</strong></td>
-<td><a href="http://go.microsoft.com/fwlink/?linkid=21140">Viktig</a></td>
+<td style="border:1px solid black;"><strong>Maksimal alvorlighetsgrad</strong></td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">Viktig</a></td>
 </tr>
 <tr class="even">
-<td><strong>Følger av sikkerhetsproblemet</strong></td>
-<td>Rettighetsutvidelse</td>
+<td style="border:1px solid black;"><strong>Følger av sikkerhetsproblemet</strong></td>
+<td style="border:1px solid black;">Rettighetsutvidelse</td>
 </tr>
 <tr class="odd">
-<td><strong>Søking</strong></td>
-<td>Microsoft Baseline Security Analyzer og Enterprise Update Scan Tool kan finne ut om datasystemet trenger denne oppdateringen. Denne oppdateringen krever en omstart.</td>
+<td style="border:1px solid black;"><strong>Søking</strong></td>
+<td style="border:1px solid black;">Microsoft Baseline Security Analyzer og Enterprise Update Scan Tool kan finne ut om datasystemet trenger denne oppdateringen. Denne oppdateringen krever en omstart.</td>
 </tr>
 <tr class="even">
-<td><strong>Berørt programvare</strong></td>
-<td><strong>Windows Services for UNIX, Subsystem for UNIX-based Applications.</strong> Hvis du vi ha mer informasjon, kan du se delen Berørt programvare og nedlastingssteder.</td>
+<td style="border:1px solid black;"><strong>Berørt programvare</strong></td>
+<td style="border:1px solid black;"><strong>Windows Services for UNIX, Subsystem for UNIX-based Applications.</strong> Hvis du vi ha mer informasjon, kan du se delen Berørt programvare og nedlastingssteder.</td>
 </tr>
 </tbody>
 </table>
 
 
-<table>
+<table style="border:1px solid black;">
 <thead>
 <tr class="header">
-<th>Bulletinidentifikator</th>
-<th>Microsoft Security Bulletin MS07-054</th>
+<th style="border:1px solid black;">Bulletinidentifikator</th>
+<th style="border:1px solid black;">Microsoft Security Bulletin MS07-054</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><strong>Bulletintittel</strong></td>
-<td><a href="http://go.microsoft.com/fwlink/?linkid=100148"><strong>Sikkerhetsproblem i MSN Messenger og Windows Live Messenger kan tillate ekstern kjøring av kode (942099)</strong></a></td>
+<td style="border:1px solid black;"><strong>Bulletintittel</strong></td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=100148"><strong>Sikkerhetsproblem i MSN Messenger og Windows Live Messenger kan tillate ekstern kjøring av kode (942099)</strong></a></td>
 </tr>
 <tr class="even">
-<td><strong>Kortfattet sammendrag</strong></td>
-<td>Denne sikkerhetsoppdateringen løser et publisert sikkerhetsproblem i MSN Messenger og Windows Live Messenger. Sikkerhetsproblemet kan tillate ekstern kjøring av kode når en bruker godtar en webkamera- eller videosamtaleinvitasjon fra en angriper. En angriper som klarer å utnytte dette sikkerhetsproblemet, kan få full kontroll over det berørte systemet. Brukere med kontoer som er konfigurert med få brukerrettigheter på systemet, er mindre utsatt enn brukere som har administrative rettigheter.</td>
+<td style="border:1px solid black;"><strong>Kortfattet sammendrag</strong></td>
+<td style="border:1px solid black;">Denne sikkerhetsoppdateringen løser et publisert sikkerhetsproblem i MSN Messenger og Windows Live Messenger. Sikkerhetsproblemet kan tillate ekstern kjøring av kode når en bruker godtar en webkamera- eller videosamtaleinvitasjon fra en angriper. En angriper som klarer å utnytte dette sikkerhetsproblemet, kan få full kontroll over det berørte systemet. Brukere med kontoer som er konfigurert med få brukerrettigheter på systemet, er mindre utsatt enn brukere som har administrative rettigheter.</td>
 </tr>
 <tr class="odd">
-<td><strong>Maksimal alvorlighetsgrad</strong></td>
-<td><a href="http://go.microsoft.com/fwlink/?linkid=21140">Viktig</a></td>
+<td style="border:1px solid black;"><strong>Maksimal alvorlighetsgrad</strong></td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">Viktig</a></td>
 </tr>
 <tr class="even">
-<td><strong>Følger av sikkerhetsproblemet</strong></td>
-<td>Ekstern kjøring av kode</td>
+<td style="border:1px solid black;"><strong>Følger av sikkerhetsproblemet</strong></td>
+<td style="border:1px solid black;">Ekstern kjøring av kode</td>
 </tr>
 <tr class="odd">
-<td><strong>Søking</strong></td>
-<td>Disse produktene har innebygde mekanismer for automatisk gjenkjenning og distribusjon av oppdateringer. Denne oppdateringen kan kreve en omstart.</td>
+<td style="border:1px solid black;"><strong>Søking</strong></td>
+<td style="border:1px solid black;">Disse produktene har innebygde mekanismer for automatisk gjenkjenning og distribusjon av oppdateringer. Denne oppdateringen kan kreve en omstart.</td>
 </tr>
 <tr class="even">
-<td><strong>Berørt programvare</strong></td>
-<td><strong>MSN Messenger, Windows Live Messenger.</strong> Hvis du vi ha mer informasjon, kan du se delen Berørt programvare og nedlastingssteder.</td>
+<td style="border:1px solid black;"><strong>Berørt programvare</strong></td>
+<td style="border:1px solid black;"><strong>MSN Messenger, Windows Live Messenger.</strong> Hvis du vi ha mer informasjon, kan du se delen Berørt programvare og nedlastingssteder.</td>
 </tr>
 </tbody>
 </table>
@@ -181,7 +181,7 @@ Sikkerhetsbulletinene for denne måneden er som følger, listet etter alvorlighe
 
 ## Berørt programvare og nedlastingssteder
 
-**Hvordan bruker jeg denne tabellen?**
+**Hvordan bruker jeg denne tabellen?**  
 
 Bruk tabellen til å lære om sikkerhetsoppdateringer som du kanskje må installere. Du bør gå gjennom alle oppførte programmer eller programvarekomponenter for å se om det finnes nødvendige sikkerhetsoppdateringer. Hvis et program eller en programvarekomponent er oppført, vil virkningen av sikkerhetsproblemet også være oppført i tillegg til en hyperkobling til den tilgjengelige programvareoppdateringen.
 
@@ -189,161 +189,161 @@ Bruk tabellen til å lære om sikkerhetsoppdateringer som du kanskje må install
 
 **Berørt programvare og nedlastingssteder**
 
-<table xmlns="http://www.w3.org/1999/xhtml">
+<table style="border:1px solid black;" class="dataTable">
   <tr class="thead">
-    <th></th>
-    <th>Detaljer        </th>
-    <th>Detaljer        </th>
-    <th>Detaljer        </th>
-    <th>Detaljer        </th>
+    <th style="border:1px solid black;"></th>
+    <th style="border:1px solid black;">Detaljer        </th>
+    <th style="border:1px solid black;">Detaljer        </th>
+    <th style="border:1px solid black;">Detaljer        </th>
+    <th style="border:1px solid black;">Detaljer        </th>
   </tr>
-            <tr><td>
+            <tr><td style="border:1px solid black;">
                 <strong>Bulletinidentifikator</strong>
-              </td><td>
+              </td><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=94667">
                   <strong>MS07-051</strong>
                 </a>
-              </td><td>
+              </td><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=98460">
                   <strong>MS07-052</strong>
                 </a>
-              </td><td>
+              </td><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=94467">
                   <strong>MS07-053</strong>
                 </a>
-              </td><td>
+              </td><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=100148">
                   <strong>MS07-054</strong>
                 </a>
               </td></tr>
-            <tr class="alternateRow"><td>
+            <tr class="alternateRow"><td style="border:1px solid black;">
                 <strong>Maksimal alvorlighetsgrad</strong>
-              </td><td>
+              </td><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                   <strong>Kritisk</strong>
                 </a>
-              </td><td>
+              </td><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                   <strong>Viktig</strong>
                 </a>
-              </td><td>
+              </td><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                   <strong>Viktig</strong>
                 </a>
-              </td><td>
+              </td><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                   <strong>Viktig</strong>
                 </a>
               </td></tr>
           
-            <tr><th colspan="5">Windows-operativsystem:</th></tr>
+            <tr><th colspan="5" style="border:1px solid black;">Windows-operativsystem:</th></tr>
           
-            <tr><td>Microsoft Windows 2000 Service Pack 4</td><td>
+            <tr><td style="border:1px solid black;">Microsoft Windows 2000 Service Pack 4</td><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=7cd248ed-d154-4dce-89ef-ceefd2700965">Kritisk</a>
-              </td><td /><td>
+              </td><td /><td style="border:1px solid black;">
                 <strong>[1]</strong>
               </td><td /></tr>
-            <tr class="alternateRow"><td>Windows XP Service Pack 2</td><td /><td /><td>
+            <tr class="alternateRow"><td style="border:1px solid black;">Windows XP Service Pack 2</td><td /><td /><td style="border:1px solid black;">
                 <strong>[1]</strong>
               </td><td /></tr>
-            <tr><td>Windows Server 2003 Service Pack 1</td><td /><td /><td>
+            <tr><td style="border:1px solid black;">Windows Server 2003 Service Pack 1</td><td /><td /><td style="border:1px solid black;">
                 <strong>[1]</strong>
               </td><td /></tr>
-            <tr class="alternateRow"><td>Windows Server 2003 Service Pack 2</td><td /><td /><td>
+            <tr class="alternateRow"><td style="border:1px solid black;">Windows Server 2003 Service Pack 2</td><td /><td /><td style="border:1px solid black;">
                 <strong>[1]</strong>
               </td><td /></tr>
-            <tr><td>Windows Server 2003 x64 Edition</td><td /><td /><td>
+            <tr><td style="border:1px solid black;">Windows Server 2003 x64 Edition</td><td /><td /><td style="border:1px solid black;">
                 <strong>[1]</strong>
               </td><td /></tr>
-            <tr class="alternateRow"><td>Windows Server 2003 x64 Edition Service Pack 2</td><td /><td /><td>
+            <tr class="alternateRow"><td style="border:1px solid black;">Windows Server 2003 x64 Edition Service Pack 2</td><td /><td /><td style="border:1px solid black;">
                 <strong>[1]</strong>
               </td><td /></tr>
-            <tr><td>Windows Vista</td><td /><td /><td>
+            <tr><td style="border:1px solid black;">Windows Vista</td><td /><td /><td style="border:1px solid black;">
                 <strong>[1]</strong>
               </td><td /></tr>
-            <tr class="alternateRow"><td>Windows Vista x64 Edition</td><td /><td /><td>
+            <tr class="alternateRow"><td style="border:1px solid black;">Windows Vista x64 Edition</td><td /><td /><td style="border:1px solid black;">
                 <strong>[1]</strong>
               </td><td /></tr>
           
-            <tr><th colspan="5">Operativsystemkomponenter for Windows</th></tr>
+            <tr><th colspan="5" style="border:1px solid black;">Operativsystemkomponenter for Windows</th></tr>
           
-            <tr><td>Windows Services for UNIX 3.0 på Windows 2000 Service Pack 4</td><td /><td /><td>
+            <tr><td style="border:1px solid black;">Windows Services for UNIX 3.0 på Windows 2000 Service Pack 4</td><td /><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=557f89fc-c5d9-4405-9007-1654abf92277">Viktig</a>
               </td><td /></tr>
-            <tr class="alternateRow"><td>Windows Services for UNIX 3.5 på Windows 2000 Service Pack 4</td><td /><td /><td>
+            <tr class="alternateRow"><td style="border:1px solid black;">Windows Services for UNIX 3.5 på Windows 2000 Service Pack 4</td><td /><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=70ae23c2-3ae8-4ea6-ba8d-8ac7e4f82663">Viktig</a>
               </td><td /></tr>
-            <tr><td>Windows Services for UNIX 3.0 på Windows XP Service Pack 2</td><td /><td /><td>
+            <tr><td style="border:1px solid black;">Windows Services for UNIX 3.0 på Windows XP Service Pack 2</td><td /><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=557f89fc-c5d9-4405-9007-1654abf92277">Viktig</a>
               </td><td /></tr>
-            <tr class="alternateRow"><td>Windows Services for UNIX 3.5 på Windows XP Service Pack 2</td><td /><td /><td>
+            <tr class="alternateRow"><td style="border:1px solid black;">Windows Services for UNIX 3.5 på Windows XP Service Pack 2</td><td /><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=70ae23c2-3ae8-4ea6-ba8d-8ac7e4f82663">Viktig</a>
               </td><td /></tr>
-            <tr><td>Windows Services for UNIX 3.0 på Windows Server 2003 Service Pack 1 og Windows Server 2003 Service Pack 2</td><td /><td /><td>
+            <tr><td style="border:1px solid black;">Windows Services for UNIX 3.0 på Windows Server 2003 Service Pack 1 og Windows Server 2003 Service Pack 2</td><td /><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=557f89fc-c5d9-4405-9007-1654abf92277">Viktig</a>
               </td><td /></tr>
-            <tr class="alternateRow"><td>Windows Services for UNIX 3.5 på Windows Server 2003 Service Pack 1 og Windows Server 2003 Service Pack 2</td><td /><td /><td>
+            <tr class="alternateRow"><td style="border:1px solid black;">Windows Services for UNIX 3.5 på Windows Server 2003 Service Pack 1 og Windows Server 2003 Service Pack 2</td><td /><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=70ae23c2-3ae8-4ea6-ba8d-8ac7e4f82663">Viktig</a>
               </td><td /></tr>
-            <tr><td>Subsystem for UNIX-based Applications på Windows Server 2003 Service Pack 1 og Windows Server 2003 Service Pack 2</td><td /><td /><td>
+            <tr><td style="border:1px solid black;">Subsystem for UNIX-based Applications på Windows Server 2003 Service Pack 1 og Windows Server 2003 Service Pack 2</td><td /><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=8ab5cc43-0b9c-45eb-aa51-47568ab6ce3f">Viktig</a>
               </td><td /></tr>
-            <tr class="alternateRow"><td>Subsystem for UNIX-based Applications på Windows Server 2003 x64 Edition og Windows Server 2003 x64 Edition Service Pack 2</td><td /><td /><td>
+            <tr class="alternateRow"><td style="border:1px solid black;">Subsystem for UNIX-based Applications på Windows Server 2003 x64 Edition og Windows Server 2003 x64 Edition Service Pack 2</td><td /><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=1d21e3e8-b5f6-4044-9db6-054af836492b">Viktig</a>
               </td><td /></tr>
-            <tr><td>Subsystem for UNIX-based Applications på Windows Vista</td><td /><td /><td>
+            <tr><td style="border:1px solid black;">Subsystem for UNIX-based Applications på Windows Vista</td><td /><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=4d52e4f4-2888-42df-8163-85c648e65b29">Viktig</a>
               </td><td /></tr>
-            <tr class="alternateRow"><td>Subsystem for UNIX-based Applications på Windows Vista x64 Edition</td><td /><td /><td>
+            <tr class="alternateRow"><td style="border:1px solid black;">Subsystem for UNIX-based Applications på Windows Vista x64 Edition</td><td /><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=4be667cc-c239-480b-a9a0-939bcd27f0de">Viktig</a>
               </td><td /></tr>
           
-            <tr><th colspan="5">Utviklingsverktøy og -plattformer</th></tr>
+            <tr><th colspan="5" style="border:1px solid black;">Utviklingsverktøy og -plattformer</th></tr>
           
-            <tr><td>Visual Studio .NET 2002 Service Pack 1<br />(KB937057)</td><td /><td>
+            <tr><td style="border:1px solid black;">Visual Studio .NET 2002 Service Pack 1<br />(KB937057)</td><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=2608c83b-e1b2-4449-9a0e-1e566aac3d76">Viktig</a>
                 <strong>[2]</strong>
               </td><td /><td /></tr>
-            <tr class="alternateRow"><td>Visual Studio .NET 2003<br />(KB937058)</td><td /><td>
+            <tr class="alternateRow"><td style="border:1px solid black;">Visual Studio .NET 2003<br />(KB937058)</td><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=d612ad41-5a0d-4e13-99ea-d6a5589786d6">Viktig</a>
                 <strong>[2]</strong>
               </td><td /><td /></tr>
-            <tr><td>Visual Studio .NET 2003 Service Pack 1<br />(KB937059)</td><td /><td>
+            <tr><td style="border:1px solid black;">Visual Studio .NET 2003 Service Pack 1<br />(KB937059)</td><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=0b10b04b-932c-4bff-9cbc-b3eeb15064b1">Viktig</a>
                 <strong>[2]</strong>
               </td><td /><td /></tr>
-            <tr class="alternateRow"><td>Visual Studio 2005<br />(KB937060)</td><td /><td>
+            <tr class="alternateRow"><td style="border:1px solid black;">Visual Studio 2005<br />(KB937060)</td><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=21073cc2-919c-40df-8ebb-aa3db06050d2">Viktig</a>
                 <strong>[2]</strong>
               </td><td /><td /></tr>
-            <tr><td>Visual Studio 2005 Service Pack 1<br />(KB937061)</td><td /><td>
+            <tr><td style="border:1px solid black;">Visual Studio 2005 Service Pack 1<br />(KB937061)</td><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=967d43c8-efba-4221-beb0-981e7deef33a">Viktig</a>
                 <strong>[2]</strong>
               </td><td /><td /></tr>
           
-            <tr><th colspan="5">Annen berørt programvare</th></tr>
+            <tr><th colspan="5" style="border:1px solid black;">Annen berørt programvare</th></tr>
           
-            <tr class="alternateRow"><td>MSN Messenger 6.2 på Microsoft Windows 2000 Service Pack 4</td><td /><td /><td /><td>
+            <tr class="alternateRow"><td style="border:1px solid black;">MSN Messenger 6.2 på Microsoft Windows 2000 Service Pack 4</td><td /><td /><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=cf49c56c-8b3e-4eae-9904-9505f47bed45&amp;displaylang=en">Viktig</a>
                 <strong>[3]</strong>
               </td></tr>
-            <tr><td>MSN Messenger 7.0 på Microsoft Windows 2000 Service Pack 4</td><td /><td /><td /><td>
+            <tr><td style="border:1px solid black;">MSN Messenger 7.0 på Microsoft Windows 2000 Service Pack 4</td><td /><td /><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=cf49c56c-8b3e-4eae-9904-9505f47bed45&amp;displaylang=en">Viktig</a>
                 <strong>[3]</strong>
               </td></tr>
-            <tr class="alternateRow"><td>MSN Messenger 6.2 på Windows XP Service Pack 2, Windows XP Professional x64 Edition, Windows XP Professional x64 Edition Service Pack 2, Windows Server 2003 Service Pack 1, Windows Server 2003 Service Pack 2, Windows Server 2003 x64 Edition, Windows Server 2003 x64 Edition Service Pack 2, Windows Vista og Windows Vista x64 Edition</td><td /><td /><td /><td>
+            <tr class="alternateRow"><td style="border:1px solid black;">MSN Messenger 6.2 på Windows XP Service Pack 2, Windows XP Professional x64 Edition, Windows XP Professional x64 Edition Service Pack 2, Windows Server 2003 Service Pack 1, Windows Server 2003 Service Pack 2, Windows Server 2003 x64 Edition, Windows Server 2003 x64 Edition Service Pack 2, Windows Vista og Windows Vista x64 Edition</td><td /><td /><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=d78f2ff1-79ea-4066-8ba0-ddbed94864fc&amp;displaylang=en">Viktig</a>
                 <strong>[3]</strong>
               </td></tr>
-            <tr><td>MSN Messenger 7.0 på Windows XP Service Pack 2, Windows XP Professional x64 Edition, Windows XP Professional x64 Edition Service Pack 2, Windows Server 2003 Service Pack 1, Windows Server 2003 Service Pack 2, Windows Server 2003 x64 Edition, Windows Server 2003 x64 Edition Service Pack 2, Windows Vista og Windows Vista x64 Edition</td><td /><td /><td /><td>
+            <tr><td style="border:1px solid black;">MSN Messenger 7.0 på Windows XP Service Pack 2, Windows XP Professional x64 Edition, Windows XP Professional x64 Edition Service Pack 2, Windows Server 2003 Service Pack 1, Windows Server 2003 Service Pack 2, Windows Server 2003 x64 Edition, Windows Server 2003 x64 Edition Service Pack 2, Windows Vista og Windows Vista x64 Edition</td><td /><td /><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=d78f2ff1-79ea-4066-8ba0-ddbed94864fc&amp;displaylang=en">Viktig</a>
                 <strong>[3]</strong>
               </td></tr>
-            <tr class="alternateRow"><td>MSN Messenger 7.5 på Windows XP Service Pack 2, Windows XP Professional x64 Edition, Windows XP Professional x64 Edition Service Pack 2, Windows Server 2003 Service Pack 1, Windows Server 2003 Service Pack 2, Windows Server 2003 x64 Edition, Windows Server 2003 x64 Edition Service Pack 2, Windows Vista og Windows Vista x64 Edition</td><td /><td /><td /><td>
+            <tr class="alternateRow"><td style="border:1px solid black;">MSN Messenger 7.5 på Windows XP Service Pack 2, Windows XP Professional x64 Edition, Windows XP Professional x64 Edition Service Pack 2, Windows Server 2003 Service Pack 1, Windows Server 2003 Service Pack 2, Windows Server 2003 x64 Edition, Windows Server 2003 x64 Edition Service Pack 2, Windows Vista og Windows Vista x64 Edition</td><td /><td /><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=d78f2ff1-79ea-4066-8ba0-ddbed94864fc&amp;displaylang=en">Viktig</a>
                 <strong>[3]</strong>
               </td></tr>
-            <tr><td>Windows Live Messenger 8.0 på Windows XP Service Pack 2, Windows XP Professional x64 Edition, Windows XP Professional x64 Edition Service Pack 2, Windows Server 2003 Service Pack 1, Windows Server 2003 Service Pack 2, Windows Server 2003 x64 Edition, Windows Server 2003 x64 Edition Service Pack 2, Windows Vista og Windows Vista x64 Edition</td><td /><td /><td /><td>
+            <tr><td style="border:1px solid black;">Windows Live Messenger 8.0 på Windows XP Service Pack 2, Windows XP Professional x64 Edition, Windows XP Professional x64 Edition Service Pack 2, Windows Server 2003 Service Pack 1, Windows Server 2003 Service Pack 2, Windows Server 2003 x64 Edition, Windows Server 2003 x64 Edition Service Pack 2, Windows Vista og Windows Vista x64 Edition</td><td /><td /><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=d78f2ff1-79ea-4066-8ba0-ddbed94864fc&amp;displaylang=en">Viktig</a>
                 <strong>[3]</strong>
               </td></tr>

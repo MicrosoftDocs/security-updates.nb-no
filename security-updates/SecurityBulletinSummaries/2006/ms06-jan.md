@@ -34,97 +34,97 @@ Denne veiledningen inneholder oppdateringer for nylig oppdagede sikkerhetsproble
 
 ## Kritisk (3)
 
-<table>
+<table style="border:1px solid black;">
 <thead>
 <tr class="header">
-<th>Bulletinidentifikator</th>
-<th>Microsofts sikkerhetsbulletin MS06-001</th>
+<th style="border:1px solid black;">Bulletinidentifikator</th>
+<th style="border:1px solid black;">Microsofts sikkerhetsbulletin MS06-001</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><strong>Bulletintittel</strong></td>
-<td><a href="http://go.microsoft.com/fwlink/?linkid=58471"><strong>Sikkerhetsproblem i motoren for grafikkgjengivelse kan tillate ekstern kjøring av kode (912919)</strong></a></td>
+<td style="border:1px solid black;"><strong>Bulletintittel</strong></td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=58471"><strong>Sikkerhetsproblem i motoren for grafikkgjengivelse kan tillate ekstern kjøring av kode (912919)</strong></a></td>
 </tr>
 <tr class="even">
-<td><strong>Kortfattet sammendrag</strong></td>
-<td>Det finnes et sikkerhetsproblem i motoren for grafikkgjengivelse som kan tillate ekstern kjøring av kode.</td>
+<td style="border:1px solid black;"><strong>Kortfattet sammendrag</strong></td>
+<td style="border:1px solid black;">Det finnes et sikkerhetsproblem i motoren for grafikkgjengivelse som kan tillate ekstern kjøring av kode.</td>
 </tr>
 <tr class="odd">
-<td><strong>Maksimal alvorlighetsgrad</strong></td>
-<td><a href="http://go.microsoft.com/fwlink/?linkid=21140">Kritisk</a></td>
+<td style="border:1px solid black;"><strong>Maksimal alvorlighetsgrad</strong></td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">Kritisk</a></td>
 </tr>
 <tr class="even">
-<td><strong>Følger av sikkerhetsproblemet</strong></td>
-<td>Ekstern kjøring av kode</td>
+<td style="border:1px solid black;"><strong>Følger av sikkerhetsproblemet</strong></td>
+<td style="border:1px solid black;">Ekstern kjøring av kode</td>
 </tr>
 <tr class="odd">
-<td><strong>Berørt programvare</strong></td>
-<td><strong>Windows.</strong> Hvis du vi ha mer informasjon, kan du se delen Berørt programvare og nedlastingssteder.</td>
+<td style="border:1px solid black;"><strong>Berørt programvare</strong></td>
+<td style="border:1px solid black;"><strong>Windows.</strong> Hvis du vi ha mer informasjon, kan du se delen Berørt programvare og nedlastingssteder.</td>
 </tr>
 </tbody>
 </table>
 
 
-<table>
+<table style="border:1px solid black;">
 <thead>
 <tr class="header">
-<th>Bulletinidentifikator</th>
-<th>Microsofts sikkerhetsbulletin MS06-002</th>
+<th style="border:1px solid black;">Bulletinidentifikator</th>
+<th style="border:1px solid black;">Microsofts sikkerhetsbulletin MS06-002</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><strong>Bulletintittel</strong></td>
-<td><a href="http://go.microsoft.com/fwlink/?linkid=55919"><strong>Sikkerhetsproblem i innebygde webskrifter kan tillate ekstern kjøring av kode (908519)</strong></a></td>
+<td style="border:1px solid black;"><strong>Bulletintittel</strong></td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=55919"><strong>Sikkerhetsproblem i innebygde webskrifter kan tillate ekstern kjøring av kode (908519)</strong></a></td>
 </tr>
 <tr class="even">
-<td><strong>Kortfattet sammendrag</strong></td>
-<td>Det finnes et sikkerhetsproblem ved visning av innebygde webskrifter som kan føre til ekstern kjøring av kode.</td>
+<td style="border:1px solid black;"><strong>Kortfattet sammendrag</strong></td>
+<td style="border:1px solid black;">Det finnes et sikkerhetsproblem ved visning av innebygde webskrifter som kan føre til ekstern kjøring av kode.</td>
 </tr>
 <tr class="odd">
-<td><strong>Maksimal alvorlighetsgrad</strong></td>
-<td><a href="http://go.microsoft.com/fwlink/?linkid=21140">Kritisk</a></td>
+<td style="border:1px solid black;"><strong>Maksimal alvorlighetsgrad</strong></td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">Kritisk</a></td>
 </tr>
 <tr class="even">
-<td><strong>Følger av sikkerhetsproblemet</strong></td>
-<td>Ekstern kjøring av kode</td>
+<td style="border:1px solid black;"><strong>Følger av sikkerhetsproblemet</strong></td>
+<td style="border:1px solid black;">Ekstern kjøring av kode</td>
 </tr>
 <tr class="odd">
-<td><strong>Berørt programvare</strong></td>
-<td><strong>Windows.</strong> Hvis du vi ha mer informasjon, kan du se delen Berørt programvare og nedlastingssteder.</td>
+<td style="border:1px solid black;"><strong>Berørt programvare</strong></td>
+<td style="border:1px solid black;"><strong>Windows.</strong> Hvis du vi ha mer informasjon, kan du se delen Berørt programvare og nedlastingssteder.</td>
 </tr>
 </tbody>
 </table>
 
 
-<table>
+<table style="border:1px solid black;">
 <thead>
 <tr class="header">
-<th>Bulletinidentifikator</th>
-<th>Microsofts sikkerhetsbulletin MS06-003</th>
+<th style="border:1px solid black;">Bulletinidentifikator</th>
+<th style="border:1px solid black;">Microsofts sikkerhetsbulletin MS06-003</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><strong>Bulletintittel</strong></td>
-<td><a href="http://go.microsoft.com/fwlink/?linkid=44168"><strong>Sikkerhetsproblem ved TNEF-dekoding i Microsoft Outlook og Microsoft Exchange kan tillate ekstern kjøring av kode (902412)</strong></a></td>
+<td style="border:1px solid black;"><strong>Bulletintittel</strong></td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=44168"><strong>Sikkerhetsproblem ved TNEF-dekoding i Microsoft Outlook og Microsoft Exchange kan tillate ekstern kjøring av kode (902412)</strong></a></td>
 </tr>
 <tr class="even">
-<td><strong>Kortfattet sammendrag</strong></td>
-<td>Det finnes et sikkerhetsproblem i TNEF-meldinger som kan tillate ekstern kjøring av kode.</td>
+<td style="border:1px solid black;"><strong>Kortfattet sammendrag</strong></td>
+<td style="border:1px solid black;">Det finnes et sikkerhetsproblem i TNEF-meldinger som kan tillate ekstern kjøring av kode.</td>
 </tr>
 <tr class="odd">
-<td><strong>Maksimal alvorlighetsgrad</strong></td>
-<td><a href="http://go.microsoft.com/fwlink/?linkid=21140">Kritisk</a></td>
+<td style="border:1px solid black;"><strong>Maksimal alvorlighetsgrad</strong></td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">Kritisk</a></td>
 </tr>
 <tr class="even">
-<td><strong>Følger av sikkerhetsproblemet</strong></td>
-<td>Ekstern kjøring av kode</td>
+<td style="border:1px solid black;"><strong>Følger av sikkerhetsproblemet</strong></td>
+<td style="border:1px solid black;">Ekstern kjøring av kode</td>
 </tr>
 <tr class="odd">
-<td><strong>Berørt programvare</strong></td>
-<td><strong>Exchange og Office.</strong> Hvis du vi ha mer informasjon, kan du se delen Berørt programvare og nedlastingssteder.</td>
+<td style="border:1px solid black;"><strong>Berørt programvare</strong></td>
+<td style="border:1px solid black;"><strong>Exchange og Office.</strong> Hvis du vi ha mer informasjon, kan du se delen Berørt programvare og nedlastingssteder.</td>
 </tr>
 </tbody>
 </table>
@@ -132,7 +132,7 @@ Denne veiledningen inneholder oppdateringer for nylig oppdagede sikkerhetsproble
 
 ## Berørt programvare og nedlastingssteder
 
-**Hvordan bruker jeg denne tabellen?**
+**Hvordan bruker jeg denne tabellen?**  
 
 Du bruker tabellen til å lære om sikkerhetsoppdateringer som du kanskje må installere. Du bør gå gjennom alle oppførte programmer eller programvarekomponenter for å se om det finnes nødvendige sikkerhetsoppdateringer. Hvis et program eller en programvarekomponent er oppført, vil virkningen av sikkerhetsproblemet også være oppført i tillegg til en hyperkobling til den tilgjengelige programvareoppdateringen.
 
@@ -142,7 +142,7 @@ Et nummer i parentes \[x\] i tabellen angir at det finnes en merknad som forklar
 
 **Berørt programvare og nedlastingssteder**
 
-<table>
+<table style="border:1px solid black;">
 <colgroup>
 <col style="width: 25%" />
 <col style="width: 25%" />
@@ -151,180 +151,180 @@ Et nummer i parentes \[x\] i tabellen angir at det finnes en merknad som forklar
 </colgroup>
 <thead>
 <tr class="header">
-<th></th>
-<th>Detaljer        </th>
-<th>Detaljer        </th>
-<th>Detaljer        </th>
+<th style="border:1px solid black;"></th>
+<th style="border:1px solid black;">Detaljer        </th>
+<th style="border:1px solid black;">Detaljer        </th>
+<th style="border:1px solid black;">Detaljer        </th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><strong>Bulletinidentifikator</strong></td>
-<td><a href="http://go.microsoft.com/fwlink/?linkid=58471"><strong>MS06-001</strong></a></td>
-<td><a href="http://go.microsoft.com/fwlink/?linkid=55919"><strong>MS06-002</strong></a></td>
-<td><a href="http://go.microsoft.com/fwlink/?linkid=44168"><strong>MS06-003</strong></a></td>
+<td style="border:1px solid black;"><strong>Bulletinidentifikator</strong></td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=58471"><strong>MS06-001</strong></a></td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=55919"><strong>MS06-002</strong></a></td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=44168"><strong>MS06-003</strong></a></td>
 </tr>
 <tr class="even">
-<td><strong>Maksimal alvorlighetsgrad</strong></td>
-<td><a href="http://go.microsoft.com/fwlink/?linkid=21140"><strong>Kritisk</strong></a></td>
-<td><a href="http://go.microsoft.com/fwlink/?linkid=21140"><strong>Kritisk</strong></a></td>
-<td><a href="http://go.microsoft.com/fwlink/?linkid=21140"><strong>Kritisk</strong></a></td>
+<td style="border:1px solid black;"><strong>Maksimal alvorlighetsgrad</strong></td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140"><strong>Kritisk</strong></a></td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140"><strong>Kritisk</strong></a></td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140"><strong>Kritisk</strong></a></td>
 </tr>
 <tr class="odd">
-<td><p><strong>Berørt programvare for Windows:</strong></p></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="border:1px solid black;"><p><strong>Berørt programvare for Windows:</strong></p></td>
+<td style="border:1px solid black;"></td>
+<td style="border:1px solid black;"></td>
+<td style="border:1px solid black;"></td>
 </tr>
 <tr class="even">
-<td>Windows Server 2003</td>
-<td><a href="http://www.microsoft.com/downloads/details.aspx?familyid=1584aae0-51ce-47d6-9a03-db5b9077f1f2">Kritisk</a></td>
-<td><a href="http://www.microsoft.com/downloads/details.aspx?familyid=5fc12654-486f-45bf-8d34-bdf0998869c5">Viktig</a></td>
-<td></td>
+<td style="border:1px solid black;">Windows Server 2003</td>
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=1584aae0-51ce-47d6-9a03-db5b9077f1f2">Kritisk</a></td>
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=5fc12654-486f-45bf-8d34-bdf0998869c5">Viktig</a></td>
+<td style="border:1px solid black;"></td>
 </tr>
 <tr class="odd">
-<td>Windows Server 2003 Service Pack 1</td>
-<td><a href="http://www.microsoft.com/downloads/details.aspx?familyid=1584aae0-51ce-47d6-9a03-db5b9077f1f2">Kritisk</a></td>
-<td><a href="http://www.microsoft.com/downloads/details.aspx?familyid=5fc12654-486f-45bf-8d34-bdf0998869c5">Viktig</a></td>
-<td></td>
+<td style="border:1px solid black;">Windows Server 2003 Service Pack 1</td>
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=1584aae0-51ce-47d6-9a03-db5b9077f1f2">Kritisk</a></td>
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=5fc12654-486f-45bf-8d34-bdf0998869c5">Viktig</a></td>
+<td style="border:1px solid black;"></td>
 </tr>
 <tr class="even">
-<td>Windows Server 2003 x64 Edition</td>
-<td><a href="http://www.microsoft.com/downloads/details.aspx?familyid=a8f4dcba-5d28-4d9d-a6a4-3b71108cfe2d">Kritisk</a></td>
-<td><a href="http://www.microsoft.com/downloads/details.aspx?familyid=80b05c56-5bce-4262-8142-af0d8a7bc388">Viktig</a></td>
-<td></td>
+<td style="border:1px solid black;">Windows Server 2003 x64 Edition</td>
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=a8f4dcba-5d28-4d9d-a6a4-3b71108cfe2d">Kritisk</a></td>
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=80b05c56-5bce-4262-8142-af0d8a7bc388">Viktig</a></td>
+<td style="border:1px solid black;"></td>
 </tr>
 <tr class="odd">
-<td>Windows Server 2003 for Itanium-based Systems</td>
-<td><a href="http://www.microsoft.com/downloads/details.aspx?familyid=6e372d41-2c16-415e-8306-a5ca8845cc09">Kritisk</a></td>
-<td><a href="http://www.microsoft.com/downloads/details.aspx?familyid=e39d2e29-8934-4aa1-844d-11efa57d9cc5">Viktig</a></td>
-<td></td>
+<td style="border:1px solid black;">Windows Server 2003 for Itanium-based Systems</td>
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=6e372d41-2c16-415e-8306-a5ca8845cc09">Kritisk</a></td>
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=e39d2e29-8934-4aa1-844d-11efa57d9cc5">Viktig</a></td>
+<td style="border:1px solid black;"></td>
 </tr>
 <tr class="even">
-<td>Windows Server 2003 med SP1 for Itanium-based Systems</td>
-<td><a href="http://www.microsoft.com/downloads/details.aspx?familyid=6e372d41-2c16-415e-8306-a5ca8845cc09">Kritisk</a></td>
-<td><a href="http://www.microsoft.com/downloads/details.aspx?familyid=e39d2e29-8934-4aa1-844d-11efa57d9cc5">Viktig</a></td>
-<td></td>
+<td style="border:1px solid black;">Windows Server 2003 med SP1 for Itanium-based Systems</td>
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=6e372d41-2c16-415e-8306-a5ca8845cc09">Kritisk</a></td>
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=e39d2e29-8934-4aa1-844d-11efa57d9cc5">Viktig</a></td>
+<td style="border:1px solid black;"></td>
 </tr>
 <tr class="odd">
-<td>Windows XP Service Pack 1</td>
-<td><a href="http://www.microsoft.com/downloads/details.aspx?familyid=0c1b4c96-57ae-499e-b89b-215b7bb4d8e9">Kritisk</a></td>
-<td><a href="http://www.microsoft.com/downloads/details.aspx?familyid=6daea2af-3723-4cdf-b5bd-b21ac75b5243">Kritisk</a></td>
-<td></td>
+<td style="border:1px solid black;">Windows XP Service Pack 1</td>
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=0c1b4c96-57ae-499e-b89b-215b7bb4d8e9">Kritisk</a></td>
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=6daea2af-3723-4cdf-b5bd-b21ac75b5243">Kritisk</a></td>
+<td style="border:1px solid black;"></td>
 </tr>
 <tr class="even">
-<td>Windows XP Service Pack 2</td>
-<td><a href="http://www.microsoft.com/downloads/details.aspx?familyid=0c1b4c96-57ae-499e-b89b-215b7bb4d8e9">Kritisk</a></td>
-<td><a href="http://www.microsoft.com/downloads/details.aspx?familyid=6daea2af-3723-4cdf-b5bd-b21ac75b5243">Kritisk</a></td>
-<td></td>
+<td style="border:1px solid black;">Windows XP Service Pack 2</td>
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=0c1b4c96-57ae-499e-b89b-215b7bb4d8e9">Kritisk</a></td>
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=6daea2af-3723-4cdf-b5bd-b21ac75b5243">Kritisk</a></td>
+<td style="border:1px solid black;"></td>
 </tr>
 <tr class="odd">
-<td>Windows XP Professional x64 Edition</td>
-<td><a href="http://www.microsoft.com/downloads/details.aspx?familyid=3a1166e6-5e9e-4e73-bcd4-28eca6ece877">Kritisk</a></td>
-<td><a href="http://www.microsoft.com/downloads/details.aspx?familyid=1990b2cf-ae88-4849-aeab-3f833969e197">Kritisk</a></td>
-<td></td>
+<td style="border:1px solid black;">Windows XP Professional x64 Edition</td>
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=3a1166e6-5e9e-4e73-bcd4-28eca6ece877">Kritisk</a></td>
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=1990b2cf-ae88-4849-aeab-3f833969e197">Kritisk</a></td>
+<td style="border:1px solid black;"></td>
 </tr>
 <tr class="even">
-<td>Windows 2000 Service Pack 4</td>
-<td><a href="http://www.microsoft.com/downloads/details.aspx?familyid=aa9e27bd-cb9a-4ef1-92a3-00ffe7b2ac74">Kritisk</a></td>
-<td><a href="http://www.microsoft.com/downloads/details.aspx?familyid=dc6c2fe8-3c81-4661-994b-4146775bf590">Kritisk</a></td>
-<td></td>
+<td style="border:1px solid black;">Windows 2000 Service Pack 4</td>
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=aa9e27bd-cb9a-4ef1-92a3-00ffe7b2ac74">Kritisk</a></td>
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=dc6c2fe8-3c81-4661-994b-4146775bf590">Kritisk</a></td>
+<td style="border:1px solid black;"></td>
 </tr>
 <tr class="odd">
-<td>Windows Millennium Edition (Me)</td>
-<td></td>
-<td><strong>[1]</strong></td>
-<td></td>
+<td style="border:1px solid black;">Windows Millennium Edition (Me)</td>
+<td style="border:1px solid black;"></td>
+<td style="border:1px solid black;"><strong>[1]</strong></td>
+<td style="border:1px solid black;"></td>
 </tr>
 <tr class="even">
-<td>Windows 98 Second Edition (SE)</td>
-<td></td>
-<td><strong>[1]</strong></td>
-<td></td>
+<td style="border:1px solid black;">Windows 98 Second Edition (SE)</td>
+<td style="border:1px solid black;"></td>
+<td style="border:1px solid black;"><strong>[1]</strong></td>
+<td style="border:1px solid black;"></td>
 </tr>
 <tr class="odd">
-<td>Windows 98</td>
-<td></td>
-<td><strong>[1]</strong></td>
-<td></td>
+<td style="border:1px solid black;">Windows 98</td>
+<td style="border:1px solid black;"></td>
+<td style="border:1px solid black;"><strong>[1]</strong></td>
+<td style="border:1px solid black;"></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="border:1px solid black;"></td>
+<td style="border:1px solid black;"></td>
+<td style="border:1px solid black;"></td>
+<td style="border:1px solid black;"></td>
 </tr>
 <tr class="odd">
-<td><strong>Berørt Office-programvare:</strong></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="border:1px solid black;"><strong>Berørt Office-programvare:</strong></td>
+<td style="border:1px solid black;"></td>
+<td style="border:1px solid black;"></td>
+<td style="border:1px solid black;"></td>
 </tr>
 <tr class="even">
-<td>Office Outlook 2000</td>
-<td></td>
-<td></td>
-<td><a href="http://www.microsoft.com/downloads/details.aspx?familyid=64d0336d-f962-4ab1-a724-9f6ba2108cb9">Kritisk</a></td>
+<td style="border:1px solid black;">Office Outlook 2000</td>
+<td style="border:1px solid black;"></td>
+<td style="border:1px solid black;"></td>
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=64d0336d-f962-4ab1-a724-9f6ba2108cb9">Kritisk</a></td>
 </tr>
 <tr class="odd">
-<td>Office Outlook 2002</td>
-<td></td>
-<td></td>
-<td><a href="http://www.microsoft.com/downloads/details.aspx?familyid=9a85cebb-0d9a-465d-a4bc-af501562772d">Kritisk</a></td>
+<td style="border:1px solid black;">Office Outlook 2002</td>
+<td style="border:1px solid black;"></td>
+<td style="border:1px solid black;"></td>
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=9a85cebb-0d9a-465d-a4bc-af501562772d">Kritisk</a></td>
 </tr>
 <tr class="even">
-<td>Office Outlook 2003</td>
-<td></td>
-<td></td>
-<td><a href="http://www.microsoft.com/downloads/details.aspx?familyid=1d156043-b041-4305-8442-3c4e3b832788">Kritisk</a></td>
+<td style="border:1px solid black;">Office Outlook 2003</td>
+<td style="border:1px solid black;"></td>
+<td style="border:1px solid black;"></td>
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=1d156043-b041-4305-8442-3c4e3b832788">Kritisk</a></td>
 </tr>
 <tr class="odd">
-<td>Office 2000 MultiLanguage Packs </td>
-<td></td>
-<td></td>
-<td><a href="http://www.microsoft.com/downloads/details.aspx?familyid=2c0fa7c7-91aa-49b4-9731-9e83e3e0823d">Kritisk</a></td>
+<td style="border:1px solid black;">Office 2000 MultiLanguage Packs </td>
+<td style="border:1px solid black;"></td>
+<td style="border:1px solid black;"></td>
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=2c0fa7c7-91aa-49b4-9731-9e83e3e0823d">Kritisk</a></td>
 </tr>
 <tr class="even">
-<td>Office XP Multilingual User Interface Packs</td>
-<td></td>
-<td></td>
-<td><a href="http://www.microsoft.com/downloads/details.aspx?familyid=cca9399a-6da3-4163-8398-c58dc328182b">Kritisk</a></td>
+<td style="border:1px solid black;">Office XP Multilingual User Interface Packs</td>
+<td style="border:1px solid black;"></td>
+<td style="border:1px solid black;"></td>
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=cca9399a-6da3-4163-8398-c58dc328182b">Kritisk</a></td>
 </tr>
 <tr class="odd">
-<td>Office 2003 Multilingual User Interface Packs</td>
-<td></td>
-<td></td>
-<td><a href="http://www.microsoft.com/downloads/details.aspx?familyid=d69554ad-196f-4789-91e5-b2a753eed854">Kritisk</a></td>
+<td style="border:1px solid black;">Office 2003 Multilingual User Interface Packs</td>
+<td style="border:1px solid black;"></td>
+<td style="border:1px solid black;"></td>
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=d69554ad-196f-4789-91e5-b2a753eed854">Kritisk</a></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="border:1px solid black;"></td>
+<td style="border:1px solid black;"></td>
+<td style="border:1px solid black;"></td>
+<td style="border:1px solid black;"></td>
 </tr>
 <tr class="odd">
-<td><strong>Berørt Exchange-programvare:</strong></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="border:1px solid black;"><strong>Berørt Exchange-programvare:</strong></td>
+<td style="border:1px solid black;"></td>
+<td style="border:1px solid black;"></td>
+<td style="border:1px solid black;"></td>
 </tr>
 <tr class="even">
-<td>Exchange 5.0</td>
-<td></td>
-<td></td>
-<td><a href="http://www.microsoft.com/downloads/details.aspx?familyid=0a8df1c3-abf9-4a21-9b49-81fa362b251f">Kritisk</a></td>
+<td style="border:1px solid black;">Exchange 5.0</td>
+<td style="border:1px solid black;"></td>
+<td style="border:1px solid black;"></td>
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=0a8df1c3-abf9-4a21-9b49-81fa362b251f">Kritisk</a></td>
 </tr>
 <tr class="odd">
-<td>Exchange 5.5</td>
-<td></td>
-<td></td>
-<td><a href="http://www.microsoft.com/downloads/details.aspx?familyid=ec6bd30e-12de-4ca1-9432-d2e73af62427">Kritisk</a></td>
+<td style="border:1px solid black;">Exchange 5.5</td>
+<td style="border:1px solid black;"></td>
+<td style="border:1px solid black;"></td>
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=ec6bd30e-12de-4ca1-9432-d2e73af62427">Kritisk</a></td>
 </tr>
 <tr class="even">
-<td>Exchange 2000</td>
-<td></td>
-<td></td>
-<td><a href="http://www.microsoft.com/downloads/details.aspx?familyid=372ff07f-c3ca-4301-8559-9b90344edc02">Kritisk</a></td>
+<td style="border:1px solid black;">Exchange 2000</td>
+<td style="border:1px solid black;"></td>
+<td style="border:1px solid black;"></td>
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=372ff07f-c3ca-4301-8559-9b90344edc02">Kritisk</a></td>
 </tr>
 </tbody>
 </table>

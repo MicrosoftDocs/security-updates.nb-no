@@ -33,109 +33,109 @@ Sikkerhetsbulletinene for denne måneden er som følger, listet etter alvorlighe
 
 ## Kritisk (3)
 
-<table>
+<table style="border:1px solid black;">
 <thead>
 <tr class="header">
-<th>Bulletinidentifikator</th>
-<th>Microsofts sikkerhetsbulletin MS07-064</th>
+<th style="border:1px solid black;">Bulletinidentifikator</th>
+<th style="border:1px solid black;">Microsofts sikkerhetsbulletin MS07-064</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><strong>Bulletintittel</strong></td>
-<td><a href="http://go.microsoft.com/fwlink/?linkid=104988"><strong>Sikkerhetsproblemer i DirectX kan tillate ekstern kjøring av kode (941568)</strong></a></td>
+<td style="border:1px solid black;"><strong>Bulletintittel</strong></td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=104988"><strong>Sikkerhetsproblemer i DirectX kan tillate ekstern kjøring av kode (941568)</strong></a></td>
 </tr>
 <tr class="even">
-<td><strong>Kortfattet sammendrag</strong></td>
-<td>Denne kritiske sikkerhetsoppdateringen løser to personlig rapporterte sikkerhetsproblemer i Microsoft DirectX. Disse sikkerhetsproblemene kan føre til kjøring av kode hvis en bruker åpner en spesiallaget fil brukt til direkteavspilling av media i DirectX. Hvis en bruker er logget på med administrative rettigheter, kan en angriper som klarte å utnytte dette sikkerhetsproblemet, ta kontroll over det berørte systemet. En angriper kan deretter installere programmer, vise, endre eller slette data, eller opprette nye kontoer med fullstendige brukerrettigheter. Brukere med kontoer som er konfigurert med få brukerrettigheter på systemet, er mindre utsatt enn brukere som har administrative rettigheter.</td>
+<td style="border:1px solid black;"><strong>Kortfattet sammendrag</strong></td>
+<td style="border:1px solid black;">Denne kritiske sikkerhetsoppdateringen løser to personlig rapporterte sikkerhetsproblemer i Microsoft DirectX. Disse sikkerhetsproblemene kan føre til kjøring av kode hvis en bruker åpner en spesiallaget fil brukt til direkteavspilling av media i DirectX. Hvis en bruker er logget på med administrative rettigheter, kan en angriper som klarte å utnytte dette sikkerhetsproblemet, ta kontroll over det berørte systemet. En angriper kan deretter installere programmer, vise, endre eller slette data, eller opprette nye kontoer med fullstendige brukerrettigheter. Brukere med kontoer som er konfigurert med få brukerrettigheter på systemet, er mindre utsatt enn brukere som har administrative rettigheter.</td>
 </tr>
 <tr class="odd">
-<td><strong>Maksimal alvorlighetsgrad</strong></td>
-<td><a href="http://go.microsoft.com/fwlink/?linkid=21140">Kritisk</a></td>
+<td style="border:1px solid black;"><strong>Maksimal alvorlighetsgrad</strong></td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">Kritisk</a></td>
 </tr>
 <tr class="even">
-<td><strong>Følger av sikkerhetsproblemet</strong></td>
-<td>Ekstern kjøring av kode</td>
+<td style="border:1px solid black;"><strong>Følger av sikkerhetsproblemet</strong></td>
+<td style="border:1px solid black;">Ekstern kjøring av kode</td>
 </tr>
 <tr class="odd">
-<td><strong>Søking</strong></td>
-<td>Microsoft Baseline Security Analyzer kan finne ut om datasystemet trenger denne oppdateringen. Oppdateringen krever ikke en omstart, unntatt i enkelte situasjoner.</td>
+<td style="border:1px solid black;"><strong>Søking</strong></td>
+<td style="border:1px solid black;">Microsoft Baseline Security Analyzer kan finne ut om datasystemet trenger denne oppdateringen. Oppdateringen krever ikke en omstart, unntatt i enkelte situasjoner.</td>
 </tr>
 <tr class="even">
-<td><strong>Berørt programvare</strong></td>
-<td><strong>Windows, DirectX, DirectShow.</strong> Hvis du vi ha mer informasjon, kan du se delen Berørt programvare og nedlastingssteder.</td>
+<td style="border:1px solid black;"><strong>Berørt programvare</strong></td>
+<td style="border:1px solid black;"><strong>Windows, DirectX, DirectShow.</strong> Hvis du vi ha mer informasjon, kan du se delen Berørt programvare og nedlastingssteder.</td>
 </tr>
 </tbody>
 </table>
 
 
-<table>
+<table style="border:1px solid black;">
 <thead>
 <tr class="header">
-<th>Bulletinidentifikator</th>
-<th>Microsofts sikkerhetsbulletin MS07-068</th>
+<th style="border:1px solid black;">Bulletinidentifikator</th>
+<th style="border:1px solid black;">Microsofts sikkerhetsbulletin MS07-068</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><strong>Bulletintittel</strong></td>
-<td><a href="http://go.microsoft.com/fwlink/?linkid=99075"><strong>Sikkerhetsproblem i Windows Media-filformater kan tillate ekstern kjøring av kode (941569 og 944275)</strong></a></td>
+<td style="border:1px solid black;"><strong>Bulletintittel</strong></td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=99075"><strong>Sikkerhetsproblem i Windows Media-filformater kan tillate ekstern kjøring av kode (941569 og 944275)</strong></a></td>
 </tr>
 <tr class="even">
-<td><strong>Kortfattet sammendrag</strong></td>
-<td>Denne kritiske sikkerhetsoppdateringen løser et personlig rapportert sikkerhetsproblem i Windows Media Format. Dette sikkerhetsproblemet kan føre til ekstern kjøring av kode hvis en bruker åpner en spesiallaget fil i Windows Media Format Runtime. Brukere med kontoer som er konfigurert med få brukerrettigheter på systemet, er mindre utsatt enn brukere som har administrative rettigheter.</td>
+<td style="border:1px solid black;"><strong>Kortfattet sammendrag</strong></td>
+<td style="border:1px solid black;">Denne kritiske sikkerhetsoppdateringen løser et personlig rapportert sikkerhetsproblem i Windows Media Format. Dette sikkerhetsproblemet kan føre til ekstern kjøring av kode hvis en bruker åpner en spesiallaget fil i Windows Media Format Runtime. Brukere med kontoer som er konfigurert med få brukerrettigheter på systemet, er mindre utsatt enn brukere som har administrative rettigheter.</td>
 </tr>
 <tr class="odd">
-<td><strong>Maksimal alvorlighetsgrad</strong></td>
-<td><a href="http://go.microsoft.com/fwlink/?linkid=21140">Kritisk</a></td>
+<td style="border:1px solid black;"><strong>Maksimal alvorlighetsgrad</strong></td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">Kritisk</a></td>
 </tr>
 <tr class="even">
-<td><strong>Følger av sikkerhetsproblemet</strong></td>
-<td>Ekstern kjøring av kode</td>
+<td style="border:1px solid black;"><strong>Følger av sikkerhetsproblemet</strong></td>
+<td style="border:1px solid black;">Ekstern kjøring av kode</td>
 </tr>
 <tr class="odd">
-<td><strong>Søking</strong></td>
-<td>Microsoft Baseline Security Analyzer kan finne ut om datasystemet trenger denne oppdateringen. Oppdateringen krever ikke en omstart, unntatt i enkelte situasjoner.</td>
+<td style="border:1px solid black;"><strong>Søking</strong></td>
+<td style="border:1px solid black;">Microsoft Baseline Security Analyzer kan finne ut om datasystemet trenger denne oppdateringen. Oppdateringen krever ikke en omstart, unntatt i enkelte situasjoner.</td>
 </tr>
 <tr class="even">
-<td><strong>Berørt programvare</strong></td>
-<td><strong>Windows, Windows Media Format Runtime. </strong>Hvis du vi ha mer informasjon, kan du se delen Berørt programvare og nedlastingssteder.</td>
+<td style="border:1px solid black;"><strong>Berørt programvare</strong></td>
+<td style="border:1px solid black;"><strong>Windows, Windows Media Format Runtime. </strong>Hvis du vi ha mer informasjon, kan du se delen Berørt programvare og nedlastingssteder.</td>
 </tr>
 </tbody>
 </table>
 
 
-<table>
+<table style="border:1px solid black;">
 <thead>
 <tr class="header">
-<th>Bulletinidentifikator</th>
-<th>Microsofts sikkerhetsbulletin MS07-069</th>
+<th style="border:1px solid black;">Bulletinidentifikator</th>
+<th style="border:1px solid black;">Microsofts sikkerhetsbulletin MS07-069</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><strong>Bulletintittel</strong></td>
-<td><a href="http://go.microsoft.com/fwlink/?linkid=101160"><strong>Kumulativ sikkerhetsoppdatering for Internet Explorer (942615)</strong></a></td>
+<td style="border:1px solid black;"><strong>Bulletintittel</strong></td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=101160"><strong>Kumulativ sikkerhetsoppdatering for Internet Explorer (942615)</strong></a></td>
 </tr>
 <tr class="even">
-<td><strong>Kortfattet sammendrag</strong></td>
-<td>Denne kritiske sikkerhetsoppdateringen løser fire personlig rapporterte sikkerhetsproblemer. Den mest alvorlige sikkerhetspåvirkningen kan tillate ekstern kjøring av kode hvis en bruker åpner en spesiallaget webside ved hjelp av Internet Explorer. Brukere med kontoer som er konfigurert med få brukerrettigheter på systemet, er mindre utsatt enn brukere som har administrative rettigheter.</td>
+<td style="border:1px solid black;"><strong>Kortfattet sammendrag</strong></td>
+<td style="border:1px solid black;">Denne kritiske sikkerhetsoppdateringen løser fire personlig rapporterte sikkerhetsproblemer. Den mest alvorlige sikkerhetspåvirkningen kan tillate ekstern kjøring av kode hvis en bruker åpner en spesiallaget webside ved hjelp av Internet Explorer. Brukere med kontoer som er konfigurert med få brukerrettigheter på systemet, er mindre utsatt enn brukere som har administrative rettigheter.</td>
 </tr>
 <tr class="odd">
-<td><strong>Maksimal alvorlighetsgrad</strong></td>
-<td><a href="http://go.microsoft.com/fwlink/?linkid=21140">Kritisk</a></td>
+<td style="border:1px solid black;"><strong>Maksimal alvorlighetsgrad</strong></td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">Kritisk</a></td>
 </tr>
 <tr class="even">
-<td><strong>Følger av sikkerhetsproblemet</strong></td>
-<td>Ekstern kjøring av kode</td>
+<td style="border:1px solid black;"><strong>Følger av sikkerhetsproblemet</strong></td>
+<td style="border:1px solid black;">Ekstern kjøring av kode</td>
 </tr>
 <tr class="odd">
-<td><strong>Søking</strong></td>
-<td>Microsoft Baseline Security Analyzer kan finne ut om datasystemet trenger denne oppdateringen. Denne oppdateringen krever en omstart.</td>
+<td style="border:1px solid black;"><strong>Søking</strong></td>
+<td style="border:1px solid black;">Microsoft Baseline Security Analyzer kan finne ut om datasystemet trenger denne oppdateringen. Denne oppdateringen krever en omstart.</td>
 </tr>
 <tr class="even">
-<td><strong>Berørt programvare</strong></td>
-<td><strong>Windows, Internet Explorer. </strong>Hvis du vi ha mer informasjon, kan du se delen Berørt programvare og nedlastingssteder.</td>
+<td style="border:1px solid black;"><strong>Berørt programvare</strong></td>
+<td style="border:1px solid black;"><strong>Windows, Internet Explorer. </strong>Hvis du vi ha mer informasjon, kan du se delen Berørt programvare og nedlastingssteder.</td>
 </tr>
 </tbody>
 </table>
@@ -143,145 +143,145 @@ Sikkerhetsbulletinene for denne måneden er som følger, listet etter alvorlighe
 
 ## Viktig (4)
 
-<table>
+<table style="border:1px solid black;">
 <thead>
 <tr class="header">
-<th>Bulletinidentifikator</th>
-<th>Microsofts sikkerhetsbulletin MS07-063</th>
+<th style="border:1px solid black;">Bulletinidentifikator</th>
+<th style="border:1px solid black;">Microsofts sikkerhetsbulletin MS07-063</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><strong>Bulletintittel</strong></td>
-<td><a href="http://go.microsoft.com/fwlink/?linkid=104920"><strong>Sikkerhetsproblem i SMBv2 kan tillate ekstern kjøring av kode (942624)</strong></a></td>
+<td style="border:1px solid black;"><strong>Bulletintittel</strong></td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=104920"><strong>Sikkerhetsproblem i SMBv2 kan tillate ekstern kjøring av kode (942624)</strong></a></td>
 </tr>
 <tr class="even">
-<td><strong>Kortfattet sammendrag</strong></td>
-<td>Denne viktige sikkerhetsoppdateringen løser et personlig rapportert sikkerhetsproblem i SMB (servermeldingsblokk) versjon 2 (SMBv2). Sikkerhetsproblemet kan gi en angriper tilgang til å manipulere data som overføres via SMBv2, som kan tillate ekstern kjøring av kode i domenekonfigurasjoner med SMBv2.</td>
+<td style="border:1px solid black;"><strong>Kortfattet sammendrag</strong></td>
+<td style="border:1px solid black;">Denne viktige sikkerhetsoppdateringen løser et personlig rapportert sikkerhetsproblem i SMB (servermeldingsblokk) versjon 2 (SMBv2). Sikkerhetsproblemet kan gi en angriper tilgang til å manipulere data som overføres via SMBv2, som kan tillate ekstern kjøring av kode i domenekonfigurasjoner med SMBv2.</td>
 </tr>
 <tr class="odd">
-<td><strong>Maksimal alvorlighetsgrad</strong></td>
-<td><a href="http://go.microsoft.com/fwlink/?linkid=21140">Viktig</a></td>
+<td style="border:1px solid black;"><strong>Maksimal alvorlighetsgrad</strong></td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">Viktig</a></td>
 </tr>
 <tr class="even">
-<td><strong>Følger av sikkerhetsproblemet</strong></td>
-<td>Ekstern kjøring av kode</td>
+<td style="border:1px solid black;"><strong>Følger av sikkerhetsproblemet</strong></td>
+<td style="border:1px solid black;">Ekstern kjøring av kode</td>
 </tr>
 <tr class="odd">
-<td><strong>Søking</strong></td>
-<td>Microsoft Baseline Security Analyzer kan finne ut om datasystemet trenger denne oppdateringen. Denne oppdateringen krever en omstart.</td>
+<td style="border:1px solid black;"><strong>Søking</strong></td>
+<td style="border:1px solid black;">Microsoft Baseline Security Analyzer kan finne ut om datasystemet trenger denne oppdateringen. Denne oppdateringen krever en omstart.</td>
 </tr>
 <tr class="even">
-<td><strong>Berørt programvare</strong></td>
-<td><strong>Windows. </strong>Hvis du vi ha mer informasjon, kan du se delen Berørt programvare og nedlastingssteder.</td>
+<td style="border:1px solid black;"><strong>Berørt programvare</strong></td>
+<td style="border:1px solid black;"><strong>Windows. </strong>Hvis du vi ha mer informasjon, kan du se delen Berørt programvare og nedlastingssteder.</td>
 </tr>
 </tbody>
 </table>
 
 
-<table>
+<table style="border:1px solid black;">
 <thead>
 <tr class="header">
-<th>Bulletinidentifikator</th>
-<th>Microsofts sikkerhetsbulletin MS07-065</th>
+<th style="border:1px solid black;">Bulletinidentifikator</th>
+<th style="border:1px solid black;">Microsofts sikkerhetsbulletin MS07-065</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><strong>Bulletintittel</strong></td>
-<td><a href="http://go.microsoft.com/fwlink/?linkid=94666"><strong>Sikkerhetsproblem i Message Queuing kan føre til ekstern kjøring av kode (937894)</strong></a></td>
+<td style="border:1px solid black;"><strong>Bulletintittel</strong></td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=94666"><strong>Sikkerhetsproblem i Message Queuing kan føre til ekstern kjøring av kode (937894)</strong></a></td>
 </tr>
 <tr class="even">
-<td><strong>Kortfattet sammendrag</strong></td>
-<td>Denne viktige sikkerhetsoppdateringen løser et personlig rapportert sikkerhetsproblem i Message Queuing-tjenesten (MSMQ) som kan tillate ekstern kjøring av kode i implementeringer på Microsoft Windows 2000 Server eller rettighetsutvidelse i implementeringer på Microsoft Windows 2000 Professional og Windows XP. En angriper må ha gyldig påloggingsinformasjon for å utnytte sikkerhetsproblemet med rettighetsutvidelse på Microsoft Windows 2000 Professional og Windows XP. En angriper kan deretter installere programmer, vise, endre eller slette data eller opprette nye kontoer.</td>
+<td style="border:1px solid black;"><strong>Kortfattet sammendrag</strong></td>
+<td style="border:1px solid black;">Denne viktige sikkerhetsoppdateringen løser et personlig rapportert sikkerhetsproblem i Message Queuing-tjenesten (MSMQ) som kan tillate ekstern kjøring av kode i implementeringer på Microsoft Windows 2000 Server eller rettighetsutvidelse i implementeringer på Microsoft Windows 2000 Professional og Windows XP. En angriper må ha gyldig påloggingsinformasjon for å utnytte sikkerhetsproblemet med rettighetsutvidelse på Microsoft Windows 2000 Professional og Windows XP. En angriper kan deretter installere programmer, vise, endre eller slette data eller opprette nye kontoer.</td>
 </tr>
 <tr class="odd">
-<td><strong>Maksimal alvorlighetsgrad</strong></td>
-<td><a href="http://go.microsoft.com/fwlink/?linkid=21140">Viktig</a></td>
+<td style="border:1px solid black;"><strong>Maksimal alvorlighetsgrad</strong></td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">Viktig</a></td>
 </tr>
 <tr class="even">
-<td><strong>Følger av sikkerhetsproblemet</strong></td>
-<td>Ekstern kjøring av kode</td>
+<td style="border:1px solid black;"><strong>Følger av sikkerhetsproblemet</strong></td>
+<td style="border:1px solid black;">Ekstern kjøring av kode</td>
 </tr>
 <tr class="odd">
-<td><strong>Søking</strong></td>
-<td>Microsoft Baseline Security Analyzer kan finne ut om datasystemet trenger denne oppdateringen. Denne oppdateringen krever en omstart.</td>
+<td style="border:1px solid black;"><strong>Søking</strong></td>
+<td style="border:1px solid black;">Microsoft Baseline Security Analyzer kan finne ut om datasystemet trenger denne oppdateringen. Denne oppdateringen krever en omstart.</td>
 </tr>
 <tr class="even">
-<td><strong>Berørt programvare</strong></td>
-<td><strong>Windows. </strong>Hvis du vi ha mer informasjon, kan du se delen Berørt programvare og nedlastingssteder.</td>
+<td style="border:1px solid black;"><strong>Berørt programvare</strong></td>
+<td style="border:1px solid black;"><strong>Windows. </strong>Hvis du vi ha mer informasjon, kan du se delen Berørt programvare og nedlastingssteder.</td>
 </tr>
 </tbody>
 </table>
 
 
-<table>
+<table style="border:1px solid black;">
 <thead>
 <tr class="header">
-<th>Bulletinidentifikator</th>
-<th>Microsofts sikkerhetsbulletin MS07-066</th>
+<th style="border:1px solid black;">Bulletinidentifikator</th>
+<th style="border:1px solid black;">Microsofts sikkerhetsbulletin MS07-066</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><strong>Bulletintittel</strong></td>
-<td><a href="http://go.microsoft.com/fwlink/?linkid=104898"><strong>Sikkerhetsproblem i Windows-kjernen kan tillate rettighetsutvidelse (943078)</strong></a></td>
+<td style="border:1px solid black;"><strong>Bulletintittel</strong></td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=104898"><strong>Sikkerhetsproblem i Windows-kjernen kan tillate rettighetsutvidelse (943078)</strong></a></td>
 </tr>
 <tr class="even">
-<td><strong>Kortfattet sammendrag</strong></td>
-<td>Denne viktige sikkerhetsoppdateringen løser et personlig rapportert sikkerhetsproblem i Windows-kjernen. En angriper som klarer å utnytte dette sikkerhetsproblemet, kan få full kontroll over et berørt system. En angriper kan deretter installere programmer, vise, endre eller slette data, eller opprette nye kontoer med fulle administrative rettigheter.</td>
+<td style="border:1px solid black;"><strong>Kortfattet sammendrag</strong></td>
+<td style="border:1px solid black;">Denne viktige sikkerhetsoppdateringen løser et personlig rapportert sikkerhetsproblem i Windows-kjernen. En angriper som klarer å utnytte dette sikkerhetsproblemet, kan få full kontroll over et berørt system. En angriper kan deretter installere programmer, vise, endre eller slette data, eller opprette nye kontoer med fulle administrative rettigheter.</td>
 </tr>
 <tr class="odd">
-<td><strong>Maksimal alvorlighetsgrad</strong></td>
-<td><a href="http://go.microsoft.com/fwlink/?linkid=21140">Viktig</a></td>
+<td style="border:1px solid black;"><strong>Maksimal alvorlighetsgrad</strong></td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">Viktig</a></td>
 </tr>
 <tr class="even">
-<td><strong>Følger av sikkerhetsproblemet</strong></td>
-<td>Rettighetsutvidelse</td>
+<td style="border:1px solid black;"><strong>Følger av sikkerhetsproblemet</strong></td>
+<td style="border:1px solid black;">Rettighetsutvidelse</td>
 </tr>
 <tr class="odd">
-<td><strong>Søking</strong></td>
-<td>Microsoft Baseline Security Analyzer kan finne ut om datasystemet trenger denne oppdateringen. Denne oppdateringen krever en omstart.</td>
+<td style="border:1px solid black;"><strong>Søking</strong></td>
+<td style="border:1px solid black;">Microsoft Baseline Security Analyzer kan finne ut om datasystemet trenger denne oppdateringen. Denne oppdateringen krever en omstart.</td>
 </tr>
 <tr class="even">
-<td><strong>Berørt programvare</strong></td>
-<td><strong>Windows. </strong>Hvis du vi ha mer informasjon, kan du se delen Berørt programvare og nedlastingssteder.</td>
+<td style="border:1px solid black;"><strong>Berørt programvare</strong></td>
+<td style="border:1px solid black;"><strong>Windows. </strong>Hvis du vi ha mer informasjon, kan du se delen Berørt programvare og nedlastingssteder.</td>
 </tr>
 </tbody>
 </table>
 
 
-<table>
+<table style="border:1px solid black;">
 <thead>
 <tr class="header">
-<th>Bulletinidentifikator</th>
-<th>Microsofts sikkerhetsbulletin MS07-067</th>
+<th style="border:1px solid black;">Bulletinidentifikator</th>
+<th style="border:1px solid black;">Microsofts sikkerhetsbulletin MS07-067</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><strong>Bulletintittel</strong></td>
-<td><a href="http://go.microsoft.com/fwlink/?linkid=104987"><strong>Sikkerhetsproblem i Macrovision-driver kan føre til rettighetsutvidelse (944653)</strong></a></td>
+<td style="border:1px solid black;"><strong>Bulletintittel</strong></td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=104987"><strong>Sikkerhetsproblem i Macrovision-driver kan føre til rettighetsutvidelse (944653)</strong></a></td>
 </tr>
 <tr class="even">
-<td><strong>Kortfattet sammendrag</strong></td>
-<td>Denne viktige sikkerhetsoppdateringen løser ett publisert sikkerhetsproblem. Det er et sikkerhetsproblem som omfatter lokal rettighetsutvidelse i den feilaktige måten Macrovision-driveren behandler konfigurasjonsparametere på. En lokal angriper som klarer å utnytte dette sikkerhetsproblemet, kan få kontroll over systemet. En angriper kan deretter installere programmer, vise, endre eller slette data, eller opprette nye kontoer med fulle administrative rettigheter.</td>
+<td style="border:1px solid black;"><strong>Kortfattet sammendrag</strong></td>
+<td style="border:1px solid black;">Denne viktige sikkerhetsoppdateringen løser ett publisert sikkerhetsproblem. Det er et sikkerhetsproblem som omfatter lokal rettighetsutvidelse i den feilaktige måten Macrovision-driveren behandler konfigurasjonsparametere på. En lokal angriper som klarer å utnytte dette sikkerhetsproblemet, kan få kontroll over systemet. En angriper kan deretter installere programmer, vise, endre eller slette data, eller opprette nye kontoer med fulle administrative rettigheter.</td>
 </tr>
 <tr class="odd">
-<td><strong>Maksimal alvorlighetsgrad</strong></td>
-<td><a href="http://go.microsoft.com/fwlink/?linkid=21140">Viktig</a></td>
+<td style="border:1px solid black;"><strong>Maksimal alvorlighetsgrad</strong></td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">Viktig</a></td>
 </tr>
 <tr class="even">
-<td><strong>Følger av sikkerhetsproblemet</strong></td>
-<td>Lokal rettighetsutvidelse</td>
+<td style="border:1px solid black;"><strong>Følger av sikkerhetsproblemet</strong></td>
+<td style="border:1px solid black;">Lokal rettighetsutvidelse</td>
 </tr>
 <tr class="odd">
-<td><strong>Søking</strong></td>
-<td>Microsoft Baseline Security Analyzer kan finne ut om datasystemet trenger denne oppdateringen. Denne oppdateringen krever en omstart.</td>
+<td style="border:1px solid black;"><strong>Søking</strong></td>
+<td style="border:1px solid black;">Microsoft Baseline Security Analyzer kan finne ut om datasystemet trenger denne oppdateringen. Denne oppdateringen krever en omstart.</td>
 </tr>
 <tr class="even">
-<td><strong>Berørt programvare</strong></td>
-<td><strong>Windows. </strong>Hvis du vi ha mer informasjon, kan du se delen Berørt programvare og nedlastingssteder.</td>
+<td style="border:1px solid black;"><strong>Berørt programvare</strong></td>
+<td style="border:1px solid black;"><strong>Windows. </strong>Hvis du vi ha mer informasjon, kan du se delen Berørt programvare og nedlastingssteder.</td>
 </tr>
 </tbody>
 </table>
@@ -289,7 +289,7 @@ Sikkerhetsbulletinene for denne måneden er som følger, listet etter alvorlighe
 
 ## Berørt programvare og nedlastingssteder
 
-**Hvordan bruker jeg denne tabellen?**
+**Hvordan bruker jeg denne tabellen?**  
 
 Bruk tabellen til å lære om sikkerhetsoppdateringer som du kanskje må installere. Du bør gå gjennom alle oppførte programmer eller programvarekomponenter for å se om det finnes nødvendige sikkerhetsoppdateringer. Hvis et program eller en programvarekomponent er oppført, vil virkningen av sikkerhetsproblemet også være oppført i tillegg til en hyperkobling til den tilgjengelige programvareoppdateringen.
 
@@ -297,306 +297,306 @@ Bruk tabellen til å lære om sikkerhetsoppdateringer som du kanskje må install
 
 **Berørt programvare og nedlastingssteder**
 
-<table xmlns="http://www.w3.org/1999/xhtml">
+<table style="border:1px solid black;" class="dataTable">
   <tr class="thead">
-    <th></th>
-    <th>Detaljer        </th>
-    <th>Detaljer        </th>
-    <th>Detaljer        </th>
-    <th>Detaljer        </th>
-    <th>Detaljer        </th>
-    <th>Detaljer        </th>
-    <th>Detaljer        </th>
+    <th style="border:1px solid black;"></th>
+    <th style="border:1px solid black;">Detaljer        </th>
+    <th style="border:1px solid black;">Detaljer        </th>
+    <th style="border:1px solid black;">Detaljer        </th>
+    <th style="border:1px solid black;">Detaljer        </th>
+    <th style="border:1px solid black;">Detaljer        </th>
+    <th style="border:1px solid black;">Detaljer        </th>
+    <th style="border:1px solid black;">Detaljer        </th>
   </tr>
-            <tr><td>
+            <tr><td style="border:1px solid black;">
                 <strong>Bulletinidentifikator</strong>
-              </td><td>
+              </td><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=104920">
                   <strong>MS07-063</strong>
                 </a>
-              </td><td>
+              </td><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=104988">
                   <strong>MS07-064</strong>
                 </a>
-              </td><td>
+              </td><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=94666">
                   <strong>MS07-065</strong>
                 </a>
-              </td><td>
+              </td><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=104898">
                   <strong>MS07-066</strong>
                 </a>
-              </td><td>
+              </td><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=104987">
                   <strong>MS07-067</strong>
                 </a>
-              </td><td>
+              </td><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=99075">
                   <strong>MS07-068</strong>
                 </a>
-              </td><td>
+              </td><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=101160">
                   <strong>MS07-069</strong>
                 </a>
               </td></tr>
-            <tr class="alternateRow"><td>
+            <tr class="alternateRow"><td style="border:1px solid black;">
                 <strong>Maksimal alvorlighetsgrad</strong>
-              </td><td>
+              </td><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                   <strong>Viktig</strong>
                 </a>
-              </td><td>
+              </td><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                   <strong>Kritisk</strong>
                 </a>
-              </td><td>
+              </td><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                   <strong>Viktig</strong>
                 </a>
-              </td><td>
+              </td><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                   <strong>Viktig</strong>
                 </a>
-              </td><td>
+              </td><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                   <strong>Viktig</strong>
                 </a>
-              </td><td>
+              </td><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                   <strong>Kritisk</strong>
                 </a>
-              </td><td>
+              </td><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                   <strong>Kritisk</strong>
                 </a>
               </td></tr>
           
-            <tr><th colspan="8">Windows-operativsystem:</th></tr>
+            <tr><th colspan="8" style="border:1px solid black;">Windows-operativsystem:</th></tr>
           
-            <tr><td>Microsoft Windows 2000 Server Service Pack 4 og Microsoft Windows 2000 Professional Service Pack 4</td><td /><td>
+            <tr><td style="border:1px solid black;">Microsoft Windows 2000 Server Service Pack 4 og Microsoft Windows 2000 Professional Service Pack 4</td><td /><td style="border:1px solid black;">
                 <strong>[1]</strong>
-              </td><td>
+              </td><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=bda9d0b4-f7cb-4d9d-b030-043d7437734b">Viktig</a>
-              </td><td /><td /><td>
+              </td><td /><td /><td style="border:1px solid black;">
                 <strong>[1]</strong>
-              </td><td>
+              </td><td style="border:1px solid black;">
                 <strong>[1]</strong>
               </td></tr>
-            <tr class="alternateRow"><td>Windows XP Service Pack 2</td><td /><td>
+            <tr class="alternateRow"><td style="border:1px solid black;">Windows XP Service Pack 2</td><td /><td style="border:1px solid black;">
                 <strong>[1]</strong>
-              </td><td>
+              </td><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=09d4e6ae-5d19-4f11-bb7e-60cee8263bc8">Moderat</a>
-              </td><td /><td>
+              </td><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=c7d368d0-f7bf-4946-a4a6-3e88315e5317">Viktig</a>
-              </td><td>
+              </td><td style="border:1px solid black;">
                 <strong>[1]</strong>
-              </td><td>
+              </td><td style="border:1px solid black;">
                 <strong>[1]</strong>
               </td></tr>
-            <tr><td>Windows XP Professional x64 Edition</td><td /><td>
+            <tr><td style="border:1px solid black;">Windows XP Professional x64 Edition</td><td /><td style="border:1px solid black;">
                 <strong>[1]</strong>
-              </td><td /><td /><td>
+              </td><td /><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=5f4fa8e9-fcf2-4daf-93c0-8bb267da69aa">Viktig</a>
-              </td><td>
+              </td><td style="border:1px solid black;">
                 <strong>[1]</strong>
-              </td><td>
+              </td><td style="border:1px solid black;">
                 <strong>[1]</strong>
               </td></tr>
-            <tr class="alternateRow"><td>Windows XP Professional x64 Edition Service Pack 2</td><td /><td>
+            <tr class="alternateRow"><td style="border:1px solid black;">Windows XP Professional x64 Edition Service Pack 2</td><td /><td style="border:1px solid black;">
                 <strong>[1]</strong>
-              </td><td /><td /><td>
+              </td><td /><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=5f4fa8e9-fcf2-4daf-93c0-8bb267da69aa">Viktig</a>
-              </td><td>
+              </td><td style="border:1px solid black;">
                 <strong>[1]</strong>
-              </td><td>
+              </td><td style="border:1px solid black;">
                 <strong>[1]</strong>
               </td></tr>
-            <tr><td>Windows Server 2003 Service Pack 1</td><td /><td>
+            <tr><td style="border:1px solid black;">Windows Server 2003 Service Pack 1</td><td /><td style="border:1px solid black;">
                 <strong>[1]</strong>
-              </td><td /><td /><td>
+              </td><td /><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=0f84f5e2-1dd8-4882-b796-444ab70b6b02">Viktig</a>
-              </td><td>
+              </td><td style="border:1px solid black;">
                 <strong>[1]</strong>
-              </td><td>
+              </td><td style="border:1px solid black;">
                 <strong>[1]</strong>
               </td></tr>
-            <tr class="alternateRow"><td>Windows Server 2003 Service Pack 2</td><td /><td>
+            <tr class="alternateRow"><td style="border:1px solid black;">Windows Server 2003 Service Pack 2</td><td /><td style="border:1px solid black;">
                 <strong>[1]</strong>
-              </td><td /><td /><td>
+              </td><td /><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=0f84f5e2-1dd8-4882-b796-444ab70b6b02">Viktig</a>
-              </td><td>
+              </td><td style="border:1px solid black;">
                 <strong>[1]</strong>
-              </td><td>
+              </td><td style="border:1px solid black;">
                 <strong>[1]</strong>
               </td></tr>
-            <tr><td>Windows Server 2003 x64 Edition</td><td /><td>
+            <tr><td style="border:1px solid black;">Windows Server 2003 x64 Edition</td><td /><td style="border:1px solid black;">
                 <strong>[1]</strong>
-              </td><td /><td /><td>
+              </td><td /><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=1f416b71-783f-4cbc-9b85-9a9be7daa0d7">Viktig</a>
-              </td><td>
+              </td><td style="border:1px solid black;">
                 <strong>[1]</strong>
-              </td><td>
+              </td><td style="border:1px solid black;">
                 <strong>[1]</strong>
               </td></tr>
-            <tr class="alternateRow"><td>Windows Server 2003 x64 Edition Service Pack 2</td><td /><td>
+            <tr class="alternateRow"><td style="border:1px solid black;">Windows Server 2003 x64 Edition Service Pack 2</td><td /><td style="border:1px solid black;">
                 <strong>[1]</strong>
-              </td><td /><td /><td>
+              </td><td /><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=1f416b71-783f-4cbc-9b85-9a9be7daa0d7">Viktig</a>
-              </td><td>
+              </td><td style="border:1px solid black;">
                 <strong>[1]</strong>
-              </td><td>
-                <strong>[1]</strong>
-              </td></tr>
-            <tr><td>Windows Server 2003 SP1 for Itanium-based Systems</td><td /><td>
-                <strong>[1]</strong>
-              </td><td /><td /><td /><td /><td>
+              </td><td style="border:1px solid black;">
                 <strong>[1]</strong>
               </td></tr>
-            <tr class="alternateRow"><td>Windows Server 2003 SP2 for Itanium-based Systems</td><td /><td>
+            <tr><td style="border:1px solid black;">Windows Server 2003 SP1 for Itanium-based Systems</td><td /><td style="border:1px solid black;">
                 <strong>[1]</strong>
-              </td><td /><td /><td /><td /><td>
+              </td><td /><td /><td /><td /><td style="border:1px solid black;">
                 <strong>[1]</strong>
               </td></tr>
-            <tr><td>Windows Vista</td><td>
+            <tr class="alternateRow"><td style="border:1px solid black;">Windows Server 2003 SP2 for Itanium-based Systems</td><td /><td style="border:1px solid black;">
+                <strong>[1]</strong>
+              </td><td /><td /><td /><td /><td style="border:1px solid black;">
+                <strong>[1]</strong>
+              </td></tr>
+            <tr><td style="border:1px solid black;">Windows Vista</td><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=9d22a9ee-cc08-4b2d-af4e-55d326f82761">Viktig</a>
-              </td><td>
+              </td><td style="border:1px solid black;">
                 <strong>[1]</strong>
-              </td><td /><td>
+              </td><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=9787619f-1297-411e-8b9c-3ad3e6a99797">Viktig</a>
-              </td><td /><td>
+              </td><td /><td style="border:1px solid black;">
                 <strong>[1]</strong>
-              </td><td>
+              </td><td style="border:1px solid black;">
                 <strong>[1]</strong>
               </td></tr>
-            <tr class="alternateRow"><td>Windows Vista x64 Edition</td><td>
+            <tr class="alternateRow"><td style="border:1px solid black;">Windows Vista x64 Edition</td><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=05a9501c-4da3-4fa1-901e-99cb262e5e36">Viktig</a>
-              </td><td>
+              </td><td style="border:1px solid black;">
                 <strong>[1]</strong>
-              </td><td /><td>
+              </td><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=5f382050-8df6-43aa-82e9-8fad5ff8ecec">Viktig</a>
-              </td><td /><td>
+              </td><td /><td style="border:1px solid black;">
                 <strong>[1]</strong>
-              </td><td>
+              </td><td style="border:1px solid black;">
                 <strong>[1]</strong>
               </td></tr>
           
-            <tr><th colspan="8">Operativsystemkomponenter for Windows</th></tr>
+            <tr><th colspan="8" style="border:1px solid black;">Operativsystemkomponenter for Windows</th></tr>
           
-            <tr><td>DirectX 7.0 på Microsoft Windows 2000 Service Pack 4</td><td /><td>
+            <tr><td style="border:1px solid black;">DirectX 7.0 på Microsoft Windows 2000 Service Pack 4</td><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=06196774-5a11-4525-b53c-8cb000738949">Kritisk</a>
               </td><td /><td /><td /><td /><td /></tr>
-            <tr class="alternateRow"><td>DirectX 8.1 på Microsoft Windows 2000 Service Pack 4</td><td /><td>
+            <tr class="alternateRow"><td style="border:1px solid black;">DirectX 8.1 på Microsoft Windows 2000 Service Pack 4</td><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=ccb872bd-fc06-4a3f-ac70-3c9a42d57b37">Kritisk</a>
               </td><td /><td /><td /><td /><td /></tr>
-            <tr><td>DirectX 9.0* på Microsoft Windows 2000 Service Pack 4</td><td /><td>
+            <tr><td style="border:1px solid black;">DirectX 9.0* på Microsoft Windows 2000 Service Pack 4</td><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=03b14ce0-5189-4803-8151-6ac5cb6a9179">Kritisk</a>
               </td><td /><td /><td /><td /><td /></tr>
-            <tr class="alternateRow"><td>DirectX 9.0* på Windows XP Service Pack 2</td><td /><td>
+            <tr class="alternateRow"><td style="border:1px solid black;">DirectX 9.0* på Windows XP Service Pack 2</td><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=04a8f8d3-69f9-4445-baab-f45616a6b9b7">Kritisk</a>
               </td><td /><td /><td /><td /><td /></tr>
-            <tr><td>DirectX 9.0* på Windows XP Professional x64 Edition og Windows XP Professional x64 Edition Service Pack 2</td><td /><td>
+            <tr><td style="border:1px solid black;">DirectX 9.0* på Windows XP Professional x64 Edition og Windows XP Professional x64 Edition Service Pack 2</td><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=f096c500-e765-4e75-8443-7ffec4ddf149">Kritisk</a>
               </td><td /><td /><td /><td /><td /></tr>
-            <tr class="alternateRow"><td>DirectX 9.0* på Windows Server 2003 Service Pack 1 og Windows Server 2003 Service Pack 2</td><td /><td>
+            <tr class="alternateRow"><td style="border:1px solid black;">DirectX 9.0* på Windows Server 2003 Service Pack 1 og Windows Server 2003 Service Pack 2</td><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=d80a295a-baf9-4981-8a28-1b4207ecc5f7">Kritisk</a>
               </td><td /><td /><td /><td /><td /></tr>
-            <tr><td>DirectX 9.0* på Windows Server 2003 x64 Edition og Windows Server 2003 x64 Edition Service Pack 2</td><td /><td>
+            <tr><td style="border:1px solid black;">DirectX 9.0* på Windows Server 2003 x64 Edition og Windows Server 2003 x64 Edition Service Pack 2</td><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=378086ea-60b8-409f-970a-fcfd62025150">Kritisk</a>
               </td><td /><td /><td /><td /><td /></tr>
-            <tr class="alternateRow"><td>DirectX 9.0* på Windows Server 2003 med SP1 for Itanium-based Systems og Windows Server 2003 med SP2 for Itanium-based Systems</td><td /><td>
+            <tr class="alternateRow"><td style="border:1px solid black;">DirectX 9.0* på Windows Server 2003 med SP1 for Itanium-based Systems og Windows Server 2003 med SP2 for Itanium-based Systems</td><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=2e6ea4bb-9f4f-46fb-9d51-e20b15e61a89">Kritisk</a>
               </td><td /><td /><td /><td /><td /></tr>
-            <tr><td>DirectX 10.0 på Windows Vista</td><td /><td>
+            <tr><td style="border:1px solid black;">DirectX 10.0 på Windows Vista</td><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=bfa571bc-e43f-45e3-bc98-4086985c99aa">Kritisk</a>
               </td><td /><td /><td /><td /><td /></tr>
-            <tr class="alternateRow"><td>DirectX 10.0 på Windows Vista x64 Edition</td><td /><td>
+            <tr class="alternateRow"><td style="border:1px solid black;">DirectX 10.0 på Windows Vista x64 Edition</td><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=3d8803da-108b-4b9d-a039-84932dce8e42">Kritisk</a>
               </td><td /><td /><td /><td /><td /></tr>
-            <tr><td>Internet Explorer 5.01 Service Pack 4 på Microsoft Windows 2000 Service Pack 4</td><td /><td /><td /><td /><td /><td /><td>
+            <tr><td style="border:1px solid black;">Internet Explorer 5.01 Service Pack 4 på Microsoft Windows 2000 Service Pack 4</td><td /><td /><td /><td /><td /><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=b3bd16ea-5d69-4ae3-84b3-ab773052ceeb">Kritisk</a>
               </td></tr>
-            <tr class="alternateRow"><td>Internet Explorer 6 Service Pack 1 når det er installert på Microsoft Windows 2000 Service Pack 4</td><td /><td /><td /><td /><td /><td /><td>
+            <tr class="alternateRow"><td style="border:1px solid black;">Internet Explorer 6 Service Pack 1 når det er installert på Microsoft Windows 2000 Service Pack 4</td><td /><td /><td /><td /><td /><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=bc8edf05-262a-4d1d-b196-4fc1a844970c">Kritisk</a>
               </td></tr>
-            <tr><td>Internet Explorer 6 for Windows XP Service Pack 2</td><td /><td /><td /><td /><td /><td /><td>
+            <tr><td style="border:1px solid black;">Internet Explorer 6 for Windows XP Service Pack 2</td><td /><td /><td /><td /><td /><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=6e4ebafc-34c3-4dc7-b712-152c611d3f0a">Kritisk</a>
               </td></tr>
-            <tr class="alternateRow"><td>Internet Explorer 6 for Windows XP Professional x64 Edition og Windows XP Professional x64 Edition Service Pack 2</td><td /><td /><td /><td /><td /><td /><td>
+            <tr class="alternateRow"><td style="border:1px solid black;">Internet Explorer 6 for Windows XP Professional x64 Edition og Windows XP Professional x64 Edition Service Pack 2</td><td /><td /><td /><td /><td /><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=f5a5af23-30fb-4e47-94bd-3b05b55c92f2">Kritisk</a>
               </td></tr>
-            <tr><td>Internet Explorer 6 for Windows Server 2003 Service Pack 1 og Windows Server 2003 Service Pack 2</td><td /><td /><td /><td /><td /><td /><td>
+            <tr><td style="border:1px solid black;">Internet Explorer 6 for Windows Server 2003 Service Pack 1 og Windows Server 2003 Service Pack 2</td><td /><td /><td /><td /><td /><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=bf466060-a585-4c2e-a48d-70e080c3bbe7">Moderat</a>
               </td></tr>
-            <tr class="alternateRow"><td>Internet Explorer 6 for Windows Server 2003 x64 Edition og Windows Server 2003 x64 Edition Service Pack 2</td><td /><td /><td /><td /><td /><td /><td>
+            <tr class="alternateRow"><td style="border:1px solid black;">Internet Explorer 6 for Windows Server 2003 x64 Edition og Windows Server 2003 x64 Edition Service Pack 2</td><td /><td /><td /><td /><td /><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=074697f2-18c8-4521-bbf7-1d0e7395d27d">Moderat</a>
               </td></tr>
-            <tr><td>Internet Explorer 6 for Windows Server 2003 med SP1 for Itanium-based Systems og Windows Server 2003 med SP2 for Itanium-based Systems</td><td /><td /><td /><td /><td /><td /><td>
+            <tr><td style="border:1px solid black;">Internet Explorer 6 for Windows Server 2003 med SP1 for Itanium-based Systems og Windows Server 2003 med SP2 for Itanium-based Systems</td><td /><td /><td /><td /><td /><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=b3f390a6-0361-4553-b627-5e7ad6bf5055">Moderat</a>
               </td></tr>
-            <tr class="alternateRow"><td>Internet Explorer 7 for Windows XP Service Pack 2</td><td /><td /><td /><td /><td /><td /><td>
+            <tr class="alternateRow"><td style="border:1px solid black;">Internet Explorer 7 for Windows XP Service Pack 2</td><td /><td /><td /><td /><td /><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=b15a6506-02dd-43c2-aef4-e10c1c76ee97">Kritisk</a>
               </td></tr>
-            <tr><td>Internet Explorer 7 for Windows XP Professional x64 Edition og Windows XP Professional x64 Edition Service Pack 2</td><td /><td /><td /><td /><td /><td /><td>
+            <tr><td style="border:1px solid black;">Internet Explorer 7 for Windows XP Professional x64 Edition og Windows XP Professional x64 Edition Service Pack 2</td><td /><td /><td /><td /><td /><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=c092a6bb-8e62-4d90-bdb1-5f3a15968f75">Kritisk</a>
               </td></tr>
-            <tr class="alternateRow"><td>Internet Explorer 7 for Windows Server 2003 Service Pack 1 og Windows Server 2003 Service Pack 2</td><td /><td /><td /><td /><td /><td /><td>
+            <tr class="alternateRow"><td style="border:1px solid black;">Internet Explorer 7 for Windows Server 2003 Service Pack 1 og Windows Server 2003 Service Pack 2</td><td /><td /><td /><td /><td /><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=34759c10-16a5-42a2-974d-9d532fb5a0a7">Moderat</a>
               </td></tr>
-            <tr><td>Internet Explorer 7 for Windows Server 2003 x64 Edition og Windows Server 2003 x64 Edition Service Pack 2</td><td /><td /><td /><td /><td /><td /><td>
+            <tr><td style="border:1px solid black;">Internet Explorer 7 for Windows Server 2003 x64 Edition og Windows Server 2003 x64 Edition Service Pack 2</td><td /><td /><td /><td /><td /><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=7dccce5a-7562-448b-a345-cf1cc758e35c">Moderat</a>
               </td></tr>
-            <tr class="alternateRow"><td>Internet Explorer 7 for Windows Server 2003 med SP1 for Itanium-based Systems og Windows Server 2003 med SP2 for Itanium-based Systems</td><td /><td /><td /><td /><td /><td /><td>
+            <tr class="alternateRow"><td style="border:1px solid black;">Internet Explorer 7 for Windows Server 2003 med SP1 for Itanium-based Systems og Windows Server 2003 med SP2 for Itanium-based Systems</td><td /><td /><td /><td /><td /><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=8414f3fb-216a-4d46-b590-4c1f304dff91">Moderat</a>
               </td></tr>
-            <tr><td>Internet Explorer 7 i Windows Vista</td><td /><td /><td /><td /><td /><td /><td>
+            <tr><td style="border:1px solid black;">Internet Explorer 7 i Windows Vista</td><td /><td /><td /><td /><td /><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=26d303da-bb2e-4555-96f1-becb0e277341">Kritisk</a>
               </td></tr>
-            <tr class="alternateRow"><td>Internet Explorer 7 i Windows Vista x64 Edition</td><td /><td /><td /><td /><td /><td /><td>
+            <tr class="alternateRow"><td style="border:1px solid black;">Internet Explorer 7 i Windows Vista x64 Edition</td><td /><td /><td /><td /><td /><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=c5e88e0b-a4c2-4690-91d9-326800030a16">Kritisk</a>
               </td></tr>
-            <tr><td>Windows Media Format Runtime 7.1 på Microsoft Windows 2000 Service Pack 4 (KB941569)</td><td /><td /><td /><td /><td /><td>
+            <tr><td style="border:1px solid black;">Windows Media Format Runtime 7.1 på Microsoft Windows 2000 Service Pack 4 (KB941569)</td><td /><td /><td /><td /><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=eecdf2ce-9aa7-4f0c-b62b-2fa7a32f369e">Kritisk</a>
               </td><td /></tr>
-            <tr class="alternateRow"><td>Windows Media Format Runtime 9 på Microsoft Windows 2000 Service Pack 4 (KB941569)</td><td /><td /><td /><td /><td /><td>
+            <tr class="alternateRow"><td style="border:1px solid black;">Windows Media Format Runtime 9 på Microsoft Windows 2000 Service Pack 4 (KB941569)</td><td /><td /><td /><td /><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=eecdf2ce-9aa7-4f0c-b62b-2fa7a32f369e">Kritisk</a>
               </td><td /></tr>
-            <tr><td>Windows Media Format Runtime 9 på Windows XP Service Pack 2 (KB941569)</td><td /><td /><td /><td /><td /><td>
+            <tr><td style="border:1px solid black;">Windows Media Format Runtime 9 på Windows XP Service Pack 2 (KB941569)</td><td /><td /><td /><td /><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=bece702a-6e61-433e-8275-20f4e84f2c92">Kritisk</a>
               </td><td /></tr>
-            <tr class="alternateRow"><td>Windows Media Format Runtime 9.5 på Windows XP Service Pack 2 (KB941569)</td><td /><td /><td /><td /><td /><td>
+            <tr class="alternateRow"><td style="border:1px solid black;">Windows Media Format Runtime 9.5 på Windows XP Service Pack 2 (KB941569)</td><td /><td /><td /><td /><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=bece702a-6e61-433e-8275-20f4e84f2c92">Kritisk</a>
               </td><td /></tr>
-            <tr><td>Windows Media Format Runtime 9.5 på Windows XP Professional x64 Edition og Windows XP Professional x64 Edition Service Pack 2 (KB941569)</td><td /><td /><td /><td /><td /><td>
+            <tr><td style="border:1px solid black;">Windows Media Format Runtime 9.5 på Windows XP Professional x64 Edition og Windows XP Professional x64 Edition Service Pack 2 (KB941569)</td><td /><td /><td /><td /><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=81f20b45-dfc7-4ddf-a4b4-6c0e9476ed51">Kritisk</a>
               </td><td /></tr>
-            <tr class="alternateRow"><td>Windows Media Format Runtime 9.5 på Windows Server 2003 Service Pack 1 og Windows Server 2003 Service Pack 2 (KB941569)</td><td /><td /><td /><td /><td /><td>
+            <tr class="alternateRow"><td style="border:1px solid black;">Windows Media Format Runtime 9.5 på Windows Server 2003 Service Pack 1 og Windows Server 2003 Service Pack 2 (KB941569)</td><td /><td /><td /><td /><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=8fea7da8-a7f3-4786-97c2-fb5ea7018159">Kritisk</a>
               </td><td /></tr>
-            <tr><td>Windows Media Format Runtime 9.5 på Windows Server 2003 x64 Edition og Windows Server 2003 x64 Edition Service Pack 2 (KB941569)</td><td /><td /><td /><td /><td /><td>
+            <tr><td style="border:1px solid black;">Windows Media Format Runtime 9.5 på Windows Server 2003 x64 Edition og Windows Server 2003 x64 Edition Service Pack 2 (KB941569)</td><td /><td /><td /><td /><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=ffc69c76-02f1-4b15-8ec1-dab8c7e33bd4">Kritisk</a>
               </td><td /></tr>
-            <tr class="alternateRow"><td>Windows Media Format Runtime 9.5 x64 Edition på Windows Server 2003 x64 Edition og Windows Server 2003 x64 Edition Service Pack 2 (KB941569)</td><td /><td /><td /><td /><td /><td>
+            <tr class="alternateRow"><td style="border:1px solid black;">Windows Media Format Runtime 9.5 x64 Edition på Windows Server 2003 x64 Edition og Windows Server 2003 x64 Edition Service Pack 2 (KB941569)</td><td /><td /><td /><td /><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=ffc69c76-02f1-4b15-8ec1-dab8c7e33bd4">Kritisk</a>
               </td><td /></tr>
-            <tr><td>Windows Media Format Runtime 9.5 x64 Edition på Windows XP Professional x64 Edition og Windows XP Professional x64 Edition Service Pack 2 (KB941569)</td><td /><td /><td /><td /><td /><td>
+            <tr><td style="border:1px solid black;">Windows Media Format Runtime 9.5 x64 Edition på Windows XP Professional x64 Edition og Windows XP Professional x64 Edition Service Pack 2 (KB941569)</td><td /><td /><td /><td /><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=72d2ca0e-da81-45ee-9321-4970b80f4a5a">Kritisk</a>
               </td><td /></tr>
-            <tr class="alternateRow"><td>Windows Media Format Runtime 11 på Windows XP Service Pack 2 (KB941569)</td><td /><td /><td /><td /><td /><td>
+            <tr class="alternateRow"><td style="border:1px solid black;">Windows Media Format Runtime 11 på Windows XP Service Pack 2 (KB941569)</td><td /><td /><td /><td /><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=bece702a-6e61-433e-8275-20f4e84f2c92">Kritisk</a>
               </td><td /></tr>
-            <tr><td>Windows Media Format Runtime 11 på Windows XP Professional x64 Edition og Windows XP Professional x64 Edition Service Pack 2 (KB941569)</td><td /><td /><td /><td /><td /><td>
+            <tr><td style="border:1px solid black;">Windows Media Format Runtime 11 på Windows XP Professional x64 Edition og Windows XP Professional x64 Edition Service Pack 2 (KB941569)</td><td /><td /><td /><td /><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=1037b224-ac89-4efd-b189-6f3da77a88e6">Kritisk</a>
               </td><td /></tr>
-            <tr class="alternateRow"><td>Windows Media Format Runtime 11 på Windows Vista (KB941569)</td><td /><td /><td /><td /><td /><td>
+            <tr class="alternateRow"><td style="border:1px solid black;">Windows Media Format Runtime 11 på Windows Vista (KB941569)</td><td /><td /><td /><td /><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=9a98ef96-bc2e-42b7-9a24-c82c8fb379db">Kritisk</a>
               </td><td /></tr>
-            <tr><td>Windows Media Format Runtime 11 på Windows Vista x64 Edition (KB941569)</td><td /><td /><td /><td /><td /><td>
+            <tr><td style="border:1px solid black;">Windows Media Format Runtime 11 på Windows Vista x64 Edition (KB941569)</td><td /><td /><td /><td /><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=3ce02c95-d695-4f14-9fb3-30c83a9cfb9c">Kritisk</a>
               </td><td /></tr>
-            <tr class="alternateRow"><td>Windows Media Services 9.1 på Windows Server 2003 Service Pack 1 og Windows Server 2003 Service Pack 2 (KB944275)</td><td /><td /><td /><td /><td /><td>
+            <tr class="alternateRow"><td style="border:1px solid black;">Windows Media Services 9.1 på Windows Server 2003 Service Pack 1 og Windows Server 2003 Service Pack 2 (KB944275)</td><td /><td /><td /><td /><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=096711d4-ce01-45d0-9c2d-ebfa5c671b9f">Kritisk</a>
               </td><td /></tr>
-            <tr><td>Windows Media Services 9.1 x64 Edition på Windows Server 2003 x64 Edition og Windows Server 2003 x64 Edition Service Pack 2 (KB944275)</td><td /><td /><td /><td /><td /><td>
+            <tr><td style="border:1px solid black;">Windows Media Services 9.1 x64 Edition på Windows Server 2003 x64 Edition og Windows Server 2003 x64 Edition Service Pack 2 (KB944275)</td><td /><td /><td /><td /><td /><td style="border:1px solid black;">
                 <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=23c23800-5aaa-455b-96bf-4ead4dfdd95d">Kritisk</a>
               </td><td /></tr>
           </table>
