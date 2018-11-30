@@ -33,26 +33,26 @@ Følgende tabell viser et sammendrag av sikkerhetsbulletinene for denne måneden
 
 Hvis du vil ha informasjon om berørt programvare, kan du se den neste delen, **Berørt programvare og nedlastingssteder**.
 
-<table>
+<table style="border:1px solid black;">
 <thead>
 <tr class="header">
-<th>Bulletin-ID</th>
-<th>Bulletintittel og kortfattet sammendrag</th>
-<th>Maksimal alvorlighetsgrad og følger av sikkerhetsproblemet</th>
-<th>Krav om omstart</th>
-<th>Berørt programvare</th>
+<th style="border:1px solid black;">Bulletin-ID</th>
+<th style="border:1px solid black;">Bulletintittel og kortfattet sammendrag</th>
+<th style="border:1px solid black;">Maksimal alvorlighetsgrad og følger av sikkerhetsproblemet</th>
+<th style="border:1px solid black;">Krav om omstart</th>
+<th style="border:1px solid black;">Berørt programvare</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><a href="http://go.microsoft.com/fwlink/?linkid=132991">MS09-001</a></td>
-<td><strong>Sikkerhetsproblemer i SMB kan tillate ekstern kjøring av kode (958687)</strong><br />
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=132991">MS09-001</a></td>
+<td style="border:1px solid black;"><strong>Sikkerhetsproblemer i SMB kan tillate ekstern kjøring av kode (958687)</strong><br />
 <br />
 Denne sikkerhetsoppdateringen løser to personlige rapporterte sikkerhetsproblemer og et offentlig formidlet sikkerhetsproblem i protokollen for Microsoft-servermeldingsblokken (SMB). Sikkerhetsproblemene kan potensielt tillate ekstern kjøring av kode på berørte systemer. En angriper som utnytter disse sikkerhetsproblemene, kan installere programmer, vise, endre eller slette data, eller opprette nye kontoer med fullstendige brukerrettigheter. Gode fremgangsmåter for brannmurer og vanlige standard brannmurkonfigurasjoner kan beskytte nettverk mot angrep fra andre steder enn innenfor virksomheten. Gode rutiner anbefaler at systemer som er knyttet til Internett, bør eksponere så få porter som mulig.</td>
-<td><a href="http://go.microsoft.com/fwlink/?linkid=21140">Kritisk</a><br />
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">Kritisk</a><br />
 Ekstern kjøring av kode</td>
-<td>Krever omstart</td>
-<td>Microsoft Windows</td>
+<td style="border:1px solid black;">Krever omstart</td>
+<td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 </tbody>
 </table>
@@ -62,41 +62,41 @@ Ekstern kjøring av kode</td>
 
 Følgende tabell gir en utnyttelsesvurdering av hvert av sikkerhetsproblemene som løses denne måneden. Sikkerhetsproblemene er oppført etter bulletin-ID og CVE-ID.
 
-**Hvordan bruker jeg denne tabellen?**
+**Hvordan bruker jeg denne tabellen?**  
 
 Bruk denne tabellen til å få mer informasjon om sannsynligheten for at fungerende skadelig kode blir utgitt innen 30 dager etter at sikkerhetsbulletinen utgis, for hver av sikkerhetsoppdateringene som du kanskje må installere. Du bør se gjennom hver av vurderingene nedenfor, i henhold til din bestemte konfigurasjon, for å prioritere distribusjonen. Hvis du vil ha mer informasjon om hva disse vurderingene betyr, kan du se [Microsoft Exploitability Index](http://technet.microsoft.com/en-us/security/cc998259.aspx).
 
-<table>
+<table style="border:1px solid black;">
 <thead>
 <tr class="header">
-<th>Bulletin-ID</th>
-<th>Bulletintittel</th>
-<th>CVE-ID</th>
-<th>Utnyttelsesindeksvurdering</th>
-<th>Viktige merknader</th>
+<th style="border:1px solid black;">Bulletin-ID</th>
+<th style="border:1px solid black;">Bulletintittel</th>
+<th style="border:1px solid black;">CVE-ID</th>
+<th style="border:1px solid black;">Utnyttelsesindeksvurdering</th>
+<th style="border:1px solid black;">Viktige merknader</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><a href="http://go.microsoft.com/fwlink/?linkid=132991">MS09-001</a></td>
-<td>Sikkerhetsproblemer i SMB kan tillate ekstern kjøring av kode (958687)</td>
-<td><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-4114">CVE-2008-4114</a></td>
-<td><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>3</strong></a> – Fungerende skadelig kode er usannsynlig</td>
-<td>Dette sikkerhetsproblemet har ikke innflytelse på ekstern kjøring av kode. Offentlig 'proof of concept'-kode eksisterer for å utnyte sikkerhetsproblemet for ekstern tjenestenekt.</td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=132991">MS09-001</a></td>
+<td style="border:1px solid black;">Sikkerhetsproblemer i SMB kan tillate ekstern kjøring av kode (958687)</td>
+<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-4114">CVE-2008-4114</a></td>
+<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>3</strong></a> – Fungerende skadelig kode er usannsynlig</td>
+<td style="border:1px solid black;">Dette sikkerhetsproblemet har ikke innflytelse på ekstern kjøring av kode. Offentlig 'proof of concept'-kode eksisterer for å utnyte sikkerhetsproblemet for ekstern tjenestenekt.</td>
 </tr>
 <tr class="even">
-<td><a href="http://go.microsoft.com/fwlink/?linkid=132991">MS09-001</a></td>
-<td>Sikkerhetsproblemer i SMB kan tillate ekstern kjøring av kode (958687)</td>
-<td><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-4834">CVE-2008-4834</a></td>
-<td><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>3</strong></a> – Fungerende skadelig kode er usannsynlig</td>
-<td>Selv om dette er et sikkerhetsproblem som kan forårsake ekstern kjøring av kode, er fungerende skadelig kode usannsynlig. Hvis du vil ha mer informasjon, kan du se <a href="http://blogs.technet.com/swi/archive/2009/01/09/ms09-001-prioritizing-the-deployment-of-the-smb-bulletin.aspx">Prioritizing the deployment of the SMB bulletin</a> i Microsofts blogg om forskning og forsvar for sikkerhetsproblemer.</td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=132991">MS09-001</a></td>
+<td style="border:1px solid black;">Sikkerhetsproblemer i SMB kan tillate ekstern kjøring av kode (958687)</td>
+<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-4834">CVE-2008-4834</a></td>
+<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>3</strong></a> – Fungerende skadelig kode er usannsynlig</td>
+<td style="border:1px solid black;">Selv om dette er et sikkerhetsproblem som kan forårsake ekstern kjøring av kode, er fungerende skadelig kode usannsynlig. Hvis du vil ha mer informasjon, kan du se <a href="http://blogs.technet.com/swi/archive/2009/01/09/ms09-001-prioritizing-the-deployment-of-the-smb-bulletin.aspx">Prioritizing the deployment of the SMB bulletin</a> i Microsofts blogg om forskning og forsvar for sikkerhetsproblemer.</td>
 </tr>
 <tr class="odd">
-<td><a href="http://go.microsoft.com/fwlink/?linkid=132991">MS09-001</a></td>
-<td>Sikkerhetsproblemer i SMB kan tillate ekstern kjøring av kode (958687)</td>
-<td><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-4835">CVE-2008-4835</a></td>
-<td><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>3</strong></a> – Fungerende skadelig kode er usannsynlig</td>
-<td>Selv om dette er et sikkerhetsproblem som kan forårsake ekstern kjøring av kode, er fungerende skadelig kode usannsynlig. Hvis du vil ha mer informasjon, kan du se <a href="http://blogs.technet.com/swi/archive/2009/01/09/ms09-001-prioritizing-the-deployment-of-the-smb-bulletin.aspx">Prioritizing the deployment of the SMB bulletin</a> i Microsofts blogg om forskning og forsvar for sikkerhetsproblemer.</td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=132991">MS09-001</a></td>
+<td style="border:1px solid black;">Sikkerhetsproblemer i SMB kan tillate ekstern kjøring av kode (958687)</td>
+<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-4835">CVE-2008-4835</a></td>
+<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>3</strong></a> – Fungerende skadelig kode er usannsynlig</td>
+<td style="border:1px solid black;">Selv om dette er et sikkerhetsproblem som kan forårsake ekstern kjøring av kode, er fungerende skadelig kode usannsynlig. Hvis du vil ha mer informasjon, kan du se <a href="http://blogs.technet.com/swi/archive/2009/01/09/ms09-001-prioritizing-the-deployment-of-the-smb-bulletin.aspx">Prioritizing the deployment of the SMB bulletin</a> i Microsofts blogg om forskning og forsvar for sikkerhetsproblemer.</td>
 </tr>
 </tbody>
 </table>
@@ -106,7 +106,7 @@ Bruk denne tabellen til å få mer informasjon om sannsynligheten for at fungere
 
 Følgende tabeller viser bulletinene etter store programvarekategorier og alvorlighetsgrad.
 
-**Hvordan bruker jeg disse tabellene?**
+**Hvordan bruker jeg disse tabellene?**  
 
 Bruk disse tabellene til å lære om sikkerhetsoppdateringer som du kanskje må installere. Du bør gå gjennom alle oppførte programmer eller programvarekomponenter for å se om det kommer noen sikkerhetsoppdateringer som angår installasjonen din. Hvis programvare eller en komponent står oppført, finnes en hyperkobling til den tilgjengelige programvareoppdateringen, og alvorlighetsgraden av programvareoppdateringen er også oppført.
 
@@ -114,124 +114,124 @@ Bruk disse tabellene til å lære om sikkerhetsoppdateringer som du kanskje må 
 
 #### Operativsystemer og komponenter for Windows
 
-<table xmlns="http://www.w3.org/1999/xhtml">
+<table style="border:1px solid black;" class="dataTable">
   <tr class="thead">
-    <th></th>
-    <th></th>
+    <th style="border:1px solid black;"></th>
+    <th style="border:1px solid black;"></th>
   </tr>
-                <tr><th colspan="2">Microsoft Windows 2000</th></tr>
+                <tr><th colspan="" style="border:1px solid black;">Microsoft Windows 2000</th></tr>
               
-                <tr><td>
+                <tr><td style="border:1px solid black;">
                     <strong>Bulletinidentifikator</strong>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=132991">
                       <strong>MS09-001</strong>
                     </a>
                   </td></tr>
-                <tr class="alternateRow"><td>
+                <tr class="alternateRow"><td style="border:1px solid black;">
                     <strong>Samlet alvorlighetsgrad</strong>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Kritisk</strong>
                     </a>
                   </td></tr>
-                <tr><td>Microsoft Windows 2000 Service Pack 4</td><td>
+                <tr><td style="border:1px solid black;">Microsoft Windows 2000 Service Pack 4</td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=e0678d14-c1b5-457a-8222-8e7682760ed4">Microsoft Windows 2000 Service Pack 4</a>
                     <br />(Kritisk)</td></tr>
               
-                <tr><th colspan="2">Windows XP</th></tr>
+                <tr><th colspan="" style="border:1px solid black;">Windows XP</th></tr>
               
-                <tr class="alternateRow"><td>
+                <tr class="alternateRow"><td style="border:1px solid black;">
                     <strong>Bulletinidentifikator</strong>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=132991">
                       <strong>MS09-001</strong>
                     </a>
                   </td></tr>
-                <tr><td>
+                <tr><td style="border:1px solid black;">
                     <strong>Samlet alvorlighetsgrad</strong>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Kritisk</strong>
                     </a>
                   </td></tr>
-                <tr class="alternateRow"><td>Windows XP Service Pack 2 og Windows XP Service Pack 3</td><td>
+                <tr class="alternateRow"><td style="border:1px solid black;">Windows XP Service Pack 2 og Windows XP Service Pack 3</td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=eeafcdc5-df39-4b29-b6f1-7d32b64761e1">Windows XP Service Pack 2 og Windows XP Service Pack 3</a>
                     <br />(Kritisk)</td></tr>
-                <tr><td>Windows XP Professional x64 Edition og Windows XP Professional x64 Edition Service Pack 2</td><td>
+                <tr><td style="border:1px solid black;">Windows XP Professional x64 Edition og Windows XP Professional x64 Edition Service Pack 2</td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=26898401-f669-4542-ad93-199ed1fe9a2a">Windows XP Professional x64 Edition og Windows XP Professional x64 Edition Service Pack 2</a>
                     <br />(Kritisk)</td></tr>
               
-                <tr><th colspan="2">Windows Server 2003</th></tr>
+                <tr><th colspan="" style="border:1px solid black;">Windows Server 2003</th></tr>
               
-                <tr class="alternateRow"><td>
+                <tr class="alternateRow"><td style="border:1px solid black;">
                     <strong>Bulletinidentifikator</strong>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=132991">
                       <strong>MS09-001</strong>
                     </a>
                   </td></tr>
-                <tr><td>
+                <tr><td style="border:1px solid black;">
                     <strong>Samlet alvorlighetsgrad</strong>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Kritisk</strong>
                     </a>
                   </td></tr>
-                <tr class="alternateRow"><td>Windows Server 2003 Service Pack 1 og Windows Server 2003 Service Pack 2</td><td>
+                <tr class="alternateRow"><td style="border:1px solid black;">Windows Server 2003 Service Pack 1 og Windows Server 2003 Service Pack 2</td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=588ca8e8-38a9-47ed-9c41-09aaf1022e49">Windows Server 2003 Service Pack 1 og Windows Server 2003 Service Pack 2</a>
                     <br />(Kritisk)</td></tr>
-                <tr><td>Windows Server 2003 x64 Edition og Windows Server 2003 x64 Edition Service Pack 2</td><td>
+                <tr><td style="border:1px solid black;">Windows Server 2003 x64 Edition og Windows Server 2003 x64 Edition Service Pack 2</td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=ee59441c-1e8f-4425-ae8d-dec14e7f13fb">Windows Server 2003 x64 Edition og Windows Server 2003 x64 Edition Service Pack 2</a>
                     <br />(Kritisk)</td></tr>
-                <tr class="alternateRow"><td>Windows Server 2003 SP1 for Itanium-based Systems og Windows Server 2003 SP2 for Itanium-based Systems</td><td>
+                <tr class="alternateRow"><td style="border:1px solid black;">Windows Server 2003 SP1 for Itanium-based Systems og Windows Server 2003 SP2 for Itanium-based Systems</td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=caec9321-fa5b-42f0-9f26-61f673fe6eef">Windows Server 2003 SP1 for Itanium-based Systems og Windows Server 2003 SP2 for Itanium-based Systems</a>
                     <br />(Kritisk)</td></tr>
               
-                <tr><th colspan="2">Windows Vista</th></tr>
+                <tr><th colspan="" style="border:1px solid black;">Windows Vista</th></tr>
               
-                <tr><td>
+                <tr><td style="border:1px solid black;">
                     <strong>Bulletinidentifikator</strong>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=132991">
                       <strong>MS09-001</strong>
                     </a>
                   </td></tr>
-                <tr class="alternateRow"><td>
+                <tr class="alternateRow"><td style="border:1px solid black;">
                     <strong>Samlet alvorlighetsgrad</strong>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Moderat</strong>
                     </a>
                   </td></tr>
-                <tr><td>Windows Vista og Windows Vista Service Pack 1</td><td>
+                <tr><td style="border:1px solid black;">Windows Vista og Windows Vista Service Pack 1</td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=9179c463-c10a-452a-990f-b7e37cdd889b">Windows Vista og Windows Vista Service Pack 1</a>
                     <br />(Moderat)</td></tr>
-                <tr class="alternateRow"><td>Windows Vista x64 Edition og Windows Vista x64 Edition Service Pack 1</td><td>
+                <tr class="alternateRow"><td style="border:1px solid black;">Windows Vista x64 Edition og Windows Vista x64 Edition Service Pack 1</td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=6b26952e-b59d-4b0f-a52d-025e45ecd233">Windows Vista x64 Edition og Windows Vista x64 Edition Service Pack 1</a>
                     <br />(Moderat)</td></tr>
               
-                <tr><th colspan="2">Windows Server 2008</th></tr>
+                <tr><th colspan="" style="border:1px solid black;">Windows Server 2008</th></tr>
               
-                <tr><td>
+                <tr><td style="border:1px solid black;">
                     <strong>Bulletinidentifikator</strong>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=132991">
                       <strong>MS09-001</strong>
                     </a>
                   </td></tr>
-                <tr class="alternateRow"><td>
+                <tr class="alternateRow"><td style="border:1px solid black;">
                     <strong>Samlet alvorlighetsgrad</strong>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Moderat</strong>
                     </a>
                   </td></tr>
-                <tr><td>Windows Server 2008 for 32-biters systemer</td><td>
+                <tr><td style="border:1px solid black;">Windows Server 2008 for 32-biters systemer</td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=7245b411-7c9e-41e5-9841-4c586336086c">Windows Server 2008 for 32-biters systemer</a>*<br />(Moderat)</td></tr>
-                <tr class="alternateRow"><td>Windows Server 2008 for x64-baserte systemer</td><td>
+                <tr class="alternateRow"><td style="border:1px solid black;">Windows Server 2008 for x64-baserte systemer</td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=a241eaad-95a0-442b-978f-f21a6f0c7db4">Windows Server 2008 for x64-baserte systemer</a>*<br />(Moderat)</td></tr>
-                <tr><td>Windows Server 2008 for Itanium-based Systems</td><td>
+                <tr><td style="border:1px solid black;">Windows Server 2008 for Itanium-based Systems</td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=ab7c7015-20bb-4a0c-977a-969f4e2a5189">Windows Server 2008 for Itanium-based Systems</a>
                     <br />(Moderat)</td></tr>
               </table>

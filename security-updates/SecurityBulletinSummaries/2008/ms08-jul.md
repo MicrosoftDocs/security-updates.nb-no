@@ -33,145 +33,145 @@ Sikkerhetsbulletinene for denne måneden er som følger, listet etter alvorlighe
 
 ## Viktig (4)
 
-<table>
+<table style="border:1px solid black;">
 <thead>
 <tr class="header">
-<th>Bulletinidentifikator</th>
-<th>Microsofts sikkerhetsbulletin MS08-040</th>
+<th style="border:1px solid black;">Bulletinidentifikator</th>
+<th style="border:1px solid black;">Microsofts sikkerhetsbulletin MS08-040</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><strong>Bulletintittel</strong></td>
-<td><a href="http://go.microsoft.com/fwlink/?linkid=113725"><strong>Sikkerhetsproblemer i Microsoft SQL Server kan føre til rettighetsutvidelse (941203)</strong></a></td>
+<td style="border:1px solid black;"><strong>Bulletintittel</strong></td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=113725"><strong>Sikkerhetsproblemer i Microsoft SQL Server kan føre til rettighetsutvidelse (941203)</strong></a></td>
 </tr>
 <tr class="even">
-<td><strong>Kortfattet sammendrag</strong></td>
-<td>Denne sikkerhetsoppdateringen løser fire privat offentliggjorte sikkerhetsproblemer. De mest alvorlige sikkerhetsproblemene kan føre til at en angriper kan kjøre kode og ta fullstendig kontroll over et berørt system. En godkjent angriper kan deretter installere programmer, vise, endre eller slette data eller opprette nye kontoer med fullstendige administrative rettigheter.</td>
+<td style="border:1px solid black;"><strong>Kortfattet sammendrag</strong></td>
+<td style="border:1px solid black;">Denne sikkerhetsoppdateringen løser fire privat offentliggjorte sikkerhetsproblemer. De mest alvorlige sikkerhetsproblemene kan føre til at en angriper kan kjøre kode og ta fullstendig kontroll over et berørt system. En godkjent angriper kan deretter installere programmer, vise, endre eller slette data eller opprette nye kontoer med fullstendige administrative rettigheter.</td>
 </tr>
 <tr class="odd">
-<td><strong>Maksimal alvorlighetsgrad</strong></td>
-<td><a href="http://go.microsoft.com/fwlink/?linkid=21140">Viktig</a></td>
+<td style="border:1px solid black;"><strong>Maksimal alvorlighetsgrad</strong></td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">Viktig</a></td>
 </tr>
 <tr class="even">
-<td><strong>Følger av sikkerhetsproblemet</strong></td>
-<td>Rettighetsutvidelse</td>
+<td style="border:1px solid black;"><strong>Følger av sikkerhetsproblemet</strong></td>
+<td style="border:1px solid black;">Rettighetsutvidelse</td>
 </tr>
 <tr class="odd">
-<td><strong>Søking</strong></td>
-<td>Microsoft Baseline Security Analyzer kan finne ut om datasystemet trenger denne oppdateringen. Denne oppdateringen kan kreve en omstart.</td>
+<td style="border:1px solid black;"><strong>Søking</strong></td>
+<td style="border:1px solid black;">Microsoft Baseline Security Analyzer kan finne ut om datasystemet trenger denne oppdateringen. Denne oppdateringen kan kreve en omstart.</td>
 </tr>
 <tr class="even">
-<td><strong>Berørt programvare</strong></td>
-<td><strong>Microsoft Windows, Microsoft SQL Server.</strong> Hvis du vi ha mer informasjon, kan du se delen Berørt programvare og nedlastingssteder.</td>
+<td style="border:1px solid black;"><strong>Berørt programvare</strong></td>
+<td style="border:1px solid black;"><strong>Microsoft Windows, Microsoft SQL Server.</strong> Hvis du vi ha mer informasjon, kan du se delen Berørt programvare og nedlastingssteder.</td>
 </tr>
 </tbody>
 </table>
 
 
-<table>
+<table style="border:1px solid black;">
 <thead>
 <tr class="header">
-<th>Bulletinidentifikator</th>
-<th>Microsofts sikkerhetsbulletin MS08-038</th>
+<th style="border:1px solid black;">Bulletinidentifikator</th>
+<th style="border:1px solid black;">Microsofts sikkerhetsbulletin MS08-038</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><strong>Bulletintittel</strong></td>
-<td><a href="http://go.microsoft.com/fwlink/?linkid=117296"><strong>Sikkerhetsproblem i Windows Utforsker kan tillate ekstern kjøring av kode (950582)</strong></a></td>
+<td style="border:1px solid black;"><strong>Bulletintittel</strong></td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=117296"><strong>Sikkerhetsproblem i Windows Utforsker kan tillate ekstern kjøring av kode (950582)</strong></a></td>
 </tr>
 <tr class="even">
-<td><strong>Kortfattet sammendrag</strong></td>
-<td>Denne sikkerhetsoppdateringen løser et offentlig rapportert sikkerhetsproblem i Windows Explorer som kan tillate ekstern kjøring av kode når en spesiallaget lagret søk-fil åpnes og lagres. Hvis en bruker er logget på med administrative rettigheter, kan en angriper som klarte å utnytte dette sikkerhetsproblemet, ta kontroll over det berørte systemet. En angriper kan deretter installere programmer, vise, endre eller slette data, eller opprette nye kontoer med fullstendige brukerrettigheter. Brukere med kontoer som er konfigurert med få brukerrettigheter på systemet, er mindre utsatt enn brukere som har administrative rettigheter.</td>
+<td style="border:1px solid black;"><strong>Kortfattet sammendrag</strong></td>
+<td style="border:1px solid black;">Denne sikkerhetsoppdateringen løser et offentlig rapportert sikkerhetsproblem i Windows Explorer som kan tillate ekstern kjøring av kode når en spesiallaget lagret søk-fil åpnes og lagres. Hvis en bruker er logget på med administrative rettigheter, kan en angriper som klarte å utnytte dette sikkerhetsproblemet, ta kontroll over det berørte systemet. En angriper kan deretter installere programmer, vise, endre eller slette data, eller opprette nye kontoer med fullstendige brukerrettigheter. Brukere med kontoer som er konfigurert med få brukerrettigheter på systemet, er mindre utsatt enn brukere som har administrative rettigheter.</td>
 </tr>
 <tr class="odd">
-<td><strong>Maksimal alvorlighetsgrad</strong></td>
-<td><a href="http://go.microsoft.com/fwlink/?linkid=21140">Viktig</a></td>
+<td style="border:1px solid black;"><strong>Maksimal alvorlighetsgrad</strong></td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">Viktig</a></td>
 </tr>
 <tr class="even">
-<td><strong>Følger av sikkerhetsproblemet</strong></td>
-<td>Ekstern kjøring av kode</td>
+<td style="border:1px solid black;"><strong>Følger av sikkerhetsproblemet</strong></td>
+<td style="border:1px solid black;">Ekstern kjøring av kode</td>
 </tr>
 <tr class="odd">
-<td><strong>Søking</strong></td>
-<td>Microsoft Baseline Security Analyzer kan finne ut om datasystemet trenger denne oppdateringen. Denne oppdateringen krever omstart.</td>
+<td style="border:1px solid black;"><strong>Søking</strong></td>
+<td style="border:1px solid black;">Microsoft Baseline Security Analyzer kan finne ut om datasystemet trenger denne oppdateringen. Denne oppdateringen krever omstart.</td>
 </tr>
 <tr class="even">
-<td><strong>Berørt programvare</strong></td>
-<td><strong>Microsoft Windows.</strong> Hvis du vi ha mer informasjon, kan du se delen Berørt programvare og nedlastingssteder.</td>
+<td style="border:1px solid black;"><strong>Berørt programvare</strong></td>
+<td style="border:1px solid black;"><strong>Microsoft Windows.</strong> Hvis du vi ha mer informasjon, kan du se delen Berørt programvare og nedlastingssteder.</td>
 </tr>
 </tbody>
 </table>
 
 
-<table>
+<table style="border:1px solid black;">
 <thead>
 <tr class="header">
-<th>Bulletinidentifikator</th>
-<th>Microsofts sikkerhetsbulletin MS08-037</th>
+<th style="border:1px solid black;">Bulletinidentifikator</th>
+<th style="border:1px solid black;">Microsofts sikkerhetsbulletin MS08-037</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><strong>Bulletintittel</strong></td>
-<td><a href="http://go.microsoft.com/fwlink/?linkid=119620"><strong>Sikkerhetsproblem i DNS kan tillate etterligningsangrep (953230)</strong></a></td>
+<td style="border:1px solid black;"><strong>Bulletintittel</strong></td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=119620"><strong>Sikkerhetsproblem i DNS kan tillate etterligningsangrep (953230)</strong></a></td>
 </tr>
 <tr class="even">
-<td><strong>Kortfattet sammendrag</strong></td>
-<td>Denne sikkerhetsoppdateringen løser to personlig rapporterte sikkerhetsproblemer i DNS (Domain Name System) i Windows som kan tillate etterligningsangrep. Disse sikkerhetsproblemene finnes i både DNS-klienten og DNS-serveren og kan tillate at en ekstern angriper omadresserer nettverkstrafikk som er ment for systemer på Internett, til angriperens egne systemer.</td>
+<td style="border:1px solid black;"><strong>Kortfattet sammendrag</strong></td>
+<td style="border:1px solid black;">Denne sikkerhetsoppdateringen løser to personlig rapporterte sikkerhetsproblemer i DNS (Domain Name System) i Windows som kan tillate etterligningsangrep. Disse sikkerhetsproblemene finnes i både DNS-klienten og DNS-serveren og kan tillate at en ekstern angriper omadresserer nettverkstrafikk som er ment for systemer på Internett, til angriperens egne systemer.</td>
 </tr>
 <tr class="odd">
-<td><strong>Maksimal alvorlighetsgrad</strong></td>
-<td><a href="http://go.microsoft.com/fwlink/?linkid=21140">Viktig</a></td>
+<td style="border:1px solid black;"><strong>Maksimal alvorlighetsgrad</strong></td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">Viktig</a></td>
 </tr>
 <tr class="even">
-<td><strong>Følger av sikkerhetsproblemet</strong></td>
-<td>Etterligningsangrep</td>
+<td style="border:1px solid black;"><strong>Følger av sikkerhetsproblemet</strong></td>
+<td style="border:1px solid black;">Etterligningsangrep</td>
 </tr>
 <tr class="odd">
-<td><strong>Søking</strong></td>
-<td>Microsoft Baseline Security Analyzer kan finne ut om datasystemet trenger denne oppdateringen. Denne oppdateringen krever omstart.</td>
+<td style="border:1px solid black;"><strong>Søking</strong></td>
+<td style="border:1px solid black;">Microsoft Baseline Security Analyzer kan finne ut om datasystemet trenger denne oppdateringen. Denne oppdateringen krever omstart.</td>
 </tr>
 <tr class="even">
-<td><strong>Berørt programvare</strong></td>
-<td><strong>Microsoft Windows.</strong> Hvis du vi ha mer informasjon, kan du se delen Berørt programvare og nedlastingssteder.</td>
+<td style="border:1px solid black;"><strong>Berørt programvare</strong></td>
+<td style="border:1px solid black;"><strong>Microsoft Windows.</strong> Hvis du vi ha mer informasjon, kan du se delen Berørt programvare og nedlastingssteder.</td>
 </tr>
 </tbody>
 </table>
 
 
-<table>
+<table style="border:1px solid black;">
 <thead>
 <tr class="header">
-<th>Bulletinidentifikator</th>
-<th>Microsofts sikkerhetsbulletin MS08-039</th>
+<th style="border:1px solid black;">Bulletinidentifikator</th>
+<th style="border:1px solid black;">Microsofts sikkerhetsbulletin MS08-039</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><strong>Bulletintittel</strong></td>
-<td><a href="http://go.microsoft.com/fwlink/?linkid=120820"><strong>Sikkerhetsproblemer i Outlook Web Access for Exchange Server kan tillate rettighetsutvidelse (953747)</strong></a></td>
+<td style="border:1px solid black;"><strong>Bulletintittel</strong></td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=120820"><strong>Sikkerhetsproblemer i Outlook Web Access for Exchange Server kan tillate rettighetsutvidelse (953747)</strong></a></td>
 </tr>
 <tr class="even">
-<td><strong>Kortfattet sammendrag</strong></td>
-<td>Denne sikkerhetsoppdateringen løser to personlig rapporterte sikkerhetsproblemer i Outlook Web Access (OWA) for Microsoft Exchange Server. En angriper som utnytter disse sikkerhetsproblemene, kan få tilgang til en enkeltklients OWA-øktdata, noe som kan tillate rettighetsutvidelse. Angriperen kan deretter utføre en hvilken som helst handling som brukeren kunne utføre fra enkeltklientens OWA-økt.</td>
+<td style="border:1px solid black;"><strong>Kortfattet sammendrag</strong></td>
+<td style="border:1px solid black;">Denne sikkerhetsoppdateringen løser to personlig rapporterte sikkerhetsproblemer i Outlook Web Access (OWA) for Microsoft Exchange Server. En angriper som utnytter disse sikkerhetsproblemene, kan få tilgang til en enkeltklients OWA-øktdata, noe som kan tillate rettighetsutvidelse. Angriperen kan deretter utføre en hvilken som helst handling som brukeren kunne utføre fra enkeltklientens OWA-økt.</td>
 </tr>
 <tr class="odd">
-<td><strong>Maksimal alvorlighetsgrad</strong></td>
-<td><a href="http://go.microsoft.com/fwlink/?linkid=21140">Viktig</a></td>
+<td style="border:1px solid black;"><strong>Maksimal alvorlighetsgrad</strong></td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">Viktig</a></td>
 </tr>
 <tr class="even">
-<td><strong>Følger av sikkerhetsproblemet</strong></td>
-<td>Rettighetsutvidelse</td>
+<td style="border:1px solid black;"><strong>Følger av sikkerhetsproblemet</strong></td>
+<td style="border:1px solid black;">Rettighetsutvidelse</td>
 </tr>
 <tr class="odd">
-<td><strong>Søking</strong></td>
-<td>Microsoft Baseline Security Analyzer kan finne ut om datasystemet trenger denne oppdateringen. Denne oppdateringen kan kreve en omstart.</td>
+<td style="border:1px solid black;"><strong>Søking</strong></td>
+<td style="border:1px solid black;">Microsoft Baseline Security Analyzer kan finne ut om datasystemet trenger denne oppdateringen. Denne oppdateringen kan kreve en omstart.</td>
 </tr>
 <tr class="even">
-<td><strong>Berørt programvare</strong></td>
-<td><strong>Microsoft Windows.</strong> Hvis du vi ha mer informasjon, kan du se delen Berørt programvare og nedlastingssteder.</td>
+<td style="border:1px solid black;"><strong>Berørt programvare</strong></td>
+<td style="border:1px solid black;"><strong>Microsoft Windows.</strong> Hvis du vi ha mer informasjon, kan du se delen Berørt programvare og nedlastingssteder.</td>
 </tr>
 </tbody>
 </table>
@@ -179,7 +179,7 @@ Sikkerhetsbulletinene for denne måneden er som følger, listet etter alvorlighe
 
 ## Berørt programvare og nedlastingssteder
 
-**Hvordan bruker jeg denne tabellen?**
+**Hvordan bruker jeg denne tabellen?**  
 
 Bruk tabellen til å lære om sikkerhetsoppdateringer som du kanskje må installere. Du bør gå gjennom alle oppførte programmer eller programvarekomponenter for å se om det finnes nødvendige sikkerhetsoppdateringer. Hvis programvare eller en komponent står oppført, finnes en hyperkobling til den tilgjengelige programvareoppdateringen, og alvorlighetsgraden av programvareoppdateringen er også oppført.
 
@@ -187,202 +187,202 @@ Bruk tabellen til å lære om sikkerhetsoppdateringer som du kanskje må install
 
 #### Windows-operativsystem:
 
-<table xmlns="http://www.w3.org/1999/xhtml">
+<table style="border:1px solid black;" class="dataTable">
   <tr class="thead">
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
+    <th style="border:1px solid black;"></th>
+    <th style="border:1px solid black;"></th>
+    <th style="border:1px solid black;"></th>
+    <th style="border:1px solid black;"></th>
   </tr>
-                <tr><th colspan="4">Microsoft Windows 2000</th></tr>
+                <tr><th colspan="4" style="border:1px solid black;">Microsoft Windows 2000</th></tr>
               
-                <tr><td>
+                <tr><td style="border:1px solid black;">
                     <strong>Bulletinidentifikator</strong>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=113725">
                       <strong>MS08-040</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=117296">
                       <strong>MS08-038</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=119620">
                       <strong>MS08-037</strong>
                     </a>
                   </td></tr>
-                <tr class="alternateRow"><td>
+                <tr class="alternateRow"><td style="border:1px solid black;">
                     <strong>Maksimal alvorlighetsgrad for bulletin</strong>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Viktig</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Viktig</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Viktig</strong>
                     </a>
                   </td></tr>
-                <tr><td>Microsoft Windows 2000 Service Pack 4</td><td>Ikke relevant</td><td>Ikke relevant</td><td>DNS-klientoppdatering:<br /><a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=269c219c-9d6b-4b12-b621-c70cd07cdd22">Microsoft Windows 2000 Service Pack 4</a><br />(Viktig)<br /><br />DNS-serveroppdatering:<br /><a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=332aa92f-a1ad-42a0-87d0-485d2d41335b">Microsoft Windows 2000 Server Service Pack 4</a><br />(Viktig)</td></tr>
+                <tr><td style="border:1px solid black;">Microsoft Windows 2000 Service Pack 4</td><td style="border:1px solid black;">Ikke relevant</td><td style="border:1px solid black;">Ikke relevant</td><td style="border:1px solid black;">DNS-klientoppdatering:<br /><a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=269c219c-9d6b-4b12-b621-c70cd07cdd22">Microsoft Windows 2000 Service Pack 4</a><br />(Viktig)<br /><br />DNS-serveroppdatering:<br /><a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=332aa92f-a1ad-42a0-87d0-485d2d41335b">Microsoft Windows 2000 Server Service Pack 4</a><br />(Viktig)</td></tr>
               
-                <tr><th colspan="4">Windows XP</th></tr>
+                <tr><th colspan="4" style="border:1px solid black;">Windows XP</th></tr>
               
-                <tr class="alternateRow"><td>
+                <tr class="alternateRow"><td style="border:1px solid black;">
                     <strong>Bulletinidentifikator</strong>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=113725">
                       <strong>MS08-040</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=117296">
                       <strong>MS08-038</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=119620">
                       <strong>MS08-037</strong>
                     </a>
                   </td></tr>
-                <tr><td>
+                <tr><td style="border:1px solid black;">
                     <strong>Maksimal alvorlighetsgrad</strong>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Viktig</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Viktig</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Viktig</strong>
                     </a>
                   </td></tr>
-                <tr class="alternateRow"><td>Windows XP Service Pack 2 og Windows XP Service Pack 3</td><td>Ikke relevant</td><td>Ikke relevant</td><td>DNS-klientoppdatering:<br /><a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=ed989a33-7a9e-4423-93a8-b38907467cdf">Windows XP Service Pack 2 og Windows XP Service Pack 3</a><br />(Viktig)<br /><br />Ingen relevante DNS-serveroppdateringer</td></tr>
-                <tr><td>Windows XP Professional x64 Edition og Windows XP Professional x64 Edition Service Pack 2</td><td>Ikke relevant</td><td>Ikke relevant</td><td>DNS-klientoppdatering:<br /><a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=a2b016fa-b108-4e8e-b41b-4ca89002907b">Windows XP Professional x64 Edition og Windows XP Professional x64 Edition Service Pack 2</a><br />(Viktig)<br /><br />Ingen relevante DNS-serveroppdateringer</td></tr>
+                <tr class="alternateRow"><td style="border:1px solid black;">Windows XP Service Pack 2 og Windows XP Service Pack 3</td><td style="border:1px solid black;">Ikke relevant</td><td style="border:1px solid black;">Ikke relevant</td><td style="border:1px solid black;">DNS-klientoppdatering:<br /><a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=ed989a33-7a9e-4423-93a8-b38907467cdf">Windows XP Service Pack 2 og Windows XP Service Pack 3</a><br />(Viktig)<br /><br />Ingen relevante DNS-serveroppdateringer</td></tr>
+                <tr><td style="border:1px solid black;">Windows XP Professional x64 Edition og Windows XP Professional x64 Edition Service Pack 2</td><td style="border:1px solid black;">Ikke relevant</td><td style="border:1px solid black;">Ikke relevant</td><td style="border:1px solid black;">DNS-klientoppdatering:<br /><a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=a2b016fa-b108-4e8e-b41b-4ca89002907b">Windows XP Professional x64 Edition og Windows XP Professional x64 Edition Service Pack 2</a><br />(Viktig)<br /><br />Ingen relevante DNS-serveroppdateringer</td></tr>
               
-                <tr><th colspan="4">Windows Server 2003</th></tr>
+                <tr><th colspan="4" style="border:1px solid black;">Windows Server 2003</th></tr>
               
-                <tr class="alternateRow"><td>
+                <tr class="alternateRow"><td style="border:1px solid black;">
                     <strong>Bulletinidentifikator</strong>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=113725">
                       <strong>MS08-040</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=117296">
                       <strong>MS08-038</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=119620">
                       <strong>MS08-037</strong>
                     </a>
                   </td></tr>
-                <tr><td>
+                <tr><td style="border:1px solid black;">
                     <strong>Maksimal alvorlighetsgrad for bulletin</strong>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Viktig</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Viktig</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Viktig</strong>
                     </a>
                   </td></tr>
-                <tr class="alternateRow"><td>Windows Server 2003 Service Pack 1 og Windows Server 2003 Service Pack 2</td><td>
+                <tr class="alternateRow"><td style="border:1px solid black;">Windows Server 2003 Service Pack 1 og Windows Server 2003 Service Pack 2</td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=1c0ae18b-1f17-44b3-a337-b36e7de437a7">Microsoft SQL Server 2000 Desktop Engine (WMSDE)</a>
-                    <br />(KB948110)<br />(Viktig)<br /><br /><a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=48f6aaa5-49fc-4a16-bc34-8514e214b8cf">Windows Internal Database (WYukon) Service Pack 2</a><br />(KB948109)<br />(Viktig)</td><td>Ikke relevant</td><td>DNS-klientoppdatering:<br /><a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=4ef5033c-9843-4e0b-bfad-fcaf05d7dab9">Windows Server 2003 Service Pack 1 og Windows Server 2003 Service Pack 2</a><br />(Viktig)<br /><br />DNS-serveroppdatering:<br /><a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=d1fcb794-e6a5-4c28-b3b3-9cd88f468a42">Windows Server 2003 Service Pack 1 og Windows Server 2003 Service Pack 2</a><br />(Viktig)</td></tr>
-                <tr><td>Windows Server 2003 x64 Edition og Windows Server 2003 x64 Edition Service Pack 2</td><td>
+                    <br />(KB948110)<br />(Viktig)<br /><br /><a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=48f6aaa5-49fc-4a16-bc34-8514e214b8cf">Windows Internal Database (WYukon) Service Pack 2</a><br />(KB948109)<br />(Viktig)</td><td style="border:1px solid black;">Ikke relevant</td><td style="border:1px solid black;">DNS-klientoppdatering:<br /><a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=4ef5033c-9843-4e0b-bfad-fcaf05d7dab9">Windows Server 2003 Service Pack 1 og Windows Server 2003 Service Pack 2</a><br />(Viktig)<br /><br />DNS-serveroppdatering:<br /><a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=d1fcb794-e6a5-4c28-b3b3-9cd88f468a42">Windows Server 2003 Service Pack 1 og Windows Server 2003 Service Pack 2</a><br />(Viktig)</td></tr>
+                <tr><td style="border:1px solid black;">Windows Server 2003 x64 Edition og Windows Server 2003 x64 Edition Service Pack 2</td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=1c0ae18b-1f17-44b3-a337-b36e7de437a7">Microsoft SQL Server 2000 Desktop Engine (WMSDE)</a>
-                    <br />(KB948110)<br />(Viktig)<br /><br /><a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=48f6aaa5-49fc-4a16-bc34-8514e214b8cf">Windows Internal Database (WYukon) x64 Edition Service Pack 2</a><br />(KB948109)<br />(Viktig)</td><td>Ikke relevant</td><td>DNS-klientoppdatering:<br /><a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=66624a1f-38bf-4af7-936d-3131474ffe1f">Windows Server 2003 x64 Edition og Windows Server 2003 x64 Edition Service Pack 2</a><br />(Viktig)<br /><br />DNS-serveroppdatering:<br /><a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=040a1ba8-21b0-439e-bf21-1acd1c43b162">Windows Server 2003 x64 Edition og Windows Server 2003 x64 Edition Service Pack 2</a><br />(Viktig)</td></tr>
-                <tr class="alternateRow"><td>Windows Server 2003 SP1 for Itanium-based Systems og Windows Server 2003 SP2 for Itanium-based Systems</td><td>Ikke relevant</td><td>Ikke relevant</td><td>DNS-klientoppdatering:<br /><a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=facc80da-61d6-49c5-872d-a1980b66ae3e">Windows Server 2003 SP1 for Itanium-based Systems og Windows Server 2003 SP2 for Itanium-based Systems</a><br />(Viktig)<br /><br />DNS-serveroppdatering:<br /><a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=c63e3ee6-6055-4313-b0f1-fec7408886bb">Windows Server 2003 SP1 for Itanium-based Systems og Windows Server 2003 SP2 for Itanium-based Systems</a><br />(Viktig)</td></tr>
+                    <br />(KB948110)<br />(Viktig)<br /><br /><a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=48f6aaa5-49fc-4a16-bc34-8514e214b8cf">Windows Internal Database (WYukon) x64 Edition Service Pack 2</a><br />(KB948109)<br />(Viktig)</td><td style="border:1px solid black;">Ikke relevant</td><td style="border:1px solid black;">DNS-klientoppdatering:<br /><a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=66624a1f-38bf-4af7-936d-3131474ffe1f">Windows Server 2003 x64 Edition og Windows Server 2003 x64 Edition Service Pack 2</a><br />(Viktig)<br /><br />DNS-serveroppdatering:<br /><a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=040a1ba8-21b0-439e-bf21-1acd1c43b162">Windows Server 2003 x64 Edition og Windows Server 2003 x64 Edition Service Pack 2</a><br />(Viktig)</td></tr>
+                <tr class="alternateRow"><td style="border:1px solid black;">Windows Server 2003 SP1 for Itanium-based Systems og Windows Server 2003 SP2 for Itanium-based Systems</td><td style="border:1px solid black;">Ikke relevant</td><td style="border:1px solid black;">Ikke relevant</td><td style="border:1px solid black;">DNS-klientoppdatering:<br /><a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=facc80da-61d6-49c5-872d-a1980b66ae3e">Windows Server 2003 SP1 for Itanium-based Systems og Windows Server 2003 SP2 for Itanium-based Systems</a><br />(Viktig)<br /><br />DNS-serveroppdatering:<br /><a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=c63e3ee6-6055-4313-b0f1-fec7408886bb">Windows Server 2003 SP1 for Itanium-based Systems og Windows Server 2003 SP2 for Itanium-based Systems</a><br />(Viktig)</td></tr>
               
-                <tr><th colspan="4">Windows Vista</th></tr>
+                <tr><th colspan="4" style="border:1px solid black;">Windows Vista</th></tr>
               
-                <tr><td>
+                <tr><td style="border:1px solid black;">
                     <strong>Bulletinidentifikator</strong>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=113725">
                       <strong>MS08-040</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=117296">
                       <strong>MS08-038</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=119620">
                       <strong>MS08-037</strong>
                     </a>
                   </td></tr>
-                <tr class="alternateRow"><td>
+                <tr class="alternateRow"><td style="border:1px solid black;">
                     <strong>Maksimal alvorlighetsgrad for bulletin</strong>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Viktig</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Viktig</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Viktig</strong>
                     </a>
                   </td></tr>
-                <tr><td>Windows Vista og Windows Vista Service Pack 1</td><td>Ikke relevant</td><td>
+                <tr><td style="border:1px solid black;">Windows Vista og Windows Vista Service Pack 1</td><td style="border:1px solid black;">Ikke relevant</td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=06739ca6-7368-4acb-bb67-7e8146071a29">Windows Vista og Windows Vista Service Pack 1</a>
-                    <br />(Viktig)</td><td>Ingen relevante DNS-klientoppdateringer<br /><br />Ingen relevante DNS-serveroppdateringer</td></tr>
-                <tr class="alternateRow"><td>Windows Vista x64 Edition og Windows Vista x64 Edition Service Pack 1</td><td>Ikke relevant</td><td>
+                    <br />(Viktig)</td><td style="border:1px solid black;">Ingen relevante DNS-klientoppdateringer<br /><br />Ingen relevante DNS-serveroppdateringer</td></tr>
+                <tr class="alternateRow"><td style="border:1px solid black;">Windows Vista x64 Edition og Windows Vista x64 Edition Service Pack 1</td><td style="border:1px solid black;">Ikke relevant</td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=74ea0893-7c2f-4fad-ad27-588ad953b046">Windows Vista x64 Edition og Windows Vista x64 Edition Service Pack 1</a>
-                    <br />(Viktig)</td><td>Ingen relevante DNS-klientoppdateringer<br /><br />Ingen relevante DNS-serveroppdateringer</td></tr>
+                    <br />(Viktig)</td><td style="border:1px solid black;">Ingen relevante DNS-klientoppdateringer<br /><br />Ingen relevante DNS-serveroppdateringer</td></tr>
               
-                <tr><th colspan="4">Windows Server 2008</th></tr>
+                <tr><th colspan="4" style="border:1px solid black;">Windows Server 2008</th></tr>
               
-                <tr><td>
+                <tr><td style="border:1px solid black;">
                     <strong>Bulletinidentifikator</strong>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=113725">
                       <strong>MS08-040</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=117296">
                       <strong>MS08-038</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=119620">
                       <strong>MS08-037</strong>
                     </a>
                   </td></tr>
-                <tr class="alternateRow"><td>
+                <tr class="alternateRow"><td style="border:1px solid black;">
                     <strong>Maksimal alvorlighetsgrad for bulletin</strong>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Viktig</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Viktig</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Viktig</strong>
                     </a>
                   </td></tr>
-                <tr><td>Windows Server 2008 for 32-biters systemer</td><td>
-                    <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=48f6aaa5-49fc-4a16-bc34-8514e214b8cf">Windows Internal Database (WYukon) Service Pack 2</a>*<br />(KB948109)<br />(Viktig)</td><td>
-                    <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=189a4170-b495-4904-9cbd-209e7494d303">Windows Server 2008 for 32-biters systemer</a>*<br />(Viktig)</td><td>Ingen relevante DNS-klientoppdateringer<br /><br />DNS-serveroppdatering:<br /><a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=1fcea8f4-b233-42e1-b913-c4fcae276c7b">Windows Server 2008 for 32-biters systemer</a>*<br />(Viktig)</td></tr>
-                <tr class="alternateRow"><td>Windows Server 2008 for x64-baserte systemer</td><td>
-                    <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=48f6aaa5-49fc-4a16-bc34-8514e214b8cf">Windows Internal Database (WYukon) x64 Edition Service Pack 2</a>*<br />(KB948109)<br />(Viktig)</td><td>
-                    <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=85d8701d-f8c7-4079-8a21-a3a9d5ba71ce">Windows Server 2008 for x64-baserte systemer</a>*<br />(Viktig)</td><td>Ingen relevante DNS-klientoppdateringer<br /><br />DNS-serveroppdatering:<br /><a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=afac5bbc-71fa-457b-8b0a-f5902d37bfd0">Windows Server 2008 for x64-baserte systemer</a>*<br />(Viktig)</td></tr>
-                <tr><td>Windows Server 2008 for Itanium-based Systems</td><td>Ikke relevant</td><td>
+                <tr><td style="border:1px solid black;">Windows Server 2008 for 32-biters systemer</td><td style="border:1px solid black;">
+                    <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=48f6aaa5-49fc-4a16-bc34-8514e214b8cf">Windows Internal Database (WYukon) Service Pack 2</a>*<br />(KB948109)<br />(Viktig)</td><td style="border:1px solid black;">
+                    <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=189a4170-b495-4904-9cbd-209e7494d303">Windows Server 2008 for 32-biters systemer</a>*<br />(Viktig)</td><td style="border:1px solid black;">Ingen relevante DNS-klientoppdateringer<br /><br />DNS-serveroppdatering:<br /><a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=1fcea8f4-b233-42e1-b913-c4fcae276c7b">Windows Server 2008 for 32-biters systemer</a>*<br />(Viktig)</td></tr>
+                <tr class="alternateRow"><td style="border:1px solid black;">Windows Server 2008 for x64-baserte systemer</td><td style="border:1px solid black;">
+                    <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=48f6aaa5-49fc-4a16-bc34-8514e214b8cf">Windows Internal Database (WYukon) x64 Edition Service Pack 2</a>*<br />(KB948109)<br />(Viktig)</td><td style="border:1px solid black;">
+                    <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=85d8701d-f8c7-4079-8a21-a3a9d5ba71ce">Windows Server 2008 for x64-baserte systemer</a>*<br />(Viktig)</td><td style="border:1px solid black;">Ingen relevante DNS-klientoppdateringer<br /><br />DNS-serveroppdatering:<br /><a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=afac5bbc-71fa-457b-8b0a-f5902d37bfd0">Windows Server 2008 for x64-baserte systemer</a>*<br />(Viktig)</td></tr>
+                <tr><td style="border:1px solid black;">Windows Server 2008 for Itanium-based Systems</td><td style="border:1px solid black;">Ikke relevant</td><td style="border:1px solid black;">
                     <a Target="" runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=b30ee4f0-850f-4ff3-86a4-663603a0a802">Windows Server 2008 for Itanium-based Systems</a>
-                    <br />(Viktig)</td><td>Ingen relevante DNS-klientoppdateringer<br /><br />Ingen relevante DNS-serveroppdateringer</td></tr>
+                    <br />(Viktig)</td><td style="border:1px solid black;">Ingen relevante DNS-klientoppdateringer<br /><br />Ingen relevante DNS-serveroppdateringer</td></tr>
               </table>
 
 
@@ -390,20 +390,20 @@ Bruk tabellen til å lære om sikkerhetsoppdateringer som du kanskje må install
 
 #### Microsoft Server-programvare
 
-<table>
+<table style="border:1px solid black;">
 <caption>Microsoft SQL Server</caption>
 <tbody>
 <tr class="odd">
-<td><strong>Bulletinidentifikator</strong></td>
-<td><a href="http://go.microsoft.com/fwlink/?linkid=113725"><strong>MS08-040</strong></a></td>
+<td style="border:1px solid black;"><strong>Bulletinidentifikator</strong></td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=113725"><strong>MS08-040</strong></a></td>
 </tr>
 <tr class="even">
-<td><strong>Maksimal alvorlighetsgrad for bulletin</strong></td>
-<td><a href="http://go.microsoft.com/fwlink/?linkid=21140"><strong>Viktig</strong></a></td>
+<td style="border:1px solid black;"><strong>Maksimal alvorlighetsgrad for bulletin</strong></td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140"><strong>Viktig</strong></a></td>
 </tr>
 <tr class="odd">
-<td>SQL Server 7.0 Service Pack 4</td>
-<td>GDR-oppdatering:<br />
+<td style="border:1px solid black;">SQL Server 7.0 Service Pack 4</td>
+<td style="border:1px solid black;">GDR-oppdatering:<br />
 <a href="http://www.microsoft.com/downloads/details.aspx?familyid=c95b2cb3-51a4-44e4-b9f4-9416e9ce16a0">SQL Server 7.0 Service Pack 4</a><br />
 (KB948113)<br />
 (Viktig)<br />
@@ -414,8 +414,8 @@ QFE-oppdatering:<br />
 (Viktig)</td>
 </tr>
 <tr class="even">
-<td>SQL Server 2000 Service Pack 4</td>
-<td>GDR-oppdatering:<br />
+<td style="border:1px solid black;">SQL Server 2000 Service Pack 4</td>
+<td style="border:1px solid black;">GDR-oppdatering:<br />
 <a href="http://www.microsoft.com/downloads/details.aspx?familyid=4fd1f86a-94a2-43d8-9b0a-774c81426d9e">SQL Server 2000 Service Pack 4</a><br />
 (KB948110)<br />
 (Viktig)<br />
@@ -426,8 +426,8 @@ QFE-oppdatering:<br />
 (Viktig)</td>
 </tr>
 <tr class="odd">
-<td>SQL Server 2000 Itanium-based Edition Service Pack 4</td>
-<td>GDR-oppdatering:<br />
+<td style="border:1px solid black;">SQL Server 2000 Itanium-based Edition Service Pack 4</td>
+<td style="border:1px solid black;">GDR-oppdatering:<br />
 <a href="http://www.microsoft.com/downloads/details.aspx?familyid=4fd1f86a-94a2-43d8-9b0a-774c81426d9e">SQL Server 2000 Itanium-based Edition Service Pack 4</a><br />
 (KB948110)<br />
 (Viktig)<br />
@@ -438,8 +438,8 @@ QFE-oppdatering:<br />
 (Viktig)</td>
 </tr>
 <tr class="even">
-<td>SQL Server 2005 Service Pack 2</td>
-<td>GDR-oppdatering:<br />
+<td style="border:1px solid black;">SQL Server 2005 Service Pack 2</td>
+<td style="border:1px solid black;">GDR-oppdatering:<br />
 <a href="http://www.microsoft.com/downloads/details.aspx?familyid=4c9851cc-2c4c-4190-872c-84993a7623b7">SQL Server 2005 Service Pack 2</a><br />
 (KB948109)<br />
 (Viktig)<br />
@@ -450,8 +450,8 @@ QFE-oppdatering:<br />
 (Viktig)</td>
 </tr>
 <tr class="odd">
-<td>SQL Server 2005 x64 Edition Service Pack 2</td>
-<td>GDR-oppdatering:<br />
+<td style="border:1px solid black;">SQL Server 2005 x64 Edition Service Pack 2</td>
+<td style="border:1px solid black;">GDR-oppdatering:<br />
 <a href="http://www.microsoft.com/downloads/details.aspx?familyid=4c9851cc-2c4c-4190-872c-84993a7623b7">SQL Server 2005 x64 Edition Service Pack 2</a><br />
 (KB948109)<br />
 (Viktig)<br />
@@ -462,8 +462,8 @@ QFE-oppdatering:<br />
 (Viktig)</td>
 </tr>
 <tr class="even">
-<td>SQL Server 2005 med SP2 for Itanium-based Systems</td>
-<td>GDR-oppdatering:<br />
+<td style="border:1px solid black;">SQL Server 2005 med SP2 for Itanium-based Systems</td>
+<td style="border:1px solid black;">GDR-oppdatering:<br />
 <a href="http://www.microsoft.com/downloads/details.aspx?familyid=4c9851cc-2c4c-4190-872c-84993a7623b7">SQL Server 2005 med SP2 for Itanium-based Systems</a><br />
 (KB948109)<br />
 (Viktig)<br />
@@ -474,8 +474,8 @@ QFE-oppdatering:<br />
 (Viktig)</td>
 </tr>
 <tr class="odd">
-<td>Microsoft Data Engine (MSDE) 1.0 Service Pack 4</td>
-<td>GDR-oppdatering:<br />
+<td style="border:1px solid black;">Microsoft Data Engine (MSDE) 1.0 Service Pack 4</td>
+<td style="border:1px solid black;">GDR-oppdatering:<br />
 <a href="http://www.microsoft.com/downloads/details.aspx?familyid=c95b2cb3-51a4-44e4-b9f4-9416e9ce16a0">Microsoft Data Engine (MSDE) 1.0 Service Pack 4</a><br />
 (KB948113)<br />
 (Viktig)<br />
@@ -486,8 +486,8 @@ QFE-oppdatering:<br />
 (Viktig)</td>
 </tr>
 <tr class="even">
-<td>Microsoft SQL Server 2000 Desktop Engine (MSDE 2000) Service Pack 4</td>
-<td>GDR-oppdatering:<br />
+<td style="border:1px solid black;">Microsoft SQL Server 2000 Desktop Engine (MSDE 2000) Service Pack 4</td>
+<td style="border:1px solid black;">GDR-oppdatering:<br />
 <a href="http://www.microsoft.com/downloads/details.aspx?familyid=4fd1f86a-94a2-43d8-9b0a-774c81426d9e">Microsoft SQL Server 2000 Desktop Engine (MSDE 2000) Service Pack 4</a><br />
 (KB948110)<br />
 (Viktig)<br />
@@ -498,8 +498,8 @@ QFE-oppdatering:<br />
 (Viktig)</td>
 </tr>
 <tr class="odd">
-<td>Microsoft SQL Server 2005 Express Edition Service Pack 2</td>
-<td>GDR-oppdatering:<br />
+<td style="border:1px solid black;">Microsoft SQL Server 2005 Express Edition Service Pack 2</td>
+<td style="border:1px solid black;">GDR-oppdatering:<br />
 <a href="http://www.microsoft.com/downloads/details.aspx?familyid=4c9851cc-2c4c-4190-872c-84993a7623b7">Microsoft SQL Server 2005 Express Edition Service Pack 2</a><br />
 (KB948109)<br />
 (Viktig)<br />
@@ -510,8 +510,8 @@ QFE-oppdatering:<br />
 (Viktig)</td>
 </tr>
 <tr class="even">
-<td>Microsoft SQL Server 2005 Express Edition med Advanced Services Service Pack 2</td>
-<td>GDR-oppdatering:<br />
+<td style="border:1px solid black;">Microsoft SQL Server 2005 Express Edition med Advanced Services Service Pack 2</td>
+<td style="border:1px solid black;">GDR-oppdatering:<br />
 <a href="http://www.microsoft.com/downloads/details.aspx?familyid=4c9851cc-2c4c-4190-872c-84993a7623b7">Microsoft SQL Server 2005 Express Edition med Advanced Services Service Pack 2</a><br />
 (KB948109)<br />
 (Viktig)<br />
@@ -525,30 +525,30 @@ QFE-oppdatering:<br />
 </table>
 
 
-<table>
+<table style="border:1px solid black;">
 <caption>Microsoft Exchange Server</caption>
 <tbody>
 <tr class="odd">
-<td><strong>Bulletinidentifikator</strong></td>
-<td><a href="http://go.microsoft.com/fwlink/?linkid=120820"><strong>MS08-039</strong></a></td>
+<td style="border:1px solid black;"><strong>Bulletinidentifikator</strong></td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=120820"><strong>MS08-039</strong></a></td>
 </tr>
 <tr class="even">
-<td><strong>Maksimal alvorlighetsgrad for bulletin</strong></td>
-<td><a href="http://go.microsoft.com/fwlink/?linkid=21140"><strong>Viktig</strong></a></td>
+<td style="border:1px solid black;"><strong>Maksimal alvorlighetsgrad for bulletin</strong></td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140"><strong>Viktig</strong></a></td>
 </tr>
 <tr class="odd">
-<td>Microsoft Exchange Server 2003 Service Pack 2</td>
-<td><a href="http://www.microsoft.com/downloads/details.aspx?familyid=e099c1d1-5af6-4d6c-b735-9599412b3131">Microsoft Exchange Server 2003 Service Pack 2</a><br />
+<td style="border:1px solid black;">Microsoft Exchange Server 2003 Service Pack 2</td>
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=e099c1d1-5af6-4d6c-b735-9599412b3131">Microsoft Exchange Server 2003 Service Pack 2</a><br />
 (Viktig)</td>
 </tr>
 <tr class="even">
-<td>Microsoft Exchange Server 2007</td>
-<td><a href="http://www.microsoft.com/downloads/details.aspx?familyid=086a2a13-a1de-4b1d-bd12-b148bfd2dafa">Microsoft Exchange Server 2007</a><br />
+<td style="border:1px solid black;">Microsoft Exchange Server 2007</td>
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=086a2a13-a1de-4b1d-bd12-b148bfd2dafa">Microsoft Exchange Server 2007</a><br />
 (Viktig)</td>
 </tr>
 <tr class="odd">
-<td>Microsoft Exchange Server 2007 Service Pack 1</td>
-<td><a href="http://www.microsoft.com/downloads/details.aspx?familyid=63e7f26c-92a8-4264-882d-f96b348c96ab">Microsoft Exchange Server 2007 Service Pack 1</a><br />
+<td style="border:1px solid black;">Microsoft Exchange Server 2007 Service Pack 1</td>
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=63e7f26c-92a8-4264-882d-f96b348c96ab">Microsoft Exchange Server 2007 Service Pack 1</a><br />
 (Viktig)</td>
 </tr>
 </tbody>

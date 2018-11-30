@@ -33,118 +33,118 @@ Følgende tabell viser et sammendrag av sikkerhetsbulletinene for denne måneden
 
 Hvis du vil ha informasjon om berørt programvare, kan du se den neste delen, **Berørt programvare og nedlastingssteder**.
 
-<table>
+<table style="border:1px solid black;">
 <thead>
 <tr class="header">
-<th>Bulletin-ID</th>
-<th>Bulletintittel og kortfattet sammendrag</th>
-<th>Maksimal alvorlighetsgrad og følger av sikkerhetsproblemet</th>
-<th>Krav om omstart</th>
-<th>Berørt programvare</th>
+<th style="border:1px solid black;">Bulletin-ID</th>
+<th style="border:1px solid black;">Bulletintittel og kortfattet sammendrag</th>
+<th style="border:1px solid black;">Maksimal alvorlighetsgrad og følger av sikkerhetsproblemet</th>
+<th style="border:1px solid black;">Krav om omstart</th>
+<th style="border:1px solid black;">Berørt programvare</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><a href="http://go.microsoft.com/fwlink/?linkid=191065">MS10-033</a></td>
-<td><strong>Sikkerhetsproblemer med dekomprimering av media kan tillate ekstern kjøring av kode (979902)</strong><br />
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=191065">MS10-033</a></td>
+<td style="border:1px solid black;"><strong>Sikkerhetsproblemer med dekomprimering av media kan tillate ekstern kjøring av kode (979902)</strong><br />
 <br />
 Denne sikkerhetsoppdateringen løser to personlig rapporterte sikkerhetsproblemer i Microsoft Windows. Disse sikkerhetsproblemene kan tillate ekstern kjøring av kode hvis en bruker åpner en spesiallaget mediefil eller mottar spesiallaget direkteavspilt innhold fra et webområde eller et program som leverer webinnhold. En angriper som klarer å utnytte disse sikkerhetsproblemene, kan oppnå samme brukerrettigheter som den lokale brukeren. Brukere med kontoer som er konfigurert med få brukerrettigheter på systemet, er mindre utsatt enn brukere som har administrative rettigheter.</td>
-<td><a href="http://go.microsoft.com/fwlink/?linkid=21140">Kritisk</a><br />
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">Kritisk</a><br />
 Ekstern kjøring av kode</td>
-<td>Kan kreve omstart</td>
-<td>Microsoft Windows</td>
+<td style="border:1px solid black;">Kan kreve omstart</td>
+<td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="even">
-<td><a href="http://go.microsoft.com/fwlink/?linkid=185159">MS10-034</a></td>
-<td><strong>Kumulativ sikkerhetsoppdatering av kill bits for ActiveX (980195)</strong><br />
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=185159">MS10-034</a></td>
+<td style="border:1px solid black;"><strong>Kumulativ sikkerhetsoppdatering av kill bits for ActiveX (980195)</strong><br />
 <br />
 Denne sikkerhetsoppdateringen gjelder to personlig rapporterte sikkerhetsproblemer for Microsoft-programvare. Denne sikkerhetsoppdateringen har alvorlighetsgraden Kritisk for alle støttede versjoner av Microsoft Windows 2000, Windows XP, Windows Vista og Windows 7 og Moderat for alle støttede versjoner av Windows Server 2003, Windows Server2008 og Windows Server 2008 R2.<br />
 <br />
 Sikkerhetsproblemet kan potensielt tillate ekstern kjøring av kode hvis en bruker åpner en spesiallaget webside som starter en bestemt ActiveX-kontroll med Internet Explorer. Brukere med kontoer som er konfigurert med få brukerrettigheter på systemet, er mindre utsatt enn brukere som har administrative rettigheter. Denne oppdateringen inneholder også kill bits for fire tredjeparts ActiveX-kontroller.</td>
-<td><a href="http://go.microsoft.com/fwlink/?linkid=21140">Kritisk</a><br />
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">Kritisk</a><br />
 Ekstern kjøring av kode</td>
-<td>Kan kreve omstart</td>
-<td>Microsoft Windows</td>
+<td style="border:1px solid black;">Kan kreve omstart</td>
+<td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="odd">
-<td><a href="http://go.microsoft.com/fwlink/?linkid=190898">MS10-035</a></td>
-<td><strong>Kumulativ sikkerhetsoppdatering for Internet Explorer (982381)</strong><br />
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=190898">MS10-035</a></td>
+<td style="border:1px solid black;"><strong>Kumulativ sikkerhetsoppdatering for Internet Explorer (982381)</strong><br />
 <br />
 Denne sikkerhetsoppdateringen løser fem personlig rapporterte sikkerhetsproblemer og ett offentliggjort sikkerhetsproblem i Internet Explorer. De alvorligste sikkerhetsproblemene kan tillate ekstern kjøring av kode hvis en bruker åpner en spesiallaget webside ved hjelp av Internet Explorer. Brukere med kontoer som er konfigurert med få brukerrettigheter på systemet, er mindre utsatt enn brukere som har administrative rettigheter.</td>
-<td><a href="http://go.microsoft.com/fwlink/?linkid=21140">Kritisk</a><br />
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">Kritisk</a><br />
 Ekstern kjøring av kode</td>
-<td>Krever omstart</td>
-<td>Microsoft Windows, Internet Explorer</td>
+<td style="border:1px solid black;">Krever omstart</td>
+<td style="border:1px solid black;">Microsoft Windows, Internet Explorer</td>
 </tr>
 <tr class="even">
-<td><a href="http://go.microsoft.com/fwlink/?linkid=184917">MS10-032</a></td>
-<td><strong>Sikkerhetsproblemer i Windows-kjernemodusdrivere kan tillate rettighetsutvidelse (979559)</strong><br />
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=184917">MS10-032</a></td>
+<td style="border:1px solid black;"><strong>Sikkerhetsproblemer i Windows-kjernemodusdrivere kan tillate rettighetsutvidelse (979559)</strong><br />
 <br />
 Denne sikkerhetsoppdateringen løser to offentliggjorte sikkerhetsproblemer og ett personlig rapportert sikkerhetsproblem i Windows-kjernemodusdriverne. Sikkerhetsproblemene kan føre til rettighetsutvidelse hvis en bruker viser innhold gjengitt i en spesiallaget TrueType-skrift.</td>
-<td><a href="http://go.microsoft.com/fwlink/?linkid=21140">Viktig!</a><br />
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">Viktig!</a><br />
 Rettighetsutvidelse</td>
-<td>Krever omstart</td>
-<td>Microsoft Windows</td>
+<td style="border:1px solid black;">Krever omstart</td>
+<td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="odd">
-<td><a href="http://go.microsoft.com/fwlink/?linkid=190554">MS10-036</a></td>
-<td><strong>Sikkerhetsproblem med COM-validering i Microsoft Office kan tillate ekstern kjøring av kode (983235)</strong><br />
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=190554">MS10-036</a></td>
+<td style="border:1px solid black;"><strong>Sikkerhetsproblem med COM-validering i Microsoft Office kan tillate ekstern kjøring av kode (983235)</strong><br />
 <br />
 Denne sikkerhetsoppdateringen løser et personlig rapportert sikkerhetsproblem med COM-validering i Microsoft Office. Sikkerhetsproblemet kan tillate ekstern kjøring av kode hvis en bruker åpner en spesiallaget Excel-, Word-, Vision-, Publisher- eller PowerPoint-fil med en berørt versjon av Microsoft Office. Sikkerhetsproblemet kan ikke utnyttes automatisk via e-post. For at et angrep skal lykkes, må brukeren åpne vedlegget som fulgte med e-posten.</td>
-<td><a href="http://go.microsoft.com/fwlink/?linkid=21140">Viktig!</a><br />
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">Viktig!</a><br />
 Ekstern kjøring av kode</td>
-<td>Kan kreve omstart</td>
-<td>Microsoft Office</td>
+<td style="border:1px solid black;">Kan kreve omstart</td>
+<td style="border:1px solid black;">Microsoft Office</td>
 </tr>
 <tr class="even">
-<td><a href="http://go.microsoft.com/fwlink/?linkid=190508">MS10-037</a></td>
-<td><strong>Sikkerhetsproblem i driver for OpenType Compact Font Format (CFF) kan tillate rettighetsutvidelse (980218)</strong><br />
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=190508">MS10-037</a></td>
+<td style="border:1px solid black;"><strong>Sikkerhetsproblem i driver for OpenType Compact Font Format (CFF) kan tillate rettighetsutvidelse (980218)</strong><br />
 <br />
 Denne sikkerhetsoppdateringen løser et personlig rapportert sikkerhetsproblem i driveren for OpenType Compact Font Format (CFF). Sikkerhetsproblemet kan føre til rettighetsutvidelse hvis en bruker viser innhold gjengitt i en spesiallaget CFF-skrift. En angriper må ha gyldig påloggingsinformasjon og må kunne logge seg på lokalt for å kunne utnytte dette sikkerhetsproblemet. Sikkerhetsproblemet kan ikke utnyttes eksternt eller av anonyme brukere.</td>
-<td><a href="http://go.microsoft.com/fwlink/?linkid=21140">Viktig!</a><br />
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">Viktig!</a><br />
 Rettighetsutvidelse</td>
-<td>Kan kreve omstart</td>
-<td>Microsoft Windows</td>
+<td style="border:1px solid black;">Kan kreve omstart</td>
+<td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="odd">
-<td><a href="http://go.microsoft.com/fwlink/?linkid=191053">MS10-038</a></td>
-<td><strong>Sikkerhetsproblemer i Microsoft Excel kan tillate ekstern kjøring av kode (2027452)</strong><br />
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=191053">MS10-038</a></td>
+<td style="border:1px solid black;"><strong>Sikkerhetsproblemer i Microsoft Excel kan tillate ekstern kjøring av kode (2027452)</strong><br />
 <br />
 Denne sikkerhetsoppdateringen løser 14 personlig rapporterte sikkerhetsproblemer i Microsoft Office. De alvorligste sikkerhetsproblemene kan tillate ekstern kjøring av kode hvis en bruker åpner en spesiallaget Excel-fil. En angriper som klarer å utnytte noen av disse sikkerhetsproblemene, kan oppnå samme brukerrettigheter som den lokale brukeren. Brukere med kontoer som er konfigurert med få brukerrettigheter på systemet, er mindre utsatt enn brukere som har administrative rettigheter.</td>
-<td><a href="http://go.microsoft.com/fwlink/?linkid=21140">Viktig!</a><br />
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">Viktig!</a><br />
 Ekstern kjøring av kode</td>
-<td>Kan kreve omstart</td>
-<td>Microsoft Office</td>
+<td style="border:1px solid black;">Kan kreve omstart</td>
+<td style="border:1px solid black;">Microsoft Office</td>
 </tr>
 <tr class="even">
-<td><a href="http://go.microsoft.com/fwlink/?linkid=191905">MS10-039</a></td>
-<td><strong>Sikkerhetsproblemer i Microsoft SharePoint kan tillate rettighetsutvidelse (2028554)</strong><br />
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=191905">MS10-039</a></td>
+<td style="border:1px solid black;"><strong>Sikkerhetsproblemer i Microsoft SharePoint kan tillate rettighetsutvidelse (2028554)</strong><br />
 <br />
 Denne sikkerhetsoppdateringen løser ett offentliggjort sikkerhetsproblem og to personlig rapporterte sikkerhetsproblem i Microsoft SharePoint. Det mest alvorlige sikkerhetsproblemet kan tillate rettighetsutvidelse hvis en angriper overbeviser en bruker av et utvalgt SharePoint-område om å klikke en spesiallaget kobling.</td>
-<td><a href="http://go.microsoft.com/fwlink/?linkid=21140">Viktig!</a><br />
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">Viktig!</a><br />
 Rettighetsutvidelse</td>
-<td>Kan kreve omstart</td>
-<td>Microsoft Office, Microsoft Server-programvare</td>
+<td style="border:1px solid black;">Kan kreve omstart</td>
+<td style="border:1px solid black;">Microsoft Office, Microsoft Server-programvare</td>
 </tr>
 <tr class="odd">
-<td><a href="http://go.microsoft.com/fwlink/?linkid=191788">MS10-040</a></td>
-<td><strong>Sikkerhetsproblem i IIS (Internet Information Services) kan tillate ekstern kjøring av kode (982666)</strong><br />
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=191788">MS10-040</a></td>
+<td style="border:1px solid black;"><strong>Sikkerhetsproblem i IIS (Internet Information Services) kan tillate ekstern kjøring av kode (982666)</strong><br />
 <br />
 Denne sikkerhetsoppdateringen løser et personlig rapportert sikkerhetsproblem i IIS (Internet Information Services). Sikkerhetsproblemet kan tillate ekstern kjøring av kode dersom en bruker mottar en spesiallaget HTTP-forespørsel. En angriper som klarer å utnytte dette sikkerhetsproblemet, kan få full kontroll over et berørt system.</td>
-<td><a href="http://go.microsoft.com/fwlink/?linkid=21140">Viktig!</a><br />
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">Viktig!</a><br />
 Ekstern kjøring av kode</td>
-<td>Kan kreve omstart</td>
-<td>Microsoft Windows</td>
+<td style="border:1px solid black;">Kan kreve omstart</td>
+<td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="even">
-<td><a href="http://go.microsoft.com/fwlink/?linkid=185042">MS10-041</a></td>
-<td><strong>Sikkerhetsproblem i Microsoft .NET Framework kan tillate manipulering (981343)</strong><br />
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=185042">MS10-041</a></td>
+<td style="border:1px solid black;"><strong>Sikkerhetsproblem i Microsoft .NET Framework kan tillate manipulering (981343)</strong><br />
 <br />
 Denne sikkerhetsoppdateringen løser et offentliggjort sikkerhetsproblem i Microsoft .NET Framework. Sikkerhetsproblemet kan tillate datamanipulering i signert XML-innhold uten at det oppdages. I egendefinerte programmer kommer innvirkningen på sikkerheten an på hvordan det signerte innholdet brukes i det bestemte programmet. Scenarioer der signerte XML-meldinger overføres via en sikker kanal (som SSL), berøres ikke av dette sikkerhetsproblemet.</td>
-<td><a href="http://go.microsoft.com/fwlink/?linkid=21140">Viktig!</a><br />
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">Viktig!</a><br />
 Manipulering</td>
-<td>Kan kreve omstart</td>
-<td>Microsoft Windows, Microsoft .NET Framework</td>
+<td style="border:1px solid black;">Kan kreve omstart</td>
+<td style="border:1px solid black;">Microsoft Windows, Microsoft .NET Framework</td>
 </tr>
 </tbody>
 </table>
@@ -154,230 +154,230 @@ Manipulering</td>
 
 Følgende tabell gir en utnyttelsesvurdering av hvert av sikkerhetsproblemene som løses denne måneden. Sikkerhetsproblemene er oppført i synkende rekkefølge etter utnyttelsesvurderingsnivå og deretter CVE-ID. Det er bare sikkerhetsproblemer med en alvorlighetsgrad på Kritisk eller Viktig som er inkludert.
 
-**Hvordan bruker jeg denne tabellen?**
+**Hvordan bruker jeg denne tabellen?**  
 
 Bruk denne tabellen til å få mer informasjon om sannsynligheten for at fungerende skadelig kode blir utgitt innen 30 dager etter at sikkerhetsbulletinen utgis, for hver av sikkerhetsoppdateringene som du kanskje må installere. Du bør se gjennom hver av vurderingene nedenfor, i henhold til din bestemte konfigurasjon, for å prioritere distribusjonen. Hvis du vil ha mer informasjon om hva disse vurderingene betyr, kan du se [Microsoft Exploitability Index](http://technet.microsoft.com/en-us/security/cc998259.aspx).
 
-<table>
+<table style="border:1px solid black;">
 <thead>
 <tr class="header">
-<th>Bulletin-ID</th>
-<th>Tittel på sikkerhetsproblem</th>
-<th>CVE-ID</th>
-<th>Utnyttelsesindeksvurdering</th>
-<th>Viktige merknader</th>
+<th style="border:1px solid black;">Bulletin-ID</th>
+<th style="border:1px solid black;">Tittel på sikkerhetsproblem</th>
+<th style="border:1px solid black;">CVE-ID</th>
+<th style="border:1px solid black;">Utnyttelsesindeksvurdering</th>
+<th style="border:1px solid black;">Viktige merknader</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><a href="http://go.microsoft.com/fwlink/?linkid=184917">MS10-032</a></td>
-<td>Sikkerhetsproblem i Win32k med vindusoppretting</td>
-<td><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-0485">CVE-2010-0485</a></td>
-<td><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>1</strong></a> – Konsekvent skadelig kode er sannsynlig</td>
-<td>(Ingen)</td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=184917">MS10-032</a></td>
+<td style="border:1px solid black;">Sikkerhetsproblem i Win32k med vindusoppretting</td>
+<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-0485">CVE-2010-0485</a></td>
+<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>1</strong></a> – Konsekvent skadelig kode er sannsynlig</td>
+<td style="border:1px solid black;">(Ingen)</td>
 </tr>
 <tr class="even">
-<td><a href="http://go.microsoft.com/fwlink/?linkid=191905">MS10-039</a></td>
-<td>Sikkerhetsproblem med Help.aspx i XSS</td>
-<td><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-0817">CVE-2010-0817</a></td>
-<td><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>1</strong></a> – Konsekvent skadelig kode er sannsynlig</td>
-<td>Dette sikkerhetsproblemet ble rapportert for første gang i <a href="microsoft-security-advisory-983438.md">Microsofts sikkerhetsveiledning 983438</a></td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=191905">MS10-039</a></td>
+<td style="border:1px solid black;">Sikkerhetsproblem med Help.aspx i XSS</td>
+<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-0817">CVE-2010-0817</a></td>
+<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>1</strong></a> – Konsekvent skadelig kode er sannsynlig</td>
+<td style="border:1px solid black;">Dette sikkerhetsproblemet ble rapportert for første gang i <a href="microsoft-security-advisory-983438.md">Microsofts sikkerhetsveiledning 983438</a></td>
 </tr>
 <tr class="odd">
-<td><a href="http://go.microsoft.com/fwlink/?linkid=191053">MS10-038</a></td>
-<td>Sikkerhetsproblem i Excel som kan føre til stakkoverflyt for objekt</td>
-<td><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-0822">CVE-2010-0822</a></td>
-<td><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>1</strong></a> – Konsekvent skadelig kode er sannsynlig</td>
-<td>(Ingen)</td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=191053">MS10-038</a></td>
+<td style="border:1px solid black;">Sikkerhetsproblem i Excel som kan føre til stakkoverflyt for objekt</td>
+<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-0822">CVE-2010-0822</a></td>
+<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>1</strong></a> – Konsekvent skadelig kode er sannsynlig</td>
+<td style="border:1px solid black;">(Ingen)</td>
 </tr>
 <tr class="even">
-<td><a href="http://go.microsoft.com/fwlink/?linkid=191053">MS10-038</a></td>
-<td>Sikkerhetsproblem i Excel-poster som kan føre til minnefeil</td>
-<td><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-0824">CVE-2010-0824</a></td>
-<td><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>1</strong></a> – Konsekvent skadelig kode er sannsynlig</td>
-<td>(Ingen)</td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=191053">MS10-038</a></td>
+<td style="border:1px solid black;">Sikkerhetsproblem i Excel-poster som kan føre til minnefeil</td>
+<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-0824">CVE-2010-0824</a></td>
+<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>1</strong></a> – Konsekvent skadelig kode er sannsynlig</td>
+<td style="border:1px solid black;">(Ingen)</td>
 </tr>
 <tr class="odd">
-<td><a href="http://go.microsoft.com/fwlink/?linkid=191053">MS10-038</a></td>
-<td>Sikkerhetsproblem i Excel-poster som kan føre til minnefeil</td>
-<td><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1245">CVE-2010-1245</a></td>
-<td><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>1</strong></a> – Konsekvent skadelig kode er sannsynlig</td>
-<td>(Ingen)</td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=191053">MS10-038</a></td>
+<td style="border:1px solid black;">Sikkerhetsproblem i Excel-poster som kan føre til minnefeil</td>
+<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1245">CVE-2010-1245</a></td>
+<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>1</strong></a> – Konsekvent skadelig kode er sannsynlig</td>
+<td style="border:1px solid black;">(Ingen)</td>
 </tr>
 <tr class="even">
-<td><a href="http://go.microsoft.com/fwlink/?linkid=191053">MS10-038</a></td>
-<td>Sikkerhetsproblem i Excel RTD som kan føre til minnefeil</td>
-<td><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1246">CVE-2010-1246</a></td>
-<td><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>1</strong></a> – Konsekvent skadelig kode er sannsynlig</td>
-<td>(Ingen)</td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=191053">MS10-038</a></td>
+<td style="border:1px solid black;">Sikkerhetsproblem i Excel RTD som kan føre til minnefeil</td>
+<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1246">CVE-2010-1246</a></td>
+<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>1</strong></a> – Konsekvent skadelig kode er sannsynlig</td>
+<td style="border:1px solid black;">(Ingen)</td>
 </tr>
 <tr class="odd">
-<td><a href="http://go.microsoft.com/fwlink/?linkid=191053">MS10-038</a></td>
-<td>Sikkerhetsproblem i Excel som kan føre til minnefeil</td>
-<td><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1247">CVE-2010-1247</a></td>
-<td><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>1</strong></a> – Konsekvent skadelig kode er sannsynlig</td>
-<td>(Ingen)</td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=191053">MS10-038</a></td>
+<td style="border:1px solid black;">Sikkerhetsproblem i Excel som kan føre til minnefeil</td>
+<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1247">CVE-2010-1247</a></td>
+<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>1</strong></a> – Konsekvent skadelig kode er sannsynlig</td>
+<td style="border:1px solid black;">(Ingen)</td>
 </tr>
 <tr class="even">
-<td><a href="http://go.microsoft.com/fwlink/?linkid=191053">MS10-038</a></td>
-<td>Sikkerhetsproblem i Excel HFPicture som kan føre til minnefeil</td>
-<td><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1248">CVE-2010-1248</a></td>
-<td><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>1</strong></a> – Konsekvent skadelig kode er sannsynlig</td>
-<td>(Ingen)</td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=191053">MS10-038</a></td>
+<td style="border:1px solid black;">Sikkerhetsproblem i Excel HFPicture som kan føre til minnefeil</td>
+<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1248">CVE-2010-1248</a></td>
+<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>1</strong></a> – Konsekvent skadelig kode er sannsynlig</td>
+<td style="border:1px solid black;">(Ingen)</td>
 </tr>
 <tr class="odd">
-<td><a href="http://go.microsoft.com/fwlink/?linkid=191053">MS10-038</a></td>
-<td>Sikkerhetsproblem i Excel som kan føre til minnefeil</td>
-<td><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1249">CVE-2010-1249</a></td>
-<td><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>1</strong></a> – Konsekvent skadelig kode er sannsynlig</td>
-<td>(Ingen)</td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=191053">MS10-038</a></td>
+<td style="border:1px solid black;">Sikkerhetsproblem i Excel som kan føre til minnefeil</td>
+<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1249">CVE-2010-1249</a></td>
+<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>1</strong></a> – Konsekvent skadelig kode er sannsynlig</td>
+<td style="border:1px solid black;">(Ingen)</td>
 </tr>
 <tr class="even">
-<td><a href="http://go.microsoft.com/fwlink/?linkid=191053">MS10-038</a></td>
-<td>Sikkerhetsproblem i Excel EDG som kan føre til minnefeil</td>
-<td><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1250">CVE-2010-1250</a></td>
-<td><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>1</strong></a> – Konsekvent skadelig kode er sannsynlig</td>
-<td>(Ingen)</td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=191053">MS10-038</a></td>
+<td style="border:1px solid black;">Sikkerhetsproblem i Excel EDG som kan føre til minnefeil</td>
+<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1250">CVE-2010-1250</a></td>
+<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>1</strong></a> – Konsekvent skadelig kode er sannsynlig</td>
+<td style="border:1px solid black;">(Ingen)</td>
 </tr>
 <tr class="odd">
-<td><a href="http://go.microsoft.com/fwlink/?linkid=191053">MS10-038</a></td>
-<td>Sikkerhetsproblem i Excel ADO-objekter</td>
-<td><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1253">CVE-2010-1253</a></td>
-<td><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>1</strong></a> – Konsekvent skadelig kode er sannsynlig</td>
-<td>(Ingen)</td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=191053">MS10-038</a></td>
+<td style="border:1px solid black;">Sikkerhetsproblem i Excel ADO-objekter</td>
+<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1253">CVE-2010-1253</a></td>
+<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>1</strong></a> – Konsekvent skadelig kode er sannsynlig</td>
+<td style="border:1px solid black;">(Ingen)</td>
 </tr>
 <tr class="even">
-<td><a href="http://go.microsoft.com/fwlink/?linkid=191053">MS10-038</a></td>
-<td>Sikkerhetsproblem med Open XML-tillatelser med Office for Mac</td>
-<td><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1254">CVE-2010-1254</a></td>
-<td><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>1</strong></a> – Konsekvent skadelig kode er sannsynlig</td>
-<td>(Ingen)</td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=191053">MS10-038</a></td>
+<td style="border:1px solid black;">Sikkerhetsproblem med Open XML-tillatelser med Office for Mac</td>
+<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1254">CVE-2010-1254</a></td>
+<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>1</strong></a> – Konsekvent skadelig kode er sannsynlig</td>
+<td style="border:1px solid black;">(Ingen)</td>
 </tr>
 <tr class="odd">
-<td><a href="http://go.microsoft.com/fwlink/?linkid=190898">MS10-035</a></td>
-<td>Sikkerhetsproblem med feil i ikke-initialisert minne</td>
-<td><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1259">CVE-2010-1259</a></td>
-<td><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>1</strong></a> – Konsekvent skadelig kode er sannsynlig</td>
-<td>(Ingen)</td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=190898">MS10-035</a></td>
+<td style="border:1px solid black;">Sikkerhetsproblem med feil i ikke-initialisert minne</td>
+<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1259">CVE-2010-1259</a></td>
+<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>1</strong></a> – Konsekvent skadelig kode er sannsynlig</td>
+<td style="border:1px solid black;">(Ingen)</td>
 </tr>
 <tr class="even">
-<td><a href="http://go.microsoft.com/fwlink/?linkid=190898">MS10-035</a></td>
-<td>Sikkerhetsproblem som kan føre til minnefeil</td>
-<td><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1262">CVE-2010-1262</a></td>
-<td><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>1</strong></a> – Konsekvent skadelig kode er sannsynlig</td>
-<td>(Ingen)</td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=190898">MS10-035</a></td>
+<td style="border:1px solid black;">Sikkerhetsproblem som kan føre til minnefeil</td>
+<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1262">CVE-2010-1262</a></td>
+<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>1</strong></a> – Konsekvent skadelig kode er sannsynlig</td>
+<td style="border:1px solid black;">(Ingen)</td>
 </tr>
 <tr class="odd">
-<td><a href="http://go.microsoft.com/fwlink/?linkid=190554">MS10-036</a></td>
-<td>Sikkerhetsproblem med COM-validering</td>
-<td><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1263">CVE-2010-1263</a></td>
-<td><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>1</strong></a> – Konsekvent skadelig kode er sannsynlig</td>
-<td>(Ingen)</td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=190554">MS10-036</a></td>
+<td style="border:1px solid black;">Sikkerhetsproblem med COM-validering</td>
+<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1263">CVE-2010-1263</a></td>
+<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>1</strong></a> – Konsekvent skadelig kode er sannsynlig</td>
+<td style="border:1px solid black;">(Ingen)</td>
 </tr>
 <tr class="even">
-<td><a href="http://go.microsoft.com/fwlink/?linkid=191065">MS10-033</a></td>
-<td>Sikkerhetsproblem med mediedekomprimering</td>
-<td><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1879">CVE-2010-1879</a></td>
-<td><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>1</strong></a> – Konsekvent skadelig kode er sannsynlig</td>
-<td>(Ingen)</td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=191065">MS10-033</a></td>
+<td style="border:1px solid black;">Sikkerhetsproblem med mediedekomprimering</td>
+<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1879">CVE-2010-1879</a></td>
+<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>1</strong></a> – Konsekvent skadelig kode er sannsynlig</td>
+<td style="border:1px solid black;">(Ingen)</td>
 </tr>
 <tr class="odd">
-<td><a href="http://go.microsoft.com/fwlink/?linkid=190898">MS10-035</a></td>
-<td>Sikkerhetsproblem som kan føre til tilgjengeliggjøring av informasjon på tvers av domener</td>
-<td><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-0255">CVE-2010-0255</a></td>
-<td><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>2</strong></a> – Inkonsekvent skadelig kode er sannsynlig</td>
-<td>Dette sikkerhetsproblemet ble rapportert for første gang i <a href="microsoft-security-advisory-980088.md">Microsofts sikkerhetsveiledning 980088</a></td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=190898">MS10-035</a></td>
+<td style="border:1px solid black;">Sikkerhetsproblem som kan føre til tilgjengeliggjøring av informasjon på tvers av domener</td>
+<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-0255">CVE-2010-0255</a></td>
+<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>2</strong></a> – Inkonsekvent skadelig kode er sannsynlig</td>
+<td style="border:1px solid black;">Dette sikkerhetsproblemet ble rapportert for første gang i <a href="microsoft-security-advisory-980088.md">Microsofts sikkerhetsveiledning 980088</a></td>
 </tr>
 <tr class="even">
-<td><a href="http://go.microsoft.com/fwlink/?linkid=184917">MS10-032</a></td>
-<td>Sikkerhetsproblem i Win32k med utilstrekkelig datavalidering</td>
-<td><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-0484">CVE-2010-0484</a></td>
-<td><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>2</strong></a> – Inkonsekvent skadelig kode er sannsynlig</td>
-<td>(Ingen)</td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=184917">MS10-032</a></td>
+<td style="border:1px solid black;">Sikkerhetsproblem i Win32k med utilstrekkelig datavalidering</td>
+<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-0484">CVE-2010-0484</a></td>
+<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>2</strong></a> – Inkonsekvent skadelig kode er sannsynlig</td>
+<td style="border:1px solid black;">(Ingen)</td>
 </tr>
 <tr class="odd">
-<td><a href="http://go.microsoft.com/fwlink/?linkid=190508">MS10-037</a></td>
-<td>Sikkerhetsproblem med driver for OpenType-skrifter i CCF-format som kan føre til minnefeil</td>
-<td><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-0819">CVE-2010-0819</a></td>
-<td><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>2</strong></a> – Inkonsekvent skadelig kode er sannsynlig</td>
-<td>(Ingen)</td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=190508">MS10-037</a></td>
+<td style="border:1px solid black;">Sikkerhetsproblem med driver for OpenType-skrifter i CCF-format som kan føre til minnefeil</td>
+<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-0819">CVE-2010-0819</a></td>
+<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>2</strong></a> – Inkonsekvent skadelig kode er sannsynlig</td>
+<td style="border:1px solid black;">(Ingen)</td>
 </tr>
 <tr class="even">
-<td><a href="http://go.microsoft.com/fwlink/?linkid=191053">MS10-038</a></td>
-<td>Sikkerhetsproblem som kan føre til minnefeil ved analyse av Excel-poster</td>
-<td><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-0821">CVE-2010-0821</a></td>
-<td><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>2</strong></a> – Inkonsekvent skadelig kode er sannsynlig</td>
-<td>(Ingen)</td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=191053">MS10-038</a></td>
+<td style="border:1px solid black;">Sikkerhetsproblem som kan føre til minnefeil ved analyse av Excel-poster</td>
+<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-0821">CVE-2010-0821</a></td>
+<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>2</strong></a> – Inkonsekvent skadelig kode er sannsynlig</td>
+<td style="border:1px solid black;">(Ingen)</td>
 </tr>
 <tr class="odd">
-<td><a href="http://go.microsoft.com/fwlink/?linkid=191053">MS10-038</a></td>
-<td>Sikkerhetsproblem i Excel som kan føre til minnefeil</td>
-<td><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-0823">CVE-2010-0823</a></td>
-<td><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>2</strong></a> – Inkonsekvent skadelig kode er sannsynlig</td>
-<td>(Ingen)</td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=191053">MS10-038</a></td>
+<td style="border:1px solid black;">Sikkerhetsproblem i Excel som kan føre til minnefeil</td>
+<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-0823">CVE-2010-0823</a></td>
+<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>2</strong></a> – Inkonsekvent skadelig kode er sannsynlig</td>
+<td style="border:1px solid black;">(Ingen)</td>
 </tr>
 <tr class="even">
-<td><a href="http://go.microsoft.com/fwlink/?linkid=191053">MS10-038</a></td>
-<td>Sikkerhetsproblem i Excel-poster som kan føre til stakkfeil</td>
-<td><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1251">CVE-2010-1251</a></td>
-<td><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>2</strong></a> – Inkonsekvent skadelig kode er sannsynlig</td>
-<td>(Ingen)</td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=191053">MS10-038</a></td>
+<td style="border:1px solid black;">Sikkerhetsproblem i Excel-poster som kan føre til stakkfeil</td>
+<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1251">CVE-2010-1251</a></td>
+<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>2</strong></a> – Inkonsekvent skadelig kode er sannsynlig</td>
+<td style="border:1px solid black;">(Ingen)</td>
 </tr>
 <tr class="odd">
-<td><a href="http://go.microsoft.com/fwlink/?linkid=191053">MS10-038</a></td>
-<td>Sikkerhetsproblem i Excel på grunn av strengvariabel</td>
-<td><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1252">CVE-2010-1252</a></td>
-<td><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>2</strong></a> – Inkonsekvent skadelig kode er sannsynlig</td>
-<td>(Ingen)</td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=191053">MS10-038</a></td>
+<td style="border:1px solid black;">Sikkerhetsproblem i Excel på grunn av strengvariabel</td>
+<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1252">CVE-2010-1252</a></td>
+<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>2</strong></a> – Inkonsekvent skadelig kode er sannsynlig</td>
+<td style="border:1px solid black;">(Ingen)</td>
 </tr>
 <tr class="even">
-<td><a href="http://go.microsoft.com/fwlink/?linkid=184917">MS10-032</a></td>
-<td>Sikkerhetsproblem i Win32k med analysering av TrueType-skrift</td>
-<td><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1255">CVE-2010-1255</a></td>
-<td><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>2</strong></a> – Inkonsekvent skadelig kode er sannsynlig</td>
-<td>(Ingen)</td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=184917">MS10-032</a></td>
+<td style="border:1px solid black;">Sikkerhetsproblem i Win32k med analysering av TrueType-skrift</td>
+<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1255">CVE-2010-1255</a></td>
+<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>2</strong></a> – Inkonsekvent skadelig kode er sannsynlig</td>
+<td style="border:1px solid black;">(Ingen)</td>
 </tr>
 <tr class="odd">
-<td><a href="http://go.microsoft.com/fwlink/?linkid=191788">MS10-040</a></td>
-<td>Sikkerhetsproblem med IIS- godkjenning som kan føre til minnefeil</td>
-<td><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1256">CVE-2010-1256</a></td>
-<td><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>2</strong></a> – Inkonsekvent skadelig kode er sannsynlig</td>
-<td>(Ingen)</td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=191788">MS10-040</a></td>
+<td style="border:1px solid black;">Sikkerhetsproblem med IIS- godkjenning som kan føre til minnefeil</td>
+<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1256">CVE-2010-1256</a></td>
+<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>2</strong></a> – Inkonsekvent skadelig kode er sannsynlig</td>
+<td style="border:1px solid black;">(Ingen)</td>
 </tr>
 <tr class="even">
-<td><a href="http://go.microsoft.com/fwlink/?linkid=191065">MS10-033</a></td>
-<td>Sikkerhetsproblem med mediedekomprimering av MJPEG</td>
-<td><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1880">CVE-2010-1880</a></td>
-<td><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>2</strong></a> – Inkonsekvent skadelig kode er sannsynlig</td>
-<td>(Ingen)</td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=191065">MS10-033</a></td>
+<td style="border:1px solid black;">Sikkerhetsproblem med mediedekomprimering av MJPEG</td>
+<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1880">CVE-2010-1880</a></td>
+<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>2</strong></a> – Inkonsekvent skadelig kode er sannsynlig</td>
+<td style="border:1px solid black;">(Ingen)</td>
 </tr>
 <tr class="odd">
-<td><a href="http://go.microsoft.com/fwlink/?linkid=185042">MS10-041</a></td>
-<td>Sikkerhetsproblem med XML-signatur som kan føre til omgåing av godkjenning ved HMAC-trunkering</td>
-<td><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-0217">CVE-2009-0217</a></td>
-<td><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>3</strong></a> – Fungerende skadelig kode er usannsynlig</td>
-<td>Dette er et sikkerhetsproblem som er kan føre til etterligningsangrep og manipulering</td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=185042">MS10-041</a></td>
+<td style="border:1px solid black;">Sikkerhetsproblem med XML-signatur som kan føre til omgåing av godkjenning ved HMAC-trunkering</td>
+<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-0217">CVE-2009-0217</a></td>
+<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>3</strong></a> – Fungerende skadelig kode er usannsynlig</td>
+<td style="border:1px solid black;">Dette er et sikkerhetsproblem som er kan føre til etterligningsangrep og manipulering</td>
 </tr>
 <tr class="even">
-<td><a href="http://go.microsoft.com/fwlink/?linkid=190898">MS10-035</a></td>
-<td>Sikkerhetsproblem med toStaticHTML som kan føre til tilgjengeliggjøring av informasjon</td>
-<td><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1257">CVE-2010-1257</a></td>
-<td><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>3</strong></a> – Fungerende skadelig kode er usannsynlig</td>
-<td>Dette sikkerhetsproblemer berører også <a href="http://go.microsoft.com/fwlink/?linkid=191905">MS10-039</a></td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=190898">MS10-035</a></td>
+<td style="border:1px solid black;">Sikkerhetsproblem med toStaticHTML som kan føre til tilgjengeliggjøring av informasjon</td>
+<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1257">CVE-2010-1257</a></td>
+<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>3</strong></a> – Fungerende skadelig kode er usannsynlig</td>
+<td style="border:1px solid black;">Dette sikkerhetsproblemer berører også <a href="http://go.microsoft.com/fwlink/?linkid=191905">MS10-039</a></td>
 </tr>
 <tr class="odd">
-<td><a href="http://go.microsoft.com/fwlink/?linkid=191905">MS10-039</a></td>
-<td>Sikkerhetsproblem med toStaticHTML som kan føre til tilgjengeliggjøring av informasjon</td>
-<td><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1257">CVE-2010-1257</a></td>
-<td><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>3</strong></a> – Fungerende skadelig kode er usannsynlig</td>
-<td>Dette sikkerhetsproblemer berører også <a href="http://go.microsoft.com/fwlink/?linkid=190898">MS10-035</a></td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=191905">MS10-039</a></td>
+<td style="border:1px solid black;">Sikkerhetsproblem med toStaticHTML som kan føre til tilgjengeliggjøring av informasjon</td>
+<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1257">CVE-2010-1257</a></td>
+<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>3</strong></a> – Fungerende skadelig kode er usannsynlig</td>
+<td style="border:1px solid black;">Dette sikkerhetsproblemer berører også <a href="http://go.microsoft.com/fwlink/?linkid=190898">MS10-035</a></td>
 </tr>
 <tr class="even">
-<td><a href="http://go.microsoft.com/fwlink/?linkid=191905">MS10-039</a></td>
-<td>Sikkerhetsproblem i hjelpen for SharePoint som kan føre til tjenestenekt</td>
-<td><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1264">CVE-2010-1264</a></td>
-<td><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>3</strong></a> – Fungerende skadelig kode er usannsynlig</td>
-<td>(Ingen)</td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=191905">MS10-039</a></td>
+<td style="border:1px solid black;">Sikkerhetsproblem i hjelpen for SharePoint som kan føre til tjenestenekt</td>
+<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1264">CVE-2010-1264</a></td>
+<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>3</strong></a> – Fungerende skadelig kode er usannsynlig</td>
+<td style="border:1px solid black;">(Ingen)</td>
 </tr>
 </tbody>
 </table>
@@ -387,7 +387,7 @@ Bruk denne tabellen til å få mer informasjon om sannsynligheten for at fungere
 
 Følgende tabeller viser bulletinene etter store programvarekategorier og alvorlighetsgrad.
 
-**Hvordan bruker jeg disse tabellene?**
+**Hvordan bruker jeg disse tabellene?**  
 
 Bruk disse tabellene til å lære om sikkerhetsoppdateringer som du kanskje må installere. Du bør gå gjennom alle oppførte programmer eller programvarekomponenter for å se om det kommer noen sikkerhetsoppdateringer som angår installasjonen din. Hvis programvare eller en komponent står oppført, finnes en hyperkobling til den tilgjengelige programvareoppdateringen, og alvorlighetsgraden av programvareoppdateringen er også oppført.
 
@@ -395,656 +395,656 @@ Bruk disse tabellene til å lære om sikkerhetsoppdateringer som du kanskje må 
 
 #### Operativsystemer og komponenter for Windows
 
-<table xmlns="http://www.w3.org/1999/xhtml">
+<table style="border:1px solid black;" class="dataTable">
   <tr class="thead">
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
+    <th style="border:1px solid black;"></th>
+    <th style="border:1px solid black;"></th>
+    <th style="border:1px solid black;"></th>
+    <th style="border:1px solid black;"></th>
+    <th style="border:1px solid black;"></th>
+    <th style="border:1px solid black;"></th>
+    <th style="border:1px solid black;"></th>
+    <th style="border:1px solid black;"></th>
   </tr>
-                <tr><th colspan="8">Microsoft Windows 2000</th></tr>
+                <tr><th colspan="8" style="border:1px solid black;">Microsoft Windows 2000</th></tr>
               
-                <tr><td>
+                <tr><td style="border:1px solid black;">
                     <strong>Bulletinidentifikator</strong>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=184917">
                       <strong>MS10-032</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=191065">
                       <strong>MS10-033</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=185159">
                       <strong>MS10-034</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=190898">
                       <strong>MS10-035</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=190508">
                       <strong>MS10-037</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=191788">
                       <strong>MS10-040</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=185042">
                       <strong>MS10-041</strong>
                     </a>
                   </td></tr>
-                <tr class="alternateRow"><td>
+                <tr class="alternateRow"><td style="border:1px solid black;">
                     <strong>Samlet alvorlighetsgrad</strong>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Viktig</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Kritisk</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Kritisk</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Kritisk</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Viktig</strong>
                     </a>
-                  </td><td>Ingen</td><td>
+                  </td><td style="border:1px solid black;">Ingen</td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Viktig</strong>
                     </a>
                   </td></tr>
-                <tr><td>Microsoft Windows 2000 Service Pack 4</td><td>
+                <tr><td style="border:1px solid black;">Microsoft Windows 2000 Service Pack 4</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=60c8579b-1540-40d8-80a0-956edadd63ce">Microsoft Windows 2000 Service Pack 4</a>
-                    <br />(Viktig)</td><td>
+                    <br />(Viktig)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=a51c53bd-f9c1-4d53-8ed2-034fd57bc75a">Quartz.dll (DirectShow) (DirectX 9)</a>
                     [1]
-                    <br />(KB975562)<br />(Kritisk)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=8417c0ac-bb6d-48f1-8237-77a4bdd8ccb2">Windows Media Format Runtime 9</a>[2]<br />(KB978695)<br />(Kritisk)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=5b5398c1-5b30-4162-95b6-948d9be103bf">Windows Media Encoder 9 x86</a><br />(KB979332)<br />(Viktig)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=1f929739-08a1-4faf-9ccf-5f1f43c5bb9e">Asycfilt.dll (COM-komponent)</a><br />(KB979482)<br />(Kritisk)</td><td>
+                    <br />(KB975562)<br />(Kritisk)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=8417c0ac-bb6d-48f1-8237-77a4bdd8ccb2">Windows Media Format Runtime 9</a>[2]<br />(KB978695)<br />(Kritisk)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=5b5398c1-5b30-4162-95b6-948d9be103bf">Windows Media Encoder 9 x86</a><br />(KB979332)<br />(Viktig)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=1f929739-08a1-4faf-9ccf-5f1f43c5bb9e">Asycfilt.dll (COM-komponent)</a><br />(KB979482)<br />(Kritisk)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=d3955983-0079-476e-a488-99713097259c">Microsoft Windows 2000 Service Pack 4</a>
-                    <br />(Kritisk)</td><td>
+                    <br />(Kritisk)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=0a6c09e5-c655-41a0-a133-78d55267a527">Internet Explorer 5.01 Service Pack 4</a>
-                    <br />(Ingen alvorlighetsgrad)[1]<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=e2f27eeb-54be-40be-a00e-72867090b8e7">Internet Explorer 6 Service Pack 1</a><br />(Kritisk)</td><td>
+                    <br />(Ingen alvorlighetsgrad)[1]<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=e2f27eeb-54be-40be-a00e-72867090b8e7">Internet Explorer 6 Service Pack 1</a><br />(Kritisk)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=5d645891-31e9-42c4-b12b-eb351473fd0c">Microsoft Windows 2000 Service Pack 4</a>
-                    <br />(Viktig)</td><td>Ikke relevant</td><td>
+                    <br />(Viktig)</td><td style="border:1px solid black;">Ikke relevant</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=5e55ee58-f00a-4237-bddc-492b63a18b96">Microsoft .NET Framework 1.1 Service Pack 1</a>
                     <br />(KB979906)<br />(Viktig)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=43810ead-1fcc-4a97-ad82-00ee42c27bad">Microsoft .NET Framework 2.0 Service Pack 2</a><br />(KB979909)<br />(Viktig)</td></tr>
               
-                <tr><th colspan="8">Windows XP</th></tr>
+                <tr><th colspan="8" style="border:1px solid black;">Windows XP</th></tr>
               
-                <tr class="alternateRow"><td>
+                <tr class="alternateRow"><td style="border:1px solid black;">
                     <strong>Bulletinidentifikator</strong>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=184917">
                       <strong>MS10-032</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=191065">
                       <strong>MS10-033</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=185159">
                       <strong>MS10-034</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=190898">
                       <strong>MS10-035</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=190508">
                       <strong>MS10-037</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=191788">
                       <strong>MS10-040</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=185042">
                       <strong>MS10-041</strong>
                     </a>
                   </td></tr>
-                <tr><td>
+                <tr><td style="border:1px solid black;">
                     <strong>Samlet alvorlighetsgrad</strong>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Viktig</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Kritisk</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Kritisk</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Kritisk</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Viktig</strong>
                     </a>
-                  </td><td>Ingen</td><td>
+                  </td><td style="border:1px solid black;">Ingen</td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Viktig</strong>
                     </a>
                   </td></tr>
-                <tr class="alternateRow"><td>Windows XP Service Pack 2 og Windows XP Service Pack 3</td><td>
+                <tr class="alternateRow"><td style="border:1px solid black;">Windows XP Service Pack 2 og Windows XP Service Pack 3</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=023a777a-3d83-4a4e-8029-da8b095b074b">Windows XP Service Pack 2 og Windows XP Service Pack 3</a>
-                    <br />(Viktig)</td><td>
+                    <br />(Viktig)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=e77d5af8-e8e0-425c-a809-4cf274e17cc5">Quartz.dll (DirectShow)</a>
-                    <br />(KB975562)<br />(Kritisk)<br /><br />Bare Windows XP Service Pack 2:<br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=bf8b9b46-ba28-4f48-9dac-6a90b7d592d3">Windows Media Format Runtime 9, Windows Media Format Runtime 9.5 og Windows Media Format Runtime 11</a><br />(KB978695)<br />(Kritisk)<br /><br />Bare Windows XP Service Pack 3:<br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=ebbccd82-c637-4c88-86ea-d39ae713c085">Windows Media Format Runtime 9, Windows Media Format Runtime 9.5 og Windows Media Format Runtime 11</a><br />(KB978695)<br />(Kritisk)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=5b5398c1-5b30-4162-95b6-948d9be103bf">Windows Media Encoder 9 x86</a><br />(KB979332)<br />(Viktig)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=55c05cb8-aa6c-460b-9aa7-084842dab280">Asycfilt.dll (COM-komponent)</a><br />(KB979482)<br />(Kritisk)</td><td>
+                    <br />(KB975562)<br />(Kritisk)<br /><br />Bare Windows XP Service Pack 2:<br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=bf8b9b46-ba28-4f48-9dac-6a90b7d592d3">Windows Media Format Runtime 9, Windows Media Format Runtime 9.5 og Windows Media Format Runtime 11</a><br />(KB978695)<br />(Kritisk)<br /><br />Bare Windows XP Service Pack 3:<br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=ebbccd82-c637-4c88-86ea-d39ae713c085">Windows Media Format Runtime 9, Windows Media Format Runtime 9.5 og Windows Media Format Runtime 11</a><br />(KB978695)<br />(Kritisk)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=5b5398c1-5b30-4162-95b6-948d9be103bf">Windows Media Encoder 9 x86</a><br />(KB979332)<br />(Viktig)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=55c05cb8-aa6c-460b-9aa7-084842dab280">Asycfilt.dll (COM-komponent)</a><br />(KB979482)<br />(Kritisk)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=8c3f2e81-c0ea-494a-a47c-4f8982effb49">Windows XP Service Pack 2 og Windows XP Service Pack 3</a>
-                    <br />(Kritisk)</td><td>
+                    <br />(Kritisk)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=bfe87761-ed9e-4fec-a393-d7fddb919db4">Internet Explorer 6</a>
-                    <br />(Kritisk)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=fc02fc7e-ee85-4377-b54c-012fa60a8c9c">Internet Explorer 7</a><br />(Kritisk)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=9cff9aba-7743-4c33-87c7-37d06ed60a21">Internet Explorer 8</a><br />(Kritisk)</td><td>
+                    <br />(Kritisk)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=fc02fc7e-ee85-4377-b54c-012fa60a8c9c">Internet Explorer 7</a><br />(Kritisk)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=9cff9aba-7743-4c33-87c7-37d06ed60a21">Internet Explorer 8</a><br />(Kritisk)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=b42a17c5-997e-4504-ba5b-bfa62166b460">Windows XP Service Pack 2 og Windows XP Service Pack 3</a>
-                    <br />(Viktig)</td><td>Ikke relevant</td><td>Bare Windows XP Media Center Edition 2005: <br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=c658c108-abd3-4c24-898d-34d490151394">Microsoft .NET Framework 1.0 Service Pack 3</a><br />(KB979904) <br />(Viktig)<br /><br />Bare Windows XP Media Center Edition 2005 og Windows XP Tablet PC Edition 2005: <br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=c658c108-abd3-4c24-898d-34d490151394">Microsoft .NET Framework 1.0 Service Pack 3</a><br />(KB979904)<br />(Viktig)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=5e55ee58-f00a-4237-bddc-492b63a18b96">Microsoft .NET Framework 1.1 Service Pack 1</a><br />(KB979906)<br />(Viktig)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=1b41e880-d774-4292-b2aa-2a66568142c9">Microsoft .NET Framework 3.5</a><br />(KB982865)<br />(Viktig)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=43810ead-1fcc-4a97-ad82-00ee42c27bad">Microsoft .NET Framework 2.0 Service Pack 2 og Microsoft .NET 3.5 Service Pack 1</a><br />(KB979909)<br />(Viktig)</td></tr>
-                <tr><td>Windows XP Professional x64 Edition Service Pack 2</td><td>
+                    <br />(Viktig)</td><td style="border:1px solid black;">Ikke relevant</td><td style="border:1px solid black;">Bare Windows XP Media Center Edition 2005: <br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=c658c108-abd3-4c24-898d-34d490151394">Microsoft .NET Framework 1.0 Service Pack 3</a><br />(KB979904) <br />(Viktig)<br /><br />Bare Windows XP Media Center Edition 2005 og Windows XP Tablet PC Edition 2005: <br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=c658c108-abd3-4c24-898d-34d490151394">Microsoft .NET Framework 1.0 Service Pack 3</a><br />(KB979904)<br />(Viktig)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=5e55ee58-f00a-4237-bddc-492b63a18b96">Microsoft .NET Framework 1.1 Service Pack 1</a><br />(KB979906)<br />(Viktig)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=1b41e880-d774-4292-b2aa-2a66568142c9">Microsoft .NET Framework 3.5</a><br />(KB982865)<br />(Viktig)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=43810ead-1fcc-4a97-ad82-00ee42c27bad">Microsoft .NET Framework 2.0 Service Pack 2 og Microsoft .NET 3.5 Service Pack 1</a><br />(KB979909)<br />(Viktig)</td></tr>
+                <tr><td style="border:1px solid black;">Windows XP Professional x64 Edition Service Pack 2</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=8e3aac9d-7747-435f-9678-f621e314e070">Windows XP Professional x64 Edition Service Pack 2</a>
-                    <br />(Viktig!)</td><td>
+                    <br />(Viktig!)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=7914fdae-9a7a-4a10-8ce7-c621eb903452">Quartz.dll (DirectShow)</a>
-                    <br />(KB975562)<br />(Kritisk)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=b56839e3-e7d3-48da-b90c-d403d8dbeed2">Windows Media Format Runtime 9.5</a><br />(KB978695)<br />(Kritisk)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=80006082-55f2-4857-9d2c-276c758b5555">Windows Media Format Runtime 9.5 x64 Edition</a>[3]<br />(KB978695)<br />(Kritisk)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=d2887448-9d3c-472f-a0bd-ab083a65eafc">Windows Media Format Runtime 11</a><br />(KB978695)<br />(Kritisk)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=94c654f0-f70f-4fbd-84de-797be20fc3b9">Windows Media Encoder 9 x86</a><br />(KB979332)<br />(Viktig)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=2b7a3cb7-151c-4184-9865-f197ef6ee8e7">Windows Media Encoder 9 x64</a><br />(KB979332)<br />(Viktig)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=c110d26e-9a1e-4e47-9ce2-4068f2733a2f">Asycfilt.dll (COM-komponent)</a><br />(KB979482)<br />(Kritisk)</td><td>
+                    <br />(KB975562)<br />(Kritisk)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=b56839e3-e7d3-48da-b90c-d403d8dbeed2">Windows Media Format Runtime 9.5</a><br />(KB978695)<br />(Kritisk)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=80006082-55f2-4857-9d2c-276c758b5555">Windows Media Format Runtime 9.5 x64 Edition</a>[3]<br />(KB978695)<br />(Kritisk)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=d2887448-9d3c-472f-a0bd-ab083a65eafc">Windows Media Format Runtime 11</a><br />(KB978695)<br />(Kritisk)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=94c654f0-f70f-4fbd-84de-797be20fc3b9">Windows Media Encoder 9 x86</a><br />(KB979332)<br />(Viktig)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=2b7a3cb7-151c-4184-9865-f197ef6ee8e7">Windows Media Encoder 9 x64</a><br />(KB979332)<br />(Viktig)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=c110d26e-9a1e-4e47-9ce2-4068f2733a2f">Asycfilt.dll (COM-komponent)</a><br />(KB979482)<br />(Kritisk)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=f3e462fb-df95-4b79-a8bc-5359c2967503">Windows XP Professional x64 Edition Service Pack 2</a>
-                    <br />(Kritisk)</td><td>
+                    <br />(Kritisk)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=7780af61-a206-49aa-a805-a49bdcbb5419">Internet Explorer 6</a>
-                    <br />(Kritisk)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=6c7cda29-161e-49b4-976a-c718c0aa11a0">Internet Explorer 7</a><br />(Kritisk)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=37cd7533-ddad-4d0d-85c0-1491308e1ff8">Internet Explorer 8</a><br />(Kritisk)</td><td>
+                    <br />(Kritisk)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=6c7cda29-161e-49b4-976a-c718c0aa11a0">Internet Explorer 7</a><br />(Kritisk)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=37cd7533-ddad-4d0d-85c0-1491308e1ff8">Internet Explorer 8</a><br />(Kritisk)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=dc835b94-3368-4c1c-8f29-40517c73540e">Windows XP Professional x64 Edition Service Pack 2</a>
-                    <br />(Viktig!)</td><td>Ikke relevant</td><td>
+                    <br />(Viktig!)</td><td style="border:1px solid black;">Ikke relevant</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=5e55ee58-f00a-4237-bddc-492b63a18b96">Microsoft .NET Framework 1.1 Service Pack 1</a>
                     <br />(KB979906)<br />(Viktig)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=1b41e880-d774-4292-b2aa-2a66568142c9">Microsoft .NET Framework 3.5</a><br />(KB982865)<br />(Viktig)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=43810ead-1fcc-4a97-ad82-00ee42c27bad">Microsoft .NET Framework 2.0 Service Pack 2 og Microsoft .NET Framework 3.5 Service Pack 1</a> (KB979909)<br />(Viktig)</td></tr>
               
-                <tr><th colspan="8">Windows Server 2003</th></tr>
+                <tr><th colspan="8" style="border:1px solid black;">Windows Server 2003</th></tr>
               
-                <tr class="alternateRow"><td>
+                <tr class="alternateRow"><td style="border:1px solid black;">
                     <strong>Bulletinidentifikator</strong>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=184917">
                       <strong>MS10-032</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=191065">
                       <strong>MS10-033</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=185159">
                       <strong>MS10-034</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=190898">
                       <strong>MS10-035</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=190508">
                       <strong>MS10-037</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=191788">
                       <strong>MS10-040</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=185042">
                       <strong>MS10-041</strong>
                     </a>
                   </td></tr>
-                <tr><td>
+                <tr><td style="border:1px solid black;">
                     <strong>Samlet alvorlighetsgrad</strong>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Viktig</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Kritisk</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Moderat</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Moderat</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Viktig</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Viktig</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Viktig</strong>
                     </a>
                   </td></tr>
-                <tr class="alternateRow"><td>Windows Server 2003 Service Pack 2</td><td>
+                <tr class="alternateRow"><td style="border:1px solid black;">Windows Server 2003 Service Pack 2</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=79a11dcd-5d88-4d83-beae-6580ef6fc2c0">Windows Server 2003 Service Pack 2</a>
-                    <br />(Viktig!)</td><td>
+                    <br />(Viktig!)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=fc15c43b-d48f-4872-8f9d-ed973170db9a">Quartz.dll (DirectShow)</a>
-                    <br />(KB975562)<br />(Kritisk)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=bb580e94-8c02-46f1-b7f6-e7d4373cb1c5">Windows Media Format Runtime 9.5</a><br />(KB978695)<br />(Kritisk)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=5b5398c1-5b30-4162-95b6-948d9be103bf">Windows Media Encoder 9 x86</a><br />(KB979332)<br />(Viktig)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=0ddf95ac-dd49-4cb1-b6f6-bd4e987b0f06">Asycfilt.dll (COM-komponent)</a><br />(KB979482)<br />(Kritisk)</td><td>
+                    <br />(KB975562)<br />(Kritisk)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=bb580e94-8c02-46f1-b7f6-e7d4373cb1c5">Windows Media Format Runtime 9.5</a><br />(KB978695)<br />(Kritisk)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=5b5398c1-5b30-4162-95b6-948d9be103bf">Windows Media Encoder 9 x86</a><br />(KB979332)<br />(Viktig)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=0ddf95ac-dd49-4cb1-b6f6-bd4e987b0f06">Asycfilt.dll (COM-komponent)</a><br />(KB979482)<br />(Kritisk)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=3c0bd349-aa77-47de-ba1d-1fcc72dcad28">Windows Server 2003 Service Pack 2</a>
-                    <br />(Moderat)</td><td>
+                    <br />(Moderat)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=bfb9acdb-2d9c-4c22-963c-8b9ce247350f">Internet Explorer 6</a>
-                    <br />(Moderat)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=f0187b69-3ed9-494c-89f1-90a35e22078c">Internet Explorer 7</a><br />(Moderat)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=ebab6101-fcf1-4842-b22d-893a20c1c10f">Internet Explorer 8</a><br />(Moderat)</td><td>
+                    <br />(Moderat)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=f0187b69-3ed9-494c-89f1-90a35e22078c">Internet Explorer 7</a><br />(Moderat)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=ebab6101-fcf1-4842-b22d-893a20c1c10f">Internet Explorer 8</a><br />(Moderat)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=ca49b5b5-db8e-4ebc-9a3c-b1ace09ac3c0">Windows Server 2003 Service Pack 2</a>
-                    <br />(Viktig!)</td><td>
+                    <br />(Viktig!)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=0761c207-5465-4f42-b61f-bd02efcef27d">Internet Information Services 6.0</a>
                     [1]
-                    <br />(Viktig)</td><td>
+                    <br />(Viktig)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=f82e1b73-7f8b-4f4c-8187-4050a11db44c">Microsoft .NET Framework 1.1 Service Pack 1</a>
                     <br />(KB979907)<br />(Viktig)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=1b41e880-d774-4292-b2aa-2a66568142c9">Microsoft .NET Framework 3.5</a><br />(KB982865)<br />(Viktig)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=43810ead-1fcc-4a97-ad82-00ee42c27bad">Microsoft .NET Framework 2.0 Service Pack 2 og Microsoft .NET Framework 3.5 Service Pack 1</a><br />(KB979909)<br />(Viktig)</td></tr>
-                <tr><td>Windows Server 2003 x64 Edition Service Pack 2</td><td>
+                <tr><td style="border:1px solid black;">Windows Server 2003 x64 Edition Service Pack 2</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=f42cc5d4-1bea-4a4a-8a08-b3eb92503588">Windows Server 2003 x64 Edition Service Pack 2</a>
-                    <br />(Viktig!)</td><td>
+                    <br />(Viktig!)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=d28ecdf7-9fd4-437e-9db7-c6b579248abe">Quartz.dll (DirectShow)</a>
-                    <br />(KB975562)<br />(Kritisk)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=41faf16f-c7a8-4ce0-b388-a65478576163">Windows Media Format Runtime 9.5</a><br />(KB978695)<br />(Kritisk)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=80006082-55f2-4857-9d2c-276c758b5555">Windows Media Format Runtime 9.5 x64 Edition</a>[3]<br />(KB978695)<br />(Kritisk)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=94c654f0-f70f-4fbd-84de-797be20fc3b9">Windows Media Encoder 9 x86</a><br />(KB979332)<br />(Viktig)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=2b7a3cb7-151c-4184-9865-f197ef6ee8e7">Windows Media Encoder 9 x64</a><br />(KB979332)<br />(Viktig)<a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=77b1d55c-b015-4863-aab0-6463b90d4bf7"><br /><br />Asycfilt.dll (COM-komponent)</a><br />(KB979482)<br />(Kritisk)</td><td>
+                    <br />(KB975562)<br />(Kritisk)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=41faf16f-c7a8-4ce0-b388-a65478576163">Windows Media Format Runtime 9.5</a><br />(KB978695)<br />(Kritisk)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=80006082-55f2-4857-9d2c-276c758b5555">Windows Media Format Runtime 9.5 x64 Edition</a>[3]<br />(KB978695)<br />(Kritisk)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=94c654f0-f70f-4fbd-84de-797be20fc3b9">Windows Media Encoder 9 x86</a><br />(KB979332)<br />(Viktig)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=2b7a3cb7-151c-4184-9865-f197ef6ee8e7">Windows Media Encoder 9 x64</a><br />(KB979332)<br />(Viktig)<a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=77b1d55c-b015-4863-aab0-6463b90d4bf7"><br /><br />Asycfilt.dll (COM-komponent)</a><br />(KB979482)<br />(Kritisk)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=4aa0ec4f-5502-4f2a-9732-975518c34444">Windows Server 2003 x64 Edition Service Pack 2</a>
-                    <br />(Moderat)</td><td>
+                    <br />(Moderat)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=81644c43-22c0-4c61-b395-3264516516a6">Internet Explorer 6</a>
-                    <br />(Moderat)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=50b8ee2e-31f8-473d-83d1-822c89c28070">Internet Explorer 7</a><br />(Moderat)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=87e13912-f861-4985-ab9d-260a5898dfd4">Internet Explorer 8</a><br />(Moderat)</td><td>
+                    <br />(Moderat)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=50b8ee2e-31f8-473d-83d1-822c89c28070">Internet Explorer 7</a><br />(Moderat)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=87e13912-f861-4985-ab9d-260a5898dfd4">Internet Explorer 8</a><br />(Moderat)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=b0794e7e-c925-4672-b7a5-4bb3f847f045">Windows Server 2003 x64 Edition Service Pack 2</a>
-                    <br />(Viktig!)</td><td>
+                    <br />(Viktig!)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=023572ff-ce5d-4428-a96b-1245db6ff312">Internet Information Services 6.0</a>
                     [1]
-                    <br />(Viktig)</td><td>
+                    <br />(Viktig)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=5e55ee58-f00a-4237-bddc-492b63a18b96">Microsoft .NET Framework 1.1 Service Pack 1</a>
                     <br />(KB979906)<br />(Viktig)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=1b41e880-d774-4292-b2aa-2a66568142c9">Microsoft .NET Framework 3.5</a><br />(KB982865)<br />(Viktig)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=43810ead-1fcc-4a97-ad82-00ee42c27bad">Microsoft .NET Framework 2.0 Service Pack 2 og Microsoft .NET Framework 3.5 Service Pack 1</a><br />(KB979909)<br />(Viktig)</td></tr>
-                <tr class="alternateRow"><td>Windows Server 2003 SP2 for Itanium-baserte systemer</td><td>
+                <tr class="alternateRow"><td style="border:1px solid black;">Windows Server 2003 SP2 for Itanium-baserte systemer</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=50efb1cf-9d89-4522-929d-f87fd98d6fe8">Windows Server 2003 med SP2 for Itanium-baserte systemer</a>
-                    <br />(Viktig!)</td><td>
+                    <br />(Viktig!)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=7f101f4c-dcc8-474c-a844-fe0c45d6697c">Quartz.dll (DirectShow)</a>
-                    <br />(KB975562)<br />(Kritisk)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=f34bc115-022b-46b0-9517-806bd0fc73c5">Asycfilt.dll (COM-komponent)</a><br />(KB979482)<br />(Kritisk)</td><td>
+                    <br />(KB975562)<br />(Kritisk)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=f34bc115-022b-46b0-9517-806bd0fc73c5">Asycfilt.dll (COM-komponent)</a><br />(KB979482)<br />(Kritisk)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=55d9d7f0-f9d9-4833-b5cc-eb87a62da6a8">Windows Server 2003 med SP2 for Itanium-baserte systemer</a>
-                    <br />(Moderat)</td><td>
+                    <br />(Moderat)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=abcdc3bb-4659-4b63-a9bd-e448f8bed90a">Internet Explorer 6</a>
-                    <br />(Moderat)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=123bf547-9005-451f-9eba-97a68037304e">Internet Explorer 7</a><br />(Moderat)</td><td>
+                    <br />(Moderat)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=123bf547-9005-451f-9eba-97a68037304e">Internet Explorer 7</a><br />(Moderat)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=6e76ebea-bde1-4352-a283-dd71c2cc51a1">Windows Server 2003 med SP2 for Itanium-baserte systemer</a>
-                    <br />(Viktig!)</td><td>
+                    <br />(Viktig!)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=f1f3e524-8ac6-4210-a3a8-4ffc58a606ea">Internet Information Services 6.0</a>
                     [1]
-                    <br />(Viktig)</td><td>
+                    <br />(Viktig)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=5e55ee58-f00a-4237-bddc-492b63a18b96">Microsoft .NET Framework 1.1 Service Pack 1</a>
                     <br />(KB979906)<br />(Viktig)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=1b41e880-d774-4292-b2aa-2a66568142c9">Microsoft .NET Framework 3.5</a><br />(KB982865)<br />(Viktig)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=43810ead-1fcc-4a97-ad82-00ee42c27bad">Microsoft .NET Framework 2.0 Service Pack 2 og Microsoft .NET Framework 3.5 Service Pack 1</a><br />(KB979909)<br />(Viktig)</td></tr>
               
-                <tr><th colspan="8">Windows Vista</th></tr>
+                <tr><th colspan="8" style="border:1px solid black;">Windows Vista</th></tr>
               
-                <tr><td>
+                <tr><td style="border:1px solid black;">
                     <strong>Bulletinidentifikator</strong>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=184917">
                       <strong>MS10-032</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=191065">
                       <strong>MS10-033</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=185159">
                       <strong>MS10-034</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=190898">
                       <strong>MS10-035</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=190508">
                       <strong>MS10-037</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=191788">
                       <strong>MS10-040</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=185042">
                       <strong>MS10-041</strong>
                     </a>
                   </td></tr>
-                <tr class="alternateRow"><td>
+                <tr class="alternateRow"><td style="border:1px solid black;">
                     <strong>Samlet alvorlighetsgrad</strong>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Viktig</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Kritisk</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Kritisk</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Kritisk</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Viktig</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Viktig</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Viktig</strong>
                     </a>
                   </td></tr>
-                <tr><td>Windows Vista Service Pack 1 og Windows Vista Service Pack 2</td><td>
+                <tr><td style="border:1px solid black;">Windows Vista Service Pack 1 og Windows Vista Service Pack 2</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=7cb64633-d2a0-4e38-be35-ec32ea655a04">Windows Vista Service Pack 1 og Windows Vista Service Pack 2</a>
-                    <br />(Viktig)</td><td>Bare Windows Vista Service Pack 1: <br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=b64107f2-990a-42df-a75a-5bf371709fd6">Quartz.dll (DirectShow)</a><br />(KB975562)<br />(Kritisk)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=75e4c9cb-a55a-4e2a-9c97-60a40353cae3">Asycfilt.dll (COM-komponent)</a><br />(KB979482)<br />(Kritisk)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=9fab91da-1528-4df9-a2dd-90e57a3c24cf">Windows Media Encoder 9 x86</a><br />(KB979332)<br />(Viktig)</td><td>
+                    <br />(Viktig)</td><td style="border:1px solid black;">Bare Windows Vista Service Pack 1: <br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=b64107f2-990a-42df-a75a-5bf371709fd6">Quartz.dll (DirectShow)</a><br />(KB975562)<br />(Kritisk)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=75e4c9cb-a55a-4e2a-9c97-60a40353cae3">Asycfilt.dll (COM-komponent)</a><br />(KB979482)<br />(Kritisk)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=9fab91da-1528-4df9-a2dd-90e57a3c24cf">Windows Media Encoder 9 x86</a><br />(KB979332)<br />(Viktig)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=2ddaa4b3-1a98-4183-94af-ebdae4e7b76a">Windows Vista Service Pack 1 og Windows Vista Service Pack 2</a>
-                    <br />(Kritisk)</td><td>
+                    <br />(Kritisk)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=661c9528-917d-4df6-a330-c89f39dc5ce4">Internet Explorer 7</a>
-                    <br />(Kritisk)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=640f9216-3e99-46b6-aac8-cd051eedad3c">Internet Explorer 8</a><br />(Kritisk)</td><td>
+                    <br />(Kritisk)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=640f9216-3e99-46b6-aac8-cd051eedad3c">Internet Explorer 8</a><br />(Kritisk)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=363b503a-2e1e-4284-a029-9695d2acfcb6">Windows Vista Service Pack 1 og Windows Vista Service Pack 2</a>
-                    <br />(Viktig)</td><td>
+                    <br />(Viktig)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=01382926-2313-4769-a0a5-262c4f9f18a1">Internet Information Services 7.0</a>
                     [1]
-                    <br />(Viktig)</td><td>
+                    <br />(Viktig)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=5e55ee58-f00a-4237-bddc-492b63a18b96">Microsoft .NET Framework 1.1 Service Pack 1</a>
                     <br />(KB979906)<br />(Viktig)<br /><br />Bare Windows Vista Service Pack 1: <br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=3ffa2aa2-96a6-4317-8a81-c0ab6d570778">Microsoft .NET Framework 2.0 Service Pack 1 og Microsoft .NET Framework 3.5</a><br />(KB979913)<br />(Viktig)<br /><br />Bare Windows Vista Service Pack 1: <br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=818acb7e-f984-4793-9418-bb01ed8cfb68">Microsoft .NET Framework 2.0 Service Pack 2 og Microsoft .NET Framework 3.5 Service Pack 1</a><br />(KB979911)<br />(Viktig)<br /><br />Bare Windows Vista Service Pack 2: <br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=14c2fa85-f73e-4b62-84ca-d5ea7439aebb">Microsoft .NET Framework 2.0 Service Pack 2 og Microsoft .NET Framework 3.5 Service Pack 1</a> (KB979910)<br />(Viktig)</td></tr>
-                <tr class="alternateRow"><td>Windows Vista x64 Edition Service Pack 1 og Windows Vista x64 Edition Service Pack 2</td><td>
+                <tr class="alternateRow"><td style="border:1px solid black;">Windows Vista x64 Edition Service Pack 1 og Windows Vista x64 Edition Service Pack 2</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=bbfc4d80-67eb-4deb-9595-cb67942a0df2">Windows Vista x64 Edition Service Pack 1 og Windows Vista x64 Edition Service Pack 2</a>
-                    <br />(Viktig)</td><td>Bare Windows Vista x64 Edition Service Pack 1: <br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=0754addb-2f04-45c9-8594-174b8b8b297c">Quartz.dll (DirectShow)</a><br />(KB975562)<br />(Kritisk)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=c9f033f6-f587-494d-b968-1316f1deed06">Asycfilt.dll (COM-komponent)</a><br />(KB979482)<br />(Kritisk)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=63bba49e-6d80-47b3-b109-fa9b2392af4f">Windows Media Encoder 9 x86</a><br />(KB979332)<br />(Viktig)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=e19aeef8-6bef-45ee-bc9f-3e4b81a58e33">Windows Media Encoder 9 x64</a><br />(KB979332)<br />(Viktig)</td><td>
+                    <br />(Viktig)</td><td style="border:1px solid black;">Bare Windows Vista x64 Edition Service Pack 1: <br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=0754addb-2f04-45c9-8594-174b8b8b297c">Quartz.dll (DirectShow)</a><br />(KB975562)<br />(Kritisk)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=c9f033f6-f587-494d-b968-1316f1deed06">Asycfilt.dll (COM-komponent)</a><br />(KB979482)<br />(Kritisk)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=63bba49e-6d80-47b3-b109-fa9b2392af4f">Windows Media Encoder 9 x86</a><br />(KB979332)<br />(Viktig)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=e19aeef8-6bef-45ee-bc9f-3e4b81a58e33">Windows Media Encoder 9 x64</a><br />(KB979332)<br />(Viktig)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=ddf55e74-dbaa-45f7-ac5b-ae3da24e0e33">Windows Vista x64 Edition Service Pack 1 og Windows Vista x64 Edition Service Pack 2</a>
-                    <br />(Kritisk)</td><td>
+                    <br />(Kritisk)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=d9f5feb0-fa1a-40c1-9971-9b8af6f0b4a5">Internet Explorer 7</a>
-                    <br />(Kritisk)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=3076d1ea-7716-4b54-8ec4-660374f14dcb">Internet Explorer 8</a><br />(Kritisk)</td><td>
+                    <br />(Kritisk)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=3076d1ea-7716-4b54-8ec4-660374f14dcb">Internet Explorer 8</a><br />(Kritisk)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=3f512b86-3a99-47f7-a90e-1ae9b291385c">Windows Vista x64 Edition Service Pack 1 og Windows Vista x64 Edition Service Pack 2</a>
-                    <br />(Viktig)</td><td>
+                    <br />(Viktig)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=7fb6f2b8-c7a6-4239-99f3-cf3aacf89b0f">Internet Information Services 7.0</a>
                     [1]
-                    <br />(Viktig)</td><td>
+                    <br />(Viktig)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=5e55ee58-f00a-4237-bddc-492b63a18b96">Microsoft .NET Framework 1.1 Service Pack 1</a>
                     <br />(KB979906)<br />(Viktig)<br /><br />Bare Windows Vista x64 Edition Service Pack 1: <br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=3ffa2aa2-96a6-4317-8a81-c0ab6d570778">Microsoft .NET Framework 2.0 Service Pack 1 og Microsoft .NET Framework 3.5</a><br />(KB979913)<br />(Viktig)<br /><br />Bare Windows Vista x64 Edition Service Pack 1: <br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=818acb7e-f984-4793-9418-bb01ed8cfb68">Microsoft .NET Framework 2.0 Service Pack 2 og Microsoft .NET Framework 3.5 Service Pack 1</a><br />(KB979911) <br />(Viktig)<br /><br />Bare Windows Vista x64 Edition Service Pack 2: <br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=14c2fa85-f73e-4b62-84ca-d5ea7439aebb">Microsoft .NET Framework 2.0 Service Pack 2 og Microsoft .NET Framework 3.5 Service Pack 1</a><br />(KB979910)<br />(Viktig)</td></tr>
               
-                <tr><th colspan="8">Windows Server 2008</th></tr>
+                <tr><th colspan="8" style="border:1px solid black;">Windows Server 2008</th></tr>
               
-                <tr><td>
+                <tr><td style="border:1px solid black;">
                     <strong>Bulletinidentifikator</strong>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=184917">
                       <strong>MS10-032</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=191065">
                       <strong>MS10-033</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=185159">
                       <strong>MS10-034</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=190898">
                       <strong>MS10-035</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=190508">
                       <strong>MS10-037</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=191788">
                       <strong>MS10-040</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=185042">
                       <strong>MS10-041</strong>
                     </a>
                   </td></tr>
-                <tr class="alternateRow"><td>
+                <tr class="alternateRow"><td style="border:1px solid black;">
                     <strong>Samlet alvorlighetsgrad</strong>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Viktig</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Kritisk</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Moderat</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Moderat</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Viktig</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Viktig</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Viktig</strong>
                     </a>
                   </td></tr>
-                <tr><td>Windows Server 2008 for 32-biters systemer og Windows Server 2008 for 32-biters systemer med Service Pack 2</td><td>
-                    <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=22d550fe-ba35-4750-a9d6-624858b67c94">Windows Server 2008 for 32-biters systemer og Windows Server 2008 for 32-biters systemer med Service Pack 2</a>*<br />(Viktig)</td><td>Bare Windows Server 2008 for 32-biters systemer: <br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=18fd814b-51f3-470b-a5bd-97be752298d9">Quartz.dll (DirectShow)</a>**<br />(KB975562)<br />(Kritisk)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=5c5e2dfc-0078-4f2a-9c2e-75e45bb7638e">Asycfilt.dll (COM-komponent)</a>*<br />(KB979482)<br />(Kritisk)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=1ce1e47f-b1c3-4480-bafd-74f8b12e2171">Windows Media Encoder 9 x86</a>**<br />(KB979332)<br />(Viktig)</td><td>
-                    <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=a06b9f42-47ac-4ff2-ac32-e4958cdb611e">Windows Server 2008 for 32-biters systemer og Windows Server 2008 for 32-biters systemer med Service Pack 2</a>**<br />(Moderat)</td><td>
-                    <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=bed14484-7fc5-455d-b996-3192467543cc">Internet Explorer 7</a>**<br />(Moderat)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=24ed08c7-a474-4458-8269-3b9de5e22385">Internet Explorer 8</a>**<br />(Moderat)</td><td>
-                    <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=e78ad607-d209-48c4-b0f3-ed4c70993174">Windows Server 2008 for 32-biters systemer og Windows Server 2008 for 32-biters systemer med Service Pack 2</a>*<br />(Viktig)</td><td>
-                    <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=84a54246-5d9e-49e2-8170-af48b43f984d">Internet Information Services 7.0</a>*[1]<br />(Viktig)</td><td>
+                <tr><td style="border:1px solid black;">Windows Server 2008 for 32-biters systemer og Windows Server 2008 for 32-biters systemer med Service Pack 2</td><td style="border:1px solid black;">
+                    <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=22d550fe-ba35-4750-a9d6-624858b67c94">Windows Server 2008 for 32-biters systemer og Windows Server 2008 for 32-biters systemer med Service Pack 2</a>*<br />(Viktig)</td><td style="border:1px solid black;">Bare Windows Server 2008 for 32-biters systemer: <br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=18fd814b-51f3-470b-a5bd-97be752298d9">Quartz.dll (DirectShow)</a>**<br />(KB975562)<br />(Kritisk)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=5c5e2dfc-0078-4f2a-9c2e-75e45bb7638e">Asycfilt.dll (COM-komponent)</a>*<br />(KB979482)<br />(Kritisk)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=1ce1e47f-b1c3-4480-bafd-74f8b12e2171">Windows Media Encoder 9 x86</a>**<br />(KB979332)<br />(Viktig)</td><td style="border:1px solid black;">
+                    <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=a06b9f42-47ac-4ff2-ac32-e4958cdb611e">Windows Server 2008 for 32-biters systemer og Windows Server 2008 for 32-biters systemer med Service Pack 2</a>**<br />(Moderat)</td><td style="border:1px solid black;">
+                    <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=bed14484-7fc5-455d-b996-3192467543cc">Internet Explorer 7</a>**<br />(Moderat)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=24ed08c7-a474-4458-8269-3b9de5e22385">Internet Explorer 8</a>**<br />(Moderat)</td><td style="border:1px solid black;">
+                    <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=e78ad607-d209-48c4-b0f3-ed4c70993174">Windows Server 2008 for 32-biters systemer og Windows Server 2008 for 32-biters systemer med Service Pack 2</a>*<br />(Viktig)</td><td style="border:1px solid black;">
+                    <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=84a54246-5d9e-49e2-8170-af48b43f984d">Internet Information Services 7.0</a>*[1]<br />(Viktig)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=5e55ee58-f00a-4237-bddc-492b63a18b96">Microsoft .NET Framework 1.1 Service Pack 1</a>**<br />(KB979906)<br />(Viktig)<br /><br />Bare Windows Server 2008 for 32-biters systemer: <br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=3ffa2aa2-96a6-4317-8a81-c0ab6d570778">Microsoft .NET Framework 2.0 Service Pack 1 og Microsoft .NET Framework 3.5</a>**<br />(KB979913)<br />(Viktig)<br /><br />Bare Windows Server 2008 for 32-biters systemer: <br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=818acb7e-f984-4793-9418-bb01ed8cfb68">Microsoft .NET Framework 2.0 Service Pack 2 og Microsoft .NET Framework 3.5 Service Pack 1</a>**<br />(KB979911)<br />(Viktig)<br /><br />Bare Windows Server 2008 for 32-biters systemer med Service Pack 2: <br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=14c2fa85-f73e-4b62-84ca-d5ea7439aebb">Microsoft .NET Framework 2.0 Service Pack 2 og Microsoft .NET Framework 3.5 Service Pack 1</a>**<br />(KB979910)<br />(Viktig)</td></tr>
-                <tr class="alternateRow"><td>Windows Server 2008 for x64-baserte systemer og Windows Server 2008 for x64-baserte systemer med Service Pack 2</td><td>
-                    <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=09025626-4116-4a31-8700-215382898ee2">Windows Server 2008 for x64-baserte systemer og Windows Server 2008 for x64-baserte systemer med Service Pack 2</a>*<br />(Viktig)</td><td>Bare Windows Server 2008 for x64-baserte systemer: <br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=4e40da51-23ee-44f0-9ea0-99bda8cca731">Quartz.dll (DirectShow)</a>**<br />(KB975562)<br />(Kritisk)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=bfc0b62c-2d79-48dd-896f-d05057c02e8c">Asycfilt.dll (COM-komponent)</a>*<br />(KB979482)<br />(Kritisk)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=93cc5ace-6382-4a2f-875b-9348b7e198a6">Windows Media Encoder 9 x86</a>**<br />(KB979332)<br />(Viktig)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=d650a7d7-5620-4bb7-a7ad-0848dd28dae3">Windows Media Encoder 9 x64</a>**<br />(KB979332)<br />(Viktig)</td><td>
-                    <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=6d0a3f7c-2617-4bc6-a4c7-cda26c6471e1">Windows Server 2008 for x64-baserte systemer og Windows Server 2008 for x64-baserte systemer med Service Pack 2</a>**<br />(Moderat)</td><td>
-                    <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=a24554e8-213b-4c24-b062-ec424d64128e">Internet Explorer 7</a>**<br />(Moderat)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=cf84469b-ce6d-45e8-8336-7b4501c6cf91">Internet Explorer 8</a>**<br />(Moderat)</td><td>
-                    <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=85f6fc5d-efd1-4351-b4c0-b9b7080e6173">Windows Server 2008 for x64-baserte systemer og Windows Server 2008 for x64-baserte systemer med Service Pack 2</a>*<br />(Viktig)</td><td>
-                    <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=38286e43-89a6-4895-8ff9-69452df38706">Internet Information Services 7.0</a>*[1]<br />(Viktig)</td><td>
+                <tr class="alternateRow"><td style="border:1px solid black;">Windows Server 2008 for x64-baserte systemer og Windows Server 2008 for x64-baserte systemer med Service Pack 2</td><td style="border:1px solid black;">
+                    <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=09025626-4116-4a31-8700-215382898ee2">Windows Server 2008 for x64-baserte systemer og Windows Server 2008 for x64-baserte systemer med Service Pack 2</a>*<br />(Viktig)</td><td style="border:1px solid black;">Bare Windows Server 2008 for x64-baserte systemer: <br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=4e40da51-23ee-44f0-9ea0-99bda8cca731">Quartz.dll (DirectShow)</a>**<br />(KB975562)<br />(Kritisk)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=bfc0b62c-2d79-48dd-896f-d05057c02e8c">Asycfilt.dll (COM-komponent)</a>*<br />(KB979482)<br />(Kritisk)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=93cc5ace-6382-4a2f-875b-9348b7e198a6">Windows Media Encoder 9 x86</a>**<br />(KB979332)<br />(Viktig)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=d650a7d7-5620-4bb7-a7ad-0848dd28dae3">Windows Media Encoder 9 x64</a>**<br />(KB979332)<br />(Viktig)</td><td style="border:1px solid black;">
+                    <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=6d0a3f7c-2617-4bc6-a4c7-cda26c6471e1">Windows Server 2008 for x64-baserte systemer og Windows Server 2008 for x64-baserte systemer med Service Pack 2</a>**<br />(Moderat)</td><td style="border:1px solid black;">
+                    <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=a24554e8-213b-4c24-b062-ec424d64128e">Internet Explorer 7</a>**<br />(Moderat)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=cf84469b-ce6d-45e8-8336-7b4501c6cf91">Internet Explorer 8</a>**<br />(Moderat)</td><td style="border:1px solid black;">
+                    <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=85f6fc5d-efd1-4351-b4c0-b9b7080e6173">Windows Server 2008 for x64-baserte systemer og Windows Server 2008 for x64-baserte systemer med Service Pack 2</a>*<br />(Viktig)</td><td style="border:1px solid black;">
+                    <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=38286e43-89a6-4895-8ff9-69452df38706">Internet Information Services 7.0</a>*[1]<br />(Viktig)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=5e55ee58-f00a-4237-bddc-492b63a18b96">Microsoft .NET Framework 1.1 Service Pack 1</a>**<br />(KB979906)<br />(Viktig)<br /><br />Bare Windows Server 2008 for x64-baserte systemer: <br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=3ffa2aa2-96a6-4317-8a81-c0ab6d570778">Microsoft .NET Framework 2.0 Service Pack 1 og Microsoft .NET Framework 3.5</a>**<br />(KB979913)<br />(Viktig)<br /><br />Bare Windows Server 2008 for x64-baserte systemer: <br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=818acb7e-f984-4793-9418-bb01ed8cfb68">Microsoft .NET Framework 2.0 Service Pack 2 og Microsoft .NET Framework 3.5 Service Pack 1</a>**<br />(KB979911)<br />(Viktig)<br /><br />Bare Windows Server 2008 for x64-baserte systemer med Service Pack 2: <br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=14c2fa85-f73e-4b62-84ca-d5ea7439aebb">Microsoft .NET Framework 2.0 Service Pack 2 og Microsoft .NET Framework 3.5 Service Pack 1</a>**<br />(KB979910)<br />(Viktig)</td></tr>
-                <tr><td>Windows Server 2008 for Itanium-baserte systemer og Windows Server 2008 for Itanium-baserte systemer med Service Pack 2</td><td>
+                <tr><td style="border:1px solid black;">Windows Server 2008 for Itanium-baserte systemer og Windows Server 2008 for Itanium-baserte systemer med Service Pack 2</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=0035cfe2-d38d-41cd-b704-ec1feda307d8">Windows Server 2008 for Itanium-baserte systemer og Windows Server 2008 for Itanium-baserte systemer med Service Pack 2</a>
-                    <br />(Viktig)</td><td>Bare Windows Server 2008 for Itanium-baserte systemer: <br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=120c68f5-4575-4e2a-912a-eed52736c403">Quartz.dll (DirectShow)</a><br />(KB975562)<br />(Kritisk)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=6e5753ab-848d-475f-917d-ba70f70b65f5">Asycfilt.dll (COM-komponent)</a><br />(KB979482)<br />(Kritisk)</td><td>
+                    <br />(Viktig)</td><td style="border:1px solid black;">Bare Windows Server 2008 for Itanium-baserte systemer: <br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=120c68f5-4575-4e2a-912a-eed52736c403">Quartz.dll (DirectShow)</a><br />(KB975562)<br />(Kritisk)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=6e5753ab-848d-475f-917d-ba70f70b65f5">Asycfilt.dll (COM-komponent)</a><br />(KB979482)<br />(Kritisk)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=38347fa6-5946-4bb5-9fea-a5b2f4e7c1f2">Windows Server 2008 for Itanium-baserte systemer og Windows Server 2008 for Itanium-baserte systemer med Service Pack 2</a>
-                    <br />(Moderat)</td><td>
+                    <br />(Moderat)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=dee5c0c0-b844-490d-8daf-6e6ec8a39e35">Internet Explorer 7</a>
-                    <br />(Moderat)</td><td>
+                    <br />(Moderat)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=c6f1aae5-e8fd-4121-89b2-b97c571e8223">Windows Server 2008 for Itanium-baserte systemer og Windows Server 2008 for Itanium-baserte systemer med Service Pack 2</a>
-                    <br />(Viktig)</td><td>
+                    <br />(Viktig)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=8ad19eba-9821-48b4-a942-4ee4f002f913">Internet Information Services 7.0</a>
                     [1]
-                    <br />(Viktig)</td><td>
+                    <br />(Viktig)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=5e55ee58-f00a-4237-bddc-492b63a18b96">Microsoft .NET Framework 1.1 Service Pack 1</a>
                     <br />(KB979906)<br />(Viktig)<br /><br />Bare Windows Server 2008 for Itanium-baserte systemer: <br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=3ffa2aa2-96a6-4317-8a81-c0ab6d570778">Microsoft .NET Framework 2.0 Service Pack 1 og Microsoft .NET Framework 3.5</a><br />(KB979913)<br />(Viktig)<br /><br />Bare Windows Server 2008 for Itanium-baserte systemer: <br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=818acb7e-f984-4793-9418-bb01ed8cfb68">Microsoft .NET Framework 2.0 Service Pack 2 og Microsoft .NET Framework 3.5 Service Pack 1</a><br />(KB979911)<br />(Viktig)<br /><br />Bare Windows Server 2008 for Itanium-baserte systemer med Service Pack 2: <br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=14c2fa85-f73e-4b62-84ca-d5ea7439aebb">Microsoft .NET Framework 2.0 Service Pack 2 og Microsoft .NET Framework 3.5 Service Pack 1</a><br />(KB979910)<br />(Viktig)</td></tr>
               
-                <tr><th colspan="8">Windows 7</th></tr>
+                <tr><th colspan="8" style="border:1px solid black;">Windows 7</th></tr>
               
-                <tr class="alternateRow"><td>
+                <tr class="alternateRow"><td style="border:1px solid black;">
                     <strong>Bulletinidentifikator</strong>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=184917">
                       <strong>MS10-032</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=191065">
                       <strong>MS10-033</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=185159">
                       <strong>MS10-034</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=190898">
                       <strong>MS10-035</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=190508">
                       <strong>MS10-037</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=191788">
                       <strong>MS10-040</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=185042">
                       <strong>MS10-041</strong>
                     </a>
                   </td></tr>
-                <tr><td>
+                <tr><td style="border:1px solid black;">
                     <strong>Samlet alvorlighetsgrad</strong>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Viktig</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Kritisk</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Kritisk</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Kritisk</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Viktig</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Viktig</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Viktig</strong>
                     </a>
                   </td></tr>
-                <tr class="alternateRow"><td>Windows 7 for 32-biters systemer</td><td>
+                <tr class="alternateRow"><td style="border:1px solid black;">Windows 7 for 32-biters systemer</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=3e0ff389-4612-4c92-bbff-bb45b5bdfc6a">Windows 7 for 32-biters systemer</a>
-                    <br />(Viktig)</td><td>
+                    <br />(Viktig)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=63567e99-087d-4804-953a-f23bdeba7772">Asycfilt.dll (COM-komponent)</a>
-                    <br />(KB979482)<br />(Kritisk)</td><td>
+                    <br />(KB979482)<br />(Kritisk)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=5bce87fe-dcbb-4638-b248-3f0755537b00">Windows 7 for 32-biters systemer</a>
-                    <br />(Kritisk)</td><td>
+                    <br />(Kritisk)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=5c835885-9375-4882-a92f-4d4cfcacc005">Internet Explorer 8</a>
-                    <br />(Kritisk)</td><td>
+                    <br />(Kritisk)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=969af8d6-f6da-4dd1-a7d7-2de54a5a8978">Windows 7 for 32-biters systemer</a>
-                    <br />(Viktig)</td><td>
+                    <br />(Viktig)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=588167cb-f62a-4fb8-8a18-ac15dc322495">Internet Information Services 7.5</a>
-                    <br />(Viktig)</td><td>
+                    <br />(Viktig)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=a49532d7-53f6-4190-aaf6-b1a818924764">Microsoft .NET Framework 3.5.1</a>
                     <br />(KB979916)<br />(Viktig)</td></tr>
-                <tr><td>Windows 7 for x64-baserte systemer</td><td>
+                <tr><td style="border:1px solid black;">Windows 7 for x64-baserte systemer</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=2b1e4aff-605a-4e94-88f9-135ce35f0646">Windows 7 for x64-baserte systemer</a>
-                    <br />(Viktig)</td><td>
+                    <br />(Viktig)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=6c261dbf-14c6-4071-8523-e8ba8059fa54">Asycfilt.dll (COM-komponent)</a>
-                    <br />(KB979482)<br />(Kritisk)</td><td>
+                    <br />(KB979482)<br />(Kritisk)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=ee68ecd0-5b8a-4c1e-bdee-bd8616558d43">Windows 7 for x64-baserte systemer</a>
-                    <br />(Kritisk)</td><td>
+                    <br />(Kritisk)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=5cfc5776-0c6b-4092-bc98-94df077c60d8">Internet Explorer 8</a>
-                    <br />(Kritisk)</td><td>
+                    <br />(Kritisk)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=b069e5b2-aa2d-452e-b687-8734b5ba0051">Windows 7 for x64-baserte systemer</a>
-                    <br />(Viktig)</td><td>
+                    <br />(Viktig)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=1c45d0c8-1629-470b-8167-c6bf66054595">Internet Information Services 7.5</a>
-                    <br />(Viktig)</td><td>
+                    <br />(Viktig)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=a49532d7-53f6-4190-aaf6-b1a818924764">Microsoft .NET Framework 3.5.1</a>
                     <br />(KB979916)<br />(Viktig)</td></tr>
               
-                <tr><th colspan="8">Windows Server 2008 R2</th></tr>
+                <tr><th colspan="8" style="border:1px solid black;">Windows Server 2008 R2</th></tr>
               
-                <tr class="alternateRow"><td>
+                <tr class="alternateRow"><td style="border:1px solid black;">
                     <strong>Bulletinidentifikator</strong>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=184917">
                       <strong>MS10-032</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=191065">
                       <strong>MS10-033</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=185159">
                       <strong>MS10-034</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=190898">
                       <strong>MS10-035</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=190508">
                       <strong>MS10-037</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=191788">
                       <strong>MS10-040</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=185042">
                       <strong>MS10-041</strong>
                     </a>
                   </td></tr>
-                <tr><td>
+                <tr><td style="border:1px solid black;">
                     <strong>Samlet alvorlighetsgrad</strong>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Viktig</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Kritisk</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Moderat</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Moderat</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Viktig</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Viktig</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Viktig</strong>
                     </a>
                   </td></tr>
-                <tr class="alternateRow"><td>Windows Server 2008 R2 for x64-baserte systemer</td><td>
-                    <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=4272277f-b2dd-4406-8bbd-bc461c9923b8">Windows Server 2008 R2 for x64-baserte systemer</a>*<br />(Viktig)</td><td>
-                    <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=1331f2bc-7479-4be7-a413-52afb488a330">Asycfilt.dll (COM-komponent)</a>*<br />(KB979482)<br />(Kritisk)</td><td>
-                    <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=901f7c89-02af-4f87-8592-dad318997d77">Windows Server 2008 R2 for x64-baserte systemer</a>**<br />(Moderat)</td><td>
-                    <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=7c4ff5ae-eadd-431e-b982-d5f179efb8c0">Internet Explorer 8</a>**<br />(Moderat)</td><td>
-                    <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=45242c7c-3752-44bf-a766-024ad7d28f53">Windows Server 2008 R2 for x64-baserte systemer</a>*<br />(Viktig)</td><td>
-                    <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=5d9b7705-6280-4d2e-94fa-3160b3ce5cfa">Internet Information Services 7.5</a>*<br />(Viktig)</td><td>
+                <tr class="alternateRow"><td style="border:1px solid black;">Windows Server 2008 R2 for x64-baserte systemer</td><td style="border:1px solid black;">
+                    <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=4272277f-b2dd-4406-8bbd-bc461c9923b8">Windows Server 2008 R2 for x64-baserte systemer</a>*<br />(Viktig)</td><td style="border:1px solid black;">
+                    <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=1331f2bc-7479-4be7-a413-52afb488a330">Asycfilt.dll (COM-komponent)</a>*<br />(KB979482)<br />(Kritisk)</td><td style="border:1px solid black;">
+                    <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=901f7c89-02af-4f87-8592-dad318997d77">Windows Server 2008 R2 for x64-baserte systemer</a>**<br />(Moderat)</td><td style="border:1px solid black;">
+                    <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=7c4ff5ae-eadd-431e-b982-d5f179efb8c0">Internet Explorer 8</a>**<br />(Moderat)</td><td style="border:1px solid black;">
+                    <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=45242c7c-3752-44bf-a766-024ad7d28f53">Windows Server 2008 R2 for x64-baserte systemer</a>*<br />(Viktig)</td><td style="border:1px solid black;">
+                    <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=5d9b7705-6280-4d2e-94fa-3160b3ce5cfa">Internet Information Services 7.5</a>*<br />(Viktig)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=a49532d7-53f6-4190-aaf6-b1a818924764">Microsoft .NET Framework 3.5.1</a>*<br />(KB979916)<br />(Viktig)</td></tr>
-                <tr><td>Windows Server 2008 R2 for Itanium-baserte systemer</td><td>
+                <tr><td style="border:1px solid black;">Windows Server 2008 R2 for Itanium-baserte systemer</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=7d636f82-e828-468c-ac36-808ff9d37c7f">Windows Server 2008 R2 for Itanium-baserte systemer</a>
-                    <br />(Viktig)</td><td>
+                    <br />(Viktig)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=7a1ee54f-3f73-4557-9071-5af236e70937">Asycfilt.dll (COM-komponent)</a>
-                    <br />(KB979482)<br />(Kritisk)</td><td>
+                    <br />(KB979482)<br />(Kritisk)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=4958b221-2776-43d7-9e1c-1e1cb318a694">Windows Server 2008 R2 for Itanium-baserte systemer</a>
-                    <br />(Moderat)</td><td>
+                    <br />(Moderat)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=52c04d85-911f-47be-852e-c9bb4934744d">Internet Explorer 8</a>
-                    <br />(Moderat)</td><td>
+                    <br />(Moderat)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=0a271fb5-da5b-4a17-9593-e56b9a843b8f">Windows Server 2008 R2 for Itanium-baserte systemer</a>
-                    <br />(Viktig)</td><td>
+                    <br />(Viktig)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=869e900a-0063-4d8b-9b7c-7d12f6be12cd">Internet Information Services 7.5</a>
-                    <br />(Viktig)</td><td>
+                    <br />(Viktig)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=a49532d7-53f6-4190-aaf6-b1a818924764">Microsoft .NET Framework 3.5.1</a>
                     <br />(KB979916)<br />(Viktig)</td></tr>
               </table>
@@ -1074,131 +1074,131 @@ Bruk disse tabellene til å lære om sikkerhetsoppdateringer som du kanskje må 
 
 #### Microsoft Office-serier og -programvare
 
-<table xmlns="http://www.w3.org/1999/xhtml">
+<table style="border:1px solid black;" class="dataTable">
   <tr class="thead">
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
+    <th style="border:1px solid black;"></th>
+    <th style="border:1px solid black;"></th>
+    <th style="border:1px solid black;"></th>
+    <th style="border:1px solid black;"></th>
   </tr>
-                <tr><th colspan="4">Microsoft Office-serier, -systemer og -komponenter</th></tr>
+                <tr><th colspan="4" style="border:1px solid black;">Microsoft Office-serier, -systemer og -komponenter</th></tr>
               
-                <tr><td>
+                <tr><td style="border:1px solid black;">
                     <strong>Bulletinidentifikator</strong>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=190554">
                       <strong>MS10-036</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=191053">
                       <strong>MS10-038</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=191905">
                       <strong>MS10-039</strong>
                     </a>
                   </td></tr>
-                <tr class="alternateRow"><td>
+                <tr class="alternateRow"><td style="border:1px solid black;">
                     <strong>Samlet alvorlighetsgrad</strong>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Viktig</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Viktig</strong>
                     </a>
-                  </td><td>Ingen</td></tr>
-                <tr><td>Microsoft Office XP Service Pack 3</td><td>Microsoft Office XP Service Pack 3[1]<br />(Viktig)</td><td>
+                  </td><td style="border:1px solid black;">Ingen</td></tr>
+                <tr><td style="border:1px solid black;">Microsoft Office XP Service Pack 3</td><td style="border:1px solid black;">Microsoft Office XP Service Pack 3[1]<br />(Viktig)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=fec14a92-79a1-4281-8ee2-659b2dfd283f">Microsoft Office Excel 2002 Service Pack 3</a>
-                    <br />(KB982299)<br />(Viktig)</td><td>Ikke relevant</td></tr>
-                <tr class="alternateRow"><td>Microsoft Office 2003 Service Pack 3</td><td>
+                    <br />(KB982299)<br />(Viktig)</td><td style="border:1px solid black;">Ikke relevant</td></tr>
+                <tr class="alternateRow"><td style="border:1px solid black;">Microsoft Office 2003 Service Pack 3</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=80fdd134-2a86-4115-aea1-841f19af92e3">Microsoft Office 2003 Service Pack 3</a>
-                    <br />(KB982311)<br />(Viktig)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=757b5d8f-ade5-4896-b152-43f76516bcf1">Microsoft Office Excel 2003 Service Pack 3</a>[2]<br />(KB982133)<br />(Viktig)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=6b6204c1-559f-45a5-8f6c-a1e216192efc">Microsoft Office PowerPoint 2003 Service Pack 3</a>[2]<br />(KB982157)<br />(Viktig)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=87bac893-81ec-4ede-aca1-a9aa48b92cd4">Microsoft Office Publisher 2003 Service Pack 3</a>[2]<br />(KB982122)<br />(Viktig)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=1595ada3-bb4f-40f6-8137-23eba918bc8a">Microsoft Office Visio 2003 Service Pack 3</a>[2]<br />(KB982126)<br />(Viktig)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=d2c40eb5-1149-4466-840c-84f406f64245">Microsoft Office Word 2003 Service Pack 3</a>[2]<br />(KB982134)<br />(Viktig)</td><td>
+                    <br />(KB982311)<br />(Viktig)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=757b5d8f-ade5-4896-b152-43f76516bcf1">Microsoft Office Excel 2003 Service Pack 3</a>[2]<br />(KB982133)<br />(Viktig)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=6b6204c1-559f-45a5-8f6c-a1e216192efc">Microsoft Office PowerPoint 2003 Service Pack 3</a>[2]<br />(KB982157)<br />(Viktig)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=87bac893-81ec-4ede-aca1-a9aa48b92cd4">Microsoft Office Publisher 2003 Service Pack 3</a>[2]<br />(KB982122)<br />(Viktig)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=1595ada3-bb4f-40f6-8137-23eba918bc8a">Microsoft Office Visio 2003 Service Pack 3</a>[2]<br />(KB982126)<br />(Viktig)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=d2c40eb5-1149-4466-840c-84f406f64245">Microsoft Office Word 2003 Service Pack 3</a>[2]<br />(KB982134)<br />(Viktig)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=757b5d8f-ade5-4896-b152-43f76516bcf1">Microsoft Office Excel 2003 Service Pack 3</a>
-                    <br />(KB982133)<br />(Viktig)</td><td>Ikke relevant</td></tr>
-                <tr><td>2007 Microsoft Office System Service Pack 1 og 2007 Microsoft Office System Service Pack 2</td><td>
+                    <br />(KB982133)<br />(Viktig)</td><td style="border:1px solid black;">Ikke relevant</td></tr>
+                <tr><td style="border:1px solid black;">2007 Microsoft Office System Service Pack 1 og 2007 Microsoft Office System Service Pack 2</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=6deb4fb0-cbfc-40df-8f62-35fa1db0e167">2007 Microsoft Office System Service Pack 1 og 2007 Microsoft Office System Service Pack 2</a>
-                    <br />(KB982312)<br />(Viktig)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=1b2599f0-1e5d-463c-b100-6c6a1b17b2ec">Microsoft Office Excel 2007 Service Pack 1 og Microsoft Office Excel 2007 Service Pack 2</a>[3]<br />(KB982308)<br />(Viktig)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=decb834d-3958-45cc-a5ae-4283adb2462a">Microsoft Office PowerPoint 2007 Service Pack 1 og Microsoft Office PowerPoint 2007 Service Pack 2</a>[3]<br />(KB982158)<br />(Viktig)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=6a74b986-1e99-4aa1-828f-757a36896f65">Microsoft Office Publisher 2007 Service Pack 1 og Microsoft Office Publisher 2007 Service Pack 2</a>[3]<br />(KB982124)<br />(Viktig)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=d5df052e-1f38-4308-bcca-296cff22729b">Microsoft Office Visio 2007 Service Pack 1 og Microsoft Office Visio 2007 Service Pack 2</a>[3]<br />(KB982127)<br />(Viktig)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=7e9708f0-8cd6-4f0b-8585-bccc54fa2755">Microsoft Office Word 2007 Service Pack 1 og Microsoft Office Word 2007 Service Pack 2</a>[3]<br />(KB982135)<br />(Viktig)</td><td>
+                    <br />(KB982312)<br />(Viktig)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=1b2599f0-1e5d-463c-b100-6c6a1b17b2ec">Microsoft Office Excel 2007 Service Pack 1 og Microsoft Office Excel 2007 Service Pack 2</a>[3]<br />(KB982308)<br />(Viktig)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=decb834d-3958-45cc-a5ae-4283adb2462a">Microsoft Office PowerPoint 2007 Service Pack 1 og Microsoft Office PowerPoint 2007 Service Pack 2</a>[3]<br />(KB982158)<br />(Viktig)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=6a74b986-1e99-4aa1-828f-757a36896f65">Microsoft Office Publisher 2007 Service Pack 1 og Microsoft Office Publisher 2007 Service Pack 2</a>[3]<br />(KB982124)<br />(Viktig)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=d5df052e-1f38-4308-bcca-296cff22729b">Microsoft Office Visio 2007 Service Pack 1 og Microsoft Office Visio 2007 Service Pack 2</a>[3]<br />(KB982127)<br />(Viktig)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=7e9708f0-8cd6-4f0b-8585-bccc54fa2755">Microsoft Office Word 2007 Service Pack 1 og Microsoft Office Word 2007 Service Pack 2</a>[3]<br />(KB982135)<br />(Viktig)</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=1b2599f0-1e5d-463c-b100-6c6a1b17b2ec">Microsoft Office Excel 2007 Service Pack 1 og Microsoft Office Excel 2007 Service Pack 2</a>
                     [1]
-                    <br />(KB982308)<br />(Viktig)</td><td>Ikke relevant</td></tr>
+                    <br />(KB982308)<br />(Viktig)</td><td style="border:1px solid black;">Ikke relevant</td></tr>
               
-                <tr><th colspan="4">Microsoft Office for Mac</th></tr>
+                <tr><th colspan="4" style="border:1px solid black;">Microsoft Office for Mac</th></tr>
               
-                <tr class="alternateRow"><td>
+                <tr class="alternateRow"><td style="border:1px solid black;">
                     <strong>Bulletinidentifikator</strong>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=190554">
                       <strong>MS10-036</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=191053">
                       <strong>MS10-038</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=191905">
                       <strong>MS10-039</strong>
                     </a>
                   </td></tr>
-                <tr><td>
+                <tr><td style="border:1px solid black;">
                     <strong>Samlet alvorlighetsgrad</strong>
-                  </td><td>Ingen</td><td>
+                  </td><td style="border:1px solid black;">Ingen</td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Viktig</strong>
                     </a>
-                  </td><td>Ingen</td></tr>
-                <tr class="alternateRow"><td>Microsoft Office 2004 for Mac</td><td>Ikke relevant</td><td>
+                  </td><td style="border:1px solid black;">Ingen</td></tr>
+                <tr class="alternateRow"><td style="border:1px solid black;">Microsoft Office 2004 for Mac</td><td style="border:1px solid black;">Ikke relevant</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=16c71ab8-9284-407a-856a-93c67995f125">Microsoft Office 2004 for Mac</a>
-                    <br />(KB2028866)<br />(Viktig)</td><td>Ikke relevant</td></tr>
-                <tr><td>Microsoft Office 2008 for Mac</td><td>Ikke relevant</td><td>
+                    <br />(KB2028866)<br />(Viktig)</td><td style="border:1px solid black;">Ikke relevant</td></tr>
+                <tr><td style="border:1px solid black;">Microsoft Office 2008 for Mac</td><td style="border:1px solid black;">Ikke relevant</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=d46255bd-6470-4106-9fe2-ea67acd3f1bd">Microsoft Office 2008 for Mac</a>
-                    <br />(KB2028864)<br />(Viktig)</td><td>Ikke relevant</td></tr>
-                <tr class="alternateRow"><td>Open XML File Format Converter for Mac</td><td>Ikke relevant</td><td>
+                    <br />(KB2028864)<br />(Viktig)</td><td style="border:1px solid black;">Ikke relevant</td></tr>
+                <tr class="alternateRow"><td style="border:1px solid black;">Open XML File Format Converter for Mac</td><td style="border:1px solid black;">Ikke relevant</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=b6ca7b05-cf97-43a2-95eb-7b5caf7c1528">Open XML File Format Converter for Mac</a>
-                    <br />(KB2078051)<br />(Viktig)</td><td>Ikke relevant</td></tr>
+                    <br />(KB2078051)<br />(Viktig)</td><td style="border:1px solid black;">Ikke relevant</td></tr>
               
-                <tr><th colspan="4">Annen Office-programvare</th></tr>
+                <tr><th colspan="4" style="border:1px solid black;">Annen Office-programvare</th></tr>
               
-                <tr><td>
+                <tr><td style="border:1px solid black;">
                     <strong>Bulletinidentifikator</strong>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=190554">
                       <strong>MS10-036</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=191053">
                       <strong>MS10-038</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=191905">
                       <strong>MS10-039</strong>
                     </a>
                   </td></tr>
-                <tr class="alternateRow"><td>
+                <tr class="alternateRow"><td style="border:1px solid black;">
                     <strong>Samlet alvorlighetsgrad</strong>
-                  </td><td>Ingen</td><td>
+                  </td><td style="border:1px solid black;">Ingen</td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Viktig</strong>
                     </a>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Viktig</strong>
                     </a>
                   </td></tr>
-                <tr><td>Microsoft Excel Viewer Service Pack 1 og Microsoft Office Excel Viewer Service Pack 2</td><td>Ikke relevant</td><td>
+                <tr><td style="border:1px solid black;">Microsoft Excel Viewer Service Pack 1 og Microsoft Office Excel Viewer Service Pack 2</td><td style="border:1px solid black;">Ikke relevant</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=033b3bf3-7826-4064-b001-11e4dce2d91a">Microsoft Office Excel Viewer Service Pack 1 og Microsoft Office Excel Viewer Service Pack 2</a>
-                    <br />(KB982333)<br />(Viktig)</td><td>Ikke relevant</td></tr>
-                <tr class="alternateRow"><td>Microsoft Office Compatibility Pack Service Pack 1 for filformater for Word, Excel og PowerPoint 2007 og Microsoft Office Compatibility Pack Service Pack 2 for filformater for Word, Excel og PowerPoint 2007</td><td>Ikke relevant</td><td>
+                    <br />(KB982333)<br />(Viktig)</td><td style="border:1px solid black;">Ikke relevant</td></tr>
+                <tr class="alternateRow"><td style="border:1px solid black;">Microsoft Office Compatibility Pack Service Pack 1 for filformater for Word, Excel og PowerPoint 2007 og Microsoft Office Compatibility Pack Service Pack 2 for filformater for Word, Excel og PowerPoint 2007</td><td style="border:1px solid black;">Ikke relevant</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=7f89a734-cda4-4abb-9a10-f6dfe560e8d0">Microsoft Office Compatibility Pack Service Pack 1 for filformater for Word, Excel og PowerPoint 2007 og Microsoft Office Compatibility Pack Service Pack 2 for filformater for Word, Excel og PowerPoint 2007</a>
-                    <br />(KB982331)<br />(Viktig)</td><td>Ikke relevant</td></tr>
-                <tr><td>Microsoft Office InfoPath 2003 Service Pack 3</td><td>Ikke relevant</td><td>Ikke relevant</td><td>
+                    <br />(KB982331)<br />(Viktig)</td><td style="border:1px solid black;">Ikke relevant</td></tr>
+                <tr><td style="border:1px solid black;">Microsoft Office InfoPath 2003 Service Pack 3</td><td style="border:1px solid black;">Ikke relevant</td><td style="border:1px solid black;">Ikke relevant</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=4f79d376-0ea2-4218-9200-3c34c83ba336">Microsoft Office InfoPath 2003 Service Pack 3</a>
                     <br />(KB980923)<br />(Viktig)</td></tr>
-                <tr class="alternateRow"><td>Microsoft Office InfoPath 2007 Service Pack 1 og Microsoft Office InfoPath 2007 Service Pack 2</td><td>Ikke relevant</td><td>Ikke relevant</td><td>
+                <tr class="alternateRow"><td style="border:1px solid black;">Microsoft Office InfoPath 2007 Service Pack 1 og Microsoft Office InfoPath 2007 Service Pack 2</td><td style="border:1px solid black;">Ikke relevant</td><td style="border:1px solid black;">Ikke relevant</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=bfa8765a-7970-4feb-996c-7c27d71c97c6">Microsoft Office InfoPath 2007 Service Pack 1 og Microsoft Office InfoPath 2007 Service Pack 2</a>
                     <br />(KB979441)<br />(Viktig)</td></tr>
-                <tr><td>Microsoft Office SharePoint Server 2007 Service Pack 1 og Microsoft Office SharePoint Server 2007 Service Pack 2</td><td>Ikke relevant</td><td>Ikke relevant</td><td>
+                <tr><td style="border:1px solid black;">Microsoft Office SharePoint Server 2007 Service Pack 1 og Microsoft Office SharePoint Server 2007 Service Pack 2</td><td style="border:1px solid black;">Ikke relevant</td><td style="border:1px solid black;">Ikke relevant</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=52a55423-f33b-4cd1-919d-806972a553df">Microsoft Office SharePoint Server 2007 Service Pack 1 (32-biters versjoner)</a>
                     [1]
                     <br />(KB979445)<br />(Viktig)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=52a55423-f33b-4cd1-919d-806972a553df">Microsoft Office SharePoint Server 2007 Service Pack 2 (32-biters versjoner)</a>[1]<br />(KB979445)<br />(Viktig)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=4d84a25b-532f-4319-9ab2-90e5b82ebd90">Microsoft Office SharePoint Server 2007 Service Pack 1 (64-biters versjoner)</a>[1]<br />(KB979445)<br />(Viktig)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=4d84a25b-532f-4319-9ab2-90e5b82ebd90">Microsoft Office SharePoint Server 2007 Service Pack 2 (64-biters versjoner)</a>[1]<br />(KB979445)<br />(Viktig)</td></tr>
@@ -1225,28 +1225,28 @@ Se også andre programvarekategorier i denne delen, **Berørt programvare og ned
 
 #### Microsoft Server-programvare
 
-<table xmlns="http://www.w3.org/1999/xhtml">
+<table style="border:1px solid black;" class="dataTable">
   <tr class="thead">
-    <th></th>
-    <th></th>
+    <th style="border:1px solid black;"></th>
+    <th style="border:1px solid black;"></th>
   </tr>
-                <tr><th colspan="2">Windows SharePoint Services</th></tr>
+                <tr><th colspan="" style="border:1px solid black;">Windows SharePoint Services</th></tr>
               
-                <tr><td>
+                <tr><td style="border:1px solid black;">
                     <strong>Bulletinidentifikator</strong>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=191905">
                       <strong>MS10-039</strong>
                     </a>
                   </td></tr>
-                <tr class="alternateRow"><td>
+                <tr class="alternateRow"><td style="border:1px solid black;">
                     <strong>Samlet alvorlighetsgrad</strong>
-                  </td><td>
+                  </td><td style="border:1px solid black;">
                     <a runat="server" href="http://go.microsoft.com/fwlink/?linkid=21140">
                       <strong>Viktig</strong>
                     </a>
                   </td></tr>
-                <tr><td>Microsoft Windows SharePoint Services 3.0 Service Pack 1 og Microsoft Windows SharePoint Services 3.0 Service Pack 2</td><td>
+                <tr><td style="border:1px solid black;">Microsoft Windows SharePoint Services 3.0 Service Pack 1 og Microsoft Windows SharePoint Services 3.0 Service Pack 2</td><td style="border:1px solid black;">
                     <a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=3841ceda-d0af-4e5e-8a1a-7dd954850783">Microsoft Windows SharePoint Services 3.0 Service Pack 1 og Microsoft Windows SharePoint Services 3.0 Service Pack 2 (32-biters versjoner)</a>
                     <br />(KB983444)<br />(Viktig)<br /><br /><a runat="server" href="http://www.microsoft.com/downloads/details.aspx?familyid=94bc76d4-78e4-4bda-8922-36c3a9d3854f">Microsoft Windows SharePoint Services 3.0 Service Pack 1 og Microsoft Windows SharePoint Services 3.0 Service Pack 2 (64-biters versjoner)</a><br />(KB983444)<br />(Viktig)</td></tr>
               </table>
