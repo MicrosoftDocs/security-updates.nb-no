@@ -20,6 +20,7 @@
   "notification_subscribers": [
     "v-yijwan@microsoft.com"
   ],
+  "sync_notification_subscribers": null,
   "branches_to_filter": [
     "live-sxs",
     "master-sxs"
@@ -32,7 +33,7 @@
     {
       "path_to_root": "_themes",
       "url": "https://github.com/Microsoft/templates.docs.msft.nb-no",
-      "branch": "master",
+      "branch": "main",
       "branch_mapping": {}
     },
     {
@@ -41,7 +42,7 @@
       "branch": "live",
       "branch_mapping": {
         "live": "live",
-        "master": "master"
+        "main": "main"
       }
     }
   ],
